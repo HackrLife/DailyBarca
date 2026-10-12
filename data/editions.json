@@ -1,1 +1,44 @@
-PLACEHOLDER_EDITIONS
+{
+  "editions": [
+    {
+      "number": 280,
+      "date": "2026-10-13",
+      "label": "Tuesday 13 Oct 2026",
+      "file": "2026-10-13.json",
+      "tweets": 12,
+      "lead": "Barça face Galatasaray tonight still without Raphinha as Flick calls the atmosphere one of the best"
+    },
+    {
+      "number": 279,
+      "date": "2026-10-12",
+      "label": "Monday 12 Oct 2026",
+      "file": "2026-10-12.json",
+      "tweets": 10,
+      "lead": "Barça travel to Istanbul for Galatasaray still without Raphinha and De Jong"
+    },
+    {
+      "number": 278,
+      "date": "2026-10-11",
+      "label": "Sunday 11 Oct 2026",
+      "file": "2026-10-11.json",
+      "tweets": 8,
+      "lead": "Gordon opens his account as Barça beat Getafe 3-0 and stay perfect"
+    },
+    {
+      "number": 277,
+      "date": "2026-10-10",
+      "label": "Saturday 10 Oct 2026",
+      "file": "2026-10-10.json",
+      "tweets": 6,
+      "lead": "Flick rules Raphinha out of Getafe and Galatasaray; Garcia and Jesus to start"
+    },
+    {
+      "number": 276,
+      "date": "2026-10-09",
+      "label": "Friday 9 Oct 2026",
+      "file": "2026-10-09.json",
+      "tweets": 11,
+      "lead": "Espart agrees to 2030; Pedro speaks at the Auditori at 11:30"
+    }
+  ]
+}
