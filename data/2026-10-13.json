@@ -1,1 +1,20 @@
-PLACEHOLDER_EDITION
+{
+  "number": 280,
+  "date": "2026-10-13",
+  "label": "Tuesday 13 Oct 2026",
+  "title": {"en": "Barça face Galatasaray tonight still without Raphinha as Flick calls the atmosphere one of the best", "es": "El Barça se mide al Galatasaray esta noche aún sin Raphinha mientras Flick califica el ambiente de uno de los mejores"},
+  "deck": {"en": "Kick-off is 21:00 at Rams Park. Hansi Flick and Pau Cubarsí spoke to the media on Monday after the squad landed in Istanbul. Raphinha, De Jong, Christensen and Bardghji remain out. Flick said he would be happy with a 1-0 win and that the side still has the hunger of the world champions.", "es": "El partido es a las 21:00 en el Rams Park. Hansi Flick y Pau Cubarsí atendieron a los medios el lunes después de que la expedición aterrizara en Estambul. Raphinha, De Jong, Christensen y Bardghji siguen fuera. Flick dijo que estaría contento con un 1-0 y que el equipo mantiene el hambre de los campeones del mundo."},
+  "defaultSources": [{"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/news/4590653/the-fc-barcelona-squad-for-the-game-against-galatasaray"}, {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261012/1004237268/rueda-prensa-flick-xxx-directo-ultima-hora-fc-barcelona.html"}],
+  "stories": [
+    {
+      "theme": "match",
+      "kicker": {"en": "Champions", "es": "Champions"},
+      "headline": {"en": "Barça play Galatasaray tonight at 21:00 with a 22-man squad and four absences", "es": "El Barça juega ante el Galatasaray esta noche a las 21:00 con 22 convocados y cuatro bajas"},
+      "summary": {"en": "Barcelona face Galatasaray at Rams Park at 21:00 on Tuesday in the second matchday of the Champions League league phase. Hansi Flick has named 22 players. Raphinha, Andreas Christensen, Frenkie de Jong and Roony Bardghji do not travel. The side won 5-1 against Feyenoord on matchday one and sit on three points. Galatasaray lost 3-1 at Sporting and have zero.", "es": "El Barcelona se enfrenta al Galatasaray en el Rams Park a las 21:00 del martes en la segunda jornada de la fase liga de la Champions. Hansi Flick ha convocado a 22 jugadores. Raphinha, Andreas Christensen, Frenkie de Jong y Roony Bardghji no viajan. El equipo ganó 5-1 al Feyenoord en la primera jornada y suma tres puntos. El Galatasaray perdió 3-1 en el Sporting y tiene cero."},
+      "body": {"en": "The club published the squad list on Monday. Goalkeepers are Joan Garcia, Dominik Livakovic and Wojciech Szczesny. Defenders include Cubarsí, Koundé, Eric Garcia, Cancelo, Balde, Espart and Gerard Martin. Midfielders are Rodri, Pedri, Fermín, Gavi, Olmo, Bernal and Fariñas. Attackers are Yamal, Gordon, Adeyemi, Jesus and Abdelkarim.\n\nBarcelona arrive with nine wins from nine official matches this season. The next league fixture after this is at Betis on 17 October. The referee is Marco Guida of Italy. The club listed international television times on Sunday. Joan Laporta leads the travelling party.", "es": "El club publicó la lista de convocados el lunes. Los porteros son Joan Garcia, Dominik Livakovic y Wojciech Szczesny. En defensa están Cubarsí, Koundé, Eric Garcia, Cancelo, Balde, Espart y Gerard Martin. Los medios son Rodri, Pedri, Fermín, Gavi, Olmo, Bernal y Fariñas. Los atacantes son Yamal, Gordon, Adeyemi, Jesus y Abdelkarim.\n\nEl Barcelona llega con nueve victorias en nueve partidos oficiales esta temporada. El siguiente partido de Liga después de este es en el Betis el 17 de octubre. El árbitro es Marco Guida de Italia. El club listó los horarios internacionales de televisión el domingo. Joan Laporta encabeza la expedición."},
+      "tweets": [{"name": "FC Barcelona", "handle": "@FCBarcelona", "id": "2109683013063762087"}, {"name": "Diario SPORT", "handle": "@sport", "id": "2109645650237227210"}],
+      "sources": [{"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/news/4590653/the-fc-barcelona-squad-for-the-game-against-galatasaray"}, {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261012/1004237634/convocados.html"}],
+      "score": {"authority": 40, "confirmation": 18, "recency": 15, "relevance": 10, "velocity": 8, "editorial": 5, "total": 96}
+    }
+  ]
+}
