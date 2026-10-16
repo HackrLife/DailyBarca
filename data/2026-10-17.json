@@ -1,0 +1,145 @@
+{
+  "number": 284,
+  "date": "2026-10-17",
+  "label": "Saturday 17 Oct 2026",
+  "title": {
+    "en": "Raphinha and De Jong named in the Betis squad as Flick manages their return",
+    "es": "Raphinha y De Jong, en la convocatoria del Betis mientras Flick gestiona su vuelta"
+  },
+  "deck": {
+    "en": "Hansi Flick confirmed both players are available for Saturday’s match at La Cartuja. De Jong received the medical all-clear. Raphinha returns after missing Getafe and Galatasaray. Hamza Abdelkarim drops to Barça Atlètic. Kick-off is at 18:30.",
+    "es": "Hansi Flick confirmó que ambos están disponibles para el partido del sábado en La Cartuja. De Jong recibió el alta médica. Raphinha vuelve tras perderse el Getafe y el Galatasaray. Hamza Abdelkarim baja al Barça Atlètic. El partido es a las 18:30."
+  },
+  "defaultSources": [
+    {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/news"},
+    {"label": "SPORT", "url": "https://www.sport.es/es/barca/"},
+    {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/"}
+  ],
+  "stories": [
+    {
+      "theme": "squad",
+      "kicker": {"en": "Squad", "es": "Convocatoria"},
+      "headline": {"en": "De Jong gets medical all-clear and joins Raphinha in the Betis squad", "es": "De Jong recibe el alta médica y se une a Raphinha en la convocatoria del Betis"},
+      "summary": {"en": "FC Barcelona issued a medical report on Friday confirming Frenkie de Jong has been given the all-clear and is available for selection against Real Betis. Raphinha is also in the travelling squad after returning to full training. Hansi Flick named both in the 23-man list for the match at La Cartuja at 18:30. Hamza Abdelkarim was left out and will play for Barça Atlètic.", "es": "El FC Barcelona emitió un comunicado médico el viernes confirmando que Frenkie de Jong ha recibido el alta y está a disposición de Hansi Flick contra el Real Betis. Raphinha también viaja tras volver al entrenamiento completo. Flick incluyó a ambos en la lista de 23 para el partido en La Cartuja a las 18:30. Hamza Abdelkarim se queda fuera y jugará con el Barça Atlètic."},
+      "body": {"en": "The club’s official channels published the medical update for De Jong on Friday afternoon. The Dutchman has not featured this season after a knee injury sustained at the World Cup. He trained with the group on Thursday and Friday. Raphinha missed the wins over Getafe and Galatasaray with a muscle issue from Brazil duty and completed full sessions this week.\n\nSPORT and Mundo Deportivo both carried the full travelling list. Goalkeepers are Joan García, Szczęsny and Livaković. Defenders include Cancelo, Balde, Cubarsí, Gerard Martín, Koundé, Eric García and Espart. Midfielders: Rodri, Bernal, Pedri, Gavi, Olmo, Fermín, De Jong, Fariñas. Forwards: Yamal, Jesus, Adeyemi, Raphinha, Gordon. Christensen and Bardghji remain the only long-term absentees.", "es": "Los canales oficiales del club publicaron la actualización médica de De Jong el viernes por la tarde. El neerlandés no ha jugado esta temporada tras una lesión de rodilla en el Mundial. Entrenó con el grupo el jueves y el viernes. Raphinha se perdió las victorias ante el Getafe y el Galatasaray por una molestia muscular con Brasil y completó sesiones completas esta semana.\n\nSPORT y Mundo Deportivo publicaron la lista completa. Porteros: Joan García, Szczęsny y Livaković. Defensas: Cancelo, Balde, Cubarsí, Gerard Martín, Koundé, Eric García y Espart. Centrocampistas: Rodri, Bernal, Pedri, Gavi, Olmo, Fermín, De Jong, Fariñas. Delanteros: Yamal, Jesus, Adeyemi, Raphinha, Gordon. Christensen y Bardghji siguen siendo las únicas bajas de larga duración."},
+      "tweets": [
+        {"name": "FC Barcelona", "handle": "@FCBarcelona", "id": "2111124781223629296"},
+        {"name": "FC Barcelona", "handle": "@FCBarcelona_es", "id": "2111124563547578626"},
+        {"name": "Diario SPORT", "handle": "@sport", "id": "2111127271041835130"}
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/news"},
+        {"label": "SPORT", "url": "https://www.sport.es/es/noticias/barca/"},
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261016/1004239487/flick-confirma-raphinha-jong-disponibles.html"}
+      ],
+      "score": {"authority": 40, "confirmation": 20, "recency": 15, "relevance": 10, "velocity": 10, "editorial": 5, "total": 100}
+    },
+    {
+      "theme": "press",
+      "kicker": {"en": "Flick", "es": "Flick"},
+      "headline": {"en": "Flick says Raphinha wants to start but will be managed step by step", "es": "Flick dice que Raphinha quiere salir de inicio pero se gestionará paso a paso"},
+      "summary": {"en": "Hansi Flick told Friday’s press conference that if you ask Raphinha he will say he is ready from the start, but the coach will take it step by step. He confirmed both Raphinha and Frenkie de Jong are available for Betis. Flick added that De Jong is a top player who gives the side another option and looks ready for some minutes. The match is the first of three in nine days.", "es": "Hansi Flick dijo en la rueda de prensa del viernes que si le preguntas a Raphinha te dirá que está listo de inicio, pero el técnico lo llevará paso a paso. Confirmó que tanto Raphinha como Frenkie de Jong están disponibles para el Betis. Flick añadió que De Jong es un jugador top que da otra opción y parece listo para algunos minutos. El partido es el primero de tres en nueve días."},
+      "body": {"en": "Samuel Marsden reported the key lines from the press conference. Flick said: “When you ask him, he will be ready from the beginning. For me, it’s step by step. Yesterday he trained; he’s doing good. We have a lot of games so we have to manage it. The good thing is that he’s available. And also Frenkie de Jong.”\n\nOn De Jong he was positive: “Everyone knows that Frenkie is a top player. I am very happy that he is back and available; it gives us another option. It seems everything is fine, even in training. I think he is ready to play some minutes.” Spanish outlets including Mundo Deportivo, La Vanguardia and Marca carried the same quotes. The squad then trained at 15:30 and flew to Sevilla.", "es": "Samuel Marsden recogió las frases clave de la rueda de prensa. Flick dijo: “Si le preguntas a él, te dirá que está listo desde el principio. Para mí es paso a paso. Ayer entrenó y lo hizo bien. Tenemos muchos partidos, así que hay que gestionarlo. Lo bueno es que está disponible. Y también Frenkie de Jong.”\n\nSobre De Jong fue positivo: “Todo el mundo sabe que Frenkie es un jugador top. Estoy muy contento de que haya vuelto y esté disponible; nos da otra opción. Parece que todo va bien, incluso en los entrenamientos. Creo que está listo para jugar algunos minutos.” Medios españoles como Mundo Deportivo, La Vanguardia y Marca publicaron las mismas citas. La plantilla entrenó a las 15:30 y voló a Sevilla."},
+      "tweets": [
+        {"name": "Samuel Marsden", "handle": "@samuelmarsden", "id": "2111057903788728495"},
+        {"name": "FC Barcelona", "handle": "@FCBarcelona_es", "id": "2111136965810954688"}
+      ],
+      "sources": [
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261016/1004239487/flick-confirma-raphinha-jong-disponibles.html"},
+        {"label": "ESPN", "url": "https://www.espn.com.sg/soccer/story/_/id/50195777/raphinha-back-real-betis-manage-minutes-psg-real-madrid"},
+        {"label": "La Vanguardia", "url": "https://www.lavanguardia.com/deportes/futbol/20261016/11660764/flick-confirma-regreso-raphinha-jong-betis-no-se-alinea-mourinho-calendario.html"}
+      ],
+      "score": {"authority": 38, "confirmation": 20, "recency": 15, "relevance": 10, "velocity": 8, "editorial": 5, "total": 96}
+    },
+    {
+      "theme": "youth",
+      "kicker": {"en": "Hamza", "es": "Hamza"},
+      "headline": {"en": "Hamza Abdelkarim left out of Betis squad and plays for Barça Atlètic", "es": "Hamza Abdelkarim se queda fuera de la convocatoria del Betis y juega con el Barça Atlètic"},
+      "summary": {"en": "Hamza Abdelkarim did not train with the first team on Friday afternoon and was omitted from the 23-man squad for Betis. SPORT and Mundo Deportivo reported he will play for Juliano Belletti’s Barça Atlètic against Utebo at the Estadi Johan Cruyff at 17:00. The 18-year-old has played only 12 minutes in ten first-team matches. The club wants him to get competitive minutes.", "es": "Hamza Abdelkarim no entrenó con el primer equipo el viernes por la tarde y se quedó fuera de la lista de 23 para el Betis. SPORT y Mundo Deportivo informaron de que jugará con el Barça Atlètic de Juliano Belletti ante el Utebo en el Estadi Johan Cruyff a las 17:00. El de 18 años solo ha jugado 12 minutos en diez partidos del primer equipo. El club quiere que acumule minutos de competición."},
+      "body": {"en": "SPORT’s German Bona wrote that an internal debate over Hamza’s limited minutes has been resolved for this weekend. He trained with the reserves in the morning. With Raphinha and De Jong returning, Flick had to leave one player out of the matchday list. Brian Fariñas travels instead.\n\nBarça Atlètic sit top of their Segunda Federación group and are chasing a fifth straight win. Hamza has never played an official match for the B team; he moved straight from Juvenil A. Spanish outlets noted the decision is not permanent and he can return for Copa del Rey rounds or when first-team opportunities open again.", "es": "German Bona de SPORT escribió que el debate interno sobre los pocos minutos de Hamza se ha resuelto este fin de semana. Entrenó con el filial por la mañana. Con el regreso de Raphinha y De Jong, Flick tenía que dejar fuera a un jugador de la lista. Brian Fariñas viaja en su lugar.\n\nEl Barça Atlètic es líder de su grupo de Segunda Federación y busca la quinta victoria seguida. Hamza nunca ha jugado un partido oficial con el filial; pasó directo del Juvenil A. Los medios españoles señalaron que la decisión no es definitiva y puede volver para las primeras rondas de Copa o cuando se abran oportunidades en el primer equipo."},
+      "tweets": [
+        {"name": "Diario SPORT", "handle": "@sport", "id": "2111107963859472445"},
+        {"name": "Mundo Deportivo", "handle": "@mundodeportivo", "id": "2111101688111415749"}
+      ],
+      "sources": [
+        {"label": "SPORT", "url": "https://www.sport.es/es/noticias/barca/hamza-gran-ausencia-entrenamiento-sera-135421794"},
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/20261016/1004239458/barca-b-previa-vs-utebo.html"}
+      ],
+      "score": {"authority": 36, "confirmation": 18, "recency": 15, "relevance": 8, "velocity": 6, "editorial": 4, "total": 87}
+    },
+    {
+      "theme": "preview",
+      "kicker": {"en": "Matchday", "es": "Jornada"},
+      "headline": {"en": "Barça travel to third-placed Betis at La Cartuja for 18:30 kick-off", "es": "El Barça viaja al Betis, tercero, en La Cartuja con inicio a las 18:30"},
+      "summary": {"en": "Barcelona face Real Betis at Estadio de La Cartuja on Saturday at 18:30 in matchday 9. Betis are third on 19 points after their best-ever start to a season and a 3-2 Champions League win over Porto. Barça lead on 24 points from eight wins. The match is live on DAZN LaLiga and LaLiga TV Bar in Spain. PSG follows on Tuesday.", "es": "El Barcelona visita al Real Betis en el Estadio de La Cartuja el sábado a las 18:30 en la jornada 9. El Betis es tercero con 19 puntos tras su mejor inicio histórico y una victoria 3-2 ante el Porto en Champions. El Barça lidera con 24 puntos de ocho victorias. El partido se ve en DAZN LaLiga y LaLiga TV Bar en España. El PSG llega el martes."},
+      "body": {"en": "Official club channels highlighted Betis’ record start before the trip. Manuel Pellegrini’s side have won all their home league games and sit level on points with Atlético Madrid. Barcelona’s perfect record continues after the 3-0 over Getafe and 4-1 at Galatasaray. The squad flew to Sevilla after Friday’s late session.\n\nThe next nine days bring Betis, PSG on 20 October and the Clásico against Real Madrid on 25 October at Spotify Camp Nou. Vinícius Júnior is banned for that match. Spanish papers noted the difficulty of the week and Flick’s insistence that the focus stays on Saturday’s game.", "es": "Los canales oficiales del club destacaron el inicio récord del Betis antes del viaje. El equipo de Manuel Pellegrini ha ganado todos sus partidos de Liga en casa y está igualado a puntos con el Atlético de Madrid. El récord perfecto del Barcelona sigue tras el 3-0 al Getafe y el 4-1 en el Galatasaray. La plantilla voló a Sevilla después de la sesión tardía del viernes.\n\nLos próximos nueve días traen el Betis, el PSG el 20 de octubre y el Clásico ante el Real Madrid el 25 de octubre en el Spotify Camp Nou. Vinícius Júnior está sancionado para ese partido. Los periódicos españoles señalaron la dureza de la semana y la insistencia de Flick en que el foco esté en el partido del sábado."},
+      "tweets": [
+        {"name": "FC Barcelona", "handle": "@FCBarcelona", "id": "2111094822480257395"}
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news/4592741/fc-barcelona-travel-to-play-betis-side-with-best-ever-start"},
+        {"label": "SPORT", "url": "https://www.sport.es/es/noticias/barca/real-betis-fc-barcelona-hora-135385379"},
+        {"label": "The Athletic", "url": "https://www.nytimes.com/athletic/football/team/fc-barcelona/"}
+      ],
+      "score": {"authority": 38, "confirmation": 18, "recency": 14, "relevance": 9, "velocity": 5, "editorial": 4, "total": 88}
+    },
+    {
+      "theme": "press",
+      "kicker": {"en": "Flick", "es": "Flick"},
+      "headline": {"en": "Flick has full confidence in the squad and warns of Betis attack", "es": "Flick tiene plena confianza en la plantilla y avisa del ataque del Betis"},
+      "summary": {"en": "Hansi Flick said he has 100% confidence in his players and that everyone is focused, though there is still room to improve. He described Betis as a fantastic side, especially in attack and one-on-ones, and said Barça must defend well. He also spoke about managing Lamine Yamal’s minutes without interrupting the enjoyment the teenager is currently showing.", "es": "Hansi Flick dijo que tiene un 100% de confianza en sus jugadores y que todos están concentrados, aunque aún hay margen de mejora. Describió al Betis como un equipo fantástico, especialmente en ataque y en el uno contra uno, y dijo que el Barça debe defender bien. También habló de gestionar los minutos de Lamine Yamal sin interrumpir el disfrute que el joven está mostrando."},
+      "body": {"en": "Official club posts carried Flick’s lines on confidence after the press conference. He told the squad there are no excuses for the calendar. On Betis he was clear: they have confidence from winning every home game and good Champions League results. “We play against a fantastic team, especially in attack and one-on-one. Tomorrow we will have to defend very well.”\n\nOn Yamal, Flick said it is not an easy question because he is a special player. He knows the minutes need managing, but the most important thing is that Yamal enjoys playing and he does not want to interrupt that. Spanish outlets including El Nacional and Libertad Digital reported the full set of answers.", "es": "Las publicaciones oficiales del club recogieron las frases de Flick sobre la confianza tras la rueda de prensa. Le dijo a la plantilla que no hay excusas por el calendario. Sobre el Betis fue claro: tienen confianza porque han ganado todos los partidos en casa y buenos resultados en Champions. “Jugamos contra un equipo fantástico, especialmente en ataque y en el uno contra uno. Mañana tendremos que defender muy bien.”\n\nSobre Yamal, Flick dijo que no es una pregunta fácil porque es un jugador especial. Sabe que hay que gestionar los minutos, pero lo más importante es que Yamal disfrute jugando y no quiere interrumpir eso. Medios españoles como El Nacional y Libertad Digital publicaron el conjunto completo de respuestas."},
+      "tweets": [
+        {"name": "FC Barcelona", "handle": "@FCBarcelona", "id": "2111089128322343383"}
+      ],
+      "sources": [
+        {"label": "El Nacional", "url": "https://www.elnacional.cat/es/deportes/flick-confirma-regreso-mas-esperado-raphinha-estara-disponible-contra-betis_1710691_102.html"},
+        {"label": "Libertad Digital", "url": "https://www.libertaddigital.com/deportes/liga/2026-10-16/raphinha-y-de-jong-regresan-ante-el-betis-7477309/"}
+      ],
+      "score": {"authority": 36, "confirmation": 16, "recency": 14, "relevance": 8, "velocity": 6, "editorial": 4, "total": 84}
+    },
+    {
+      "theme": "standings",
+      "kicker": {"en": "La Liga", "es": "La Liga"},
+      "headline": {"en": "Barça top on 24 points with eight straight wins before the Betis trip", "es": "El Barça líder con 24 puntos y ocho victorias seguidas antes del viaje al Betis"},
+      "summary": {"en": "Barcelona sit first in La Liga with 24 points from eight wins and a +27 goal difference. Real Betis are third on 19 points. Atlético Madrid are second on 19. Real Madrid have 18 and will be without Vinícius Júnior for the Clásico after his four-match ban. Barça have scored 43 goals in ten matches across all competitions.", "es": "El Barcelona es primero de LaLiga con 24 puntos de ocho victorias y un balance de +27. El Real Betis es tercero con 19 puntos. El Atlético de Madrid es segundo con 19. El Real Madrid suma 18 y estará sin Vinícius Júnior en el Clásico tras su sanción de cuatro partidos. El Barça ha marcado 43 goles en diez partidos en todas las competiciones."},
+      "body": {"en": "The perfect start continued after the international break with the 3-0 win over Getafe and the 4-1 victory at Galatasaray. The next three fixtures will test whether the run can be extended: Betis on Saturday, PSG on Tuesday and Real Madrid on 25 October. Official standings confirm the position at the top.\n\nVinícius Júnior’s ban covers the Clásico. Madrid have indicated they will appeal. Barcelona’s next home league game is that Clásico at Spotify Camp Nou. The Athletic and LaLiga listings carried the updated table on Friday.", "es": "El inicio perfecto continuó tras el parón internacional con el 3-0 al Getafe y el 4-1 en el Galatasaray. Los próximos tres partidos pondrán a prueba si la racha puede alargarse: Betis el sábado, PSG el martes y Real Madrid el 25 de octubre. La clasificación oficial confirma la posición en lo alto.\n\nLa sanción de Vinícius Júnior cubre el Clásico. El Madrid ha indicado que apelará. El siguiente partido de Liga en casa del Barcelona es ese Clásico en el Spotify Camp Nou. The Athletic y las listas de LaLiga publicaron la tabla actualizada el viernes."},
+      "tweets": [],
+      "sources": [
+        {"label": "The Athletic", "url": "https://www.nytimes.com/athletic/football/team/fc-barcelona/"},
+        {"label": "LaLiga", "url": "https://www.laliga.com/"}
+      ],
+      "score": {"authority": 34, "confirmation": 16, "recency": 12, "relevance": 8, "velocity": 4, "editorial": 3, "total": 77}
+    },
+    {
+      "theme": "return",
+      "kicker": {"en": "Raphinha", "es": "Raphinha"},
+      "headline": {"en": "Raphinha returns to the squad after missing two matches with thigh issue", "es": "Raphinha vuelve a la convocatoria tras perderse dos partidos por molestia en el muslo"},
+      "summary": {"en": "Raphinha is named in the Betis squad after completing full group training on Thursday and Friday. He missed the Getafe and Galatasaray matches with swelling in the back of his right thigh sustained on Brazil duty. Flick said the Brazilian wants to start but minutes will be managed ahead of PSG on Tuesday. He has 14 official goals this season.", "es": "Raphinha está en la convocatoria del Betis tras completar el entrenamiento completo con el grupo el jueves y el viernes. Se perdió los partidos ante el Getafe y el Galatasaray por un edema en la parte posterior del muslo derecho sufrido con Brasil. Flick dijo que el brasileño quiere salir de inicio pero se gestionarán los minutos de cara al PSG del martes. Lleva 14 goles oficiales esta temporada."},
+      "body": {"en": "The Brazilian returned from the international break with a muscle issue and was kept out of the two previous matches. He did individual work earlier in the week before rejoining the full group. Official club posts on Friday showed him back with the squad under the line “Vuelve O Rei Raphinha”.\n\nFlick’s plan, according to Spanish reports, is to give him controlled minutes on Saturday so he is ready for the Champions League trip to Paris. Multiple outlets including ESPN and Mundo Deportivo carried the same timeline. The club and medical staff have stressed they will not force the recovery.", "es": "El brasileño volvió del parón internacional con una molestia muscular y se quedó fuera de los dos partidos anteriores. Hizo trabajo individual a principios de semana antes de reincorporarse al grupo completo. Las publicaciones oficiales del club el viernes lo mostraron de vuelta con la plantilla bajo la línea “Vuelve O Rei Raphinha”.\n\nEl plan de Flick, según informes españoles, es darle minutos controlados el sábado para que esté listo para el viaje de Champions a París. Varios medios, entre ellos ESPN y Mundo Deportivo, publicaron el mismo calendario. El club y los servicios médicos han insistido en que no forzarán la recuperación."},
+      "tweets": [
+        {"name": "FC Barcelona", "handle": "@FCBarcelona_es", "id": "2111136965810954688"}
+      ],
+      "sources": [
+        {"label": "ESPN", "url": "https://www.espn.com.sg/soccer/story/_/id/50195777/raphinha-back-real-betis-manage-minutes-psg-real-madrid"},
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261016/1004239487/flick-confirma-raphinha-jong-disponibles.html"}
+      ],
+      "score": {"authority": 38, "confirmation": 18, "recency": 15, "relevance": 10, "velocity": 7, "editorial": 4, "total": 92}
+    },
+    {
+      "theme": "return",
+      "kicker": {"en": "De Jong", "es": "De Jong"},
+      "headline": {"en": "De Jong available for Betis after more than three months out", "es": "De Jong disponible para el Betis tras más de tres meses de baja"},
+      "summary": {"en": "Frenkie de Jong received the medical all-clear on Friday and is available for the Betis match. He has not played since the World Cup after a right-knee ligament injury. Flick said he is ready for some minutes and gives the side another option in midfield. He trained without issues with the full group this week and did not travel to Istanbul.", "es": "Frenkie de Jong recibió el alta médica el viernes y está disponible para el partido ante el Betis. No ha jugado desde el Mundial tras una lesión en el ligamento de la rodilla derecha. Flick dijo que está listo para algunos minutos y da otra opción en el centro del campo. Entrenó sin problemas con el grupo completo esta semana y no viajó a Estambul."},
+      "body": {"en": "The official medical report confirmed the all-clear on Friday afternoon. De Jong has been building fitness after conservative treatment for the knee injury. He joined recovery sessions and then full group work. Spanish reports said his first available window after the Champions League trip was this Betis match.\n\nFlick noted that the Dutchman looks focused and of high quality in training. The side list only Christensen and Bardghji as fully unavailable once De Jong and Raphinha are assessed. The next league game after Betis is the Clásico on 25 October. Multiple outlets carried the medical update and Flick’s comments on the same day.", "es": "El comunicado médico oficial confirmó el alta el viernes por la tarde. De Jong ha ido recuperando forma tras el tratamiento conservador de la lesión de rodilla. Se unió a sesiones de recuperación y luego al trabajo con el grupo. Los informes españoles dijeron que la primera ventana disponible tras el viaje de Champions era este partido ante el Betis.\n\nFlick señaló que el neerlandés se ve concentrado y de gran calidad en los entrenamientos. La plantilla solo tiene a Christensen y Bardghji como bajas totales una vez valorados De Jong y Raphinha. El siguiente partido de Liga tras el Betis es el Clásico del 25 de octubre. Varios medios publicaron la actualización médica y los comentarios de Flick el mismo día."},
+      "tweets": [
+        {"name": "FC Barcelona", "handle": "@FCBarcelona", "id": "2111124781223629296"}
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/news"},
+        {"label": "Marca", "url": "https://www.marca.com/futbol/barcelona/2026/10/16/lista-convocados-barcelona-vuelven-raphinha-jong.html"}
+      ],
+      "score": {"authority": 40, "confirmation": 18, "recency": 15, "relevance": 10, "velocity": 8, "editorial": 4, "total": 95}
+    }
+  ]
+}
