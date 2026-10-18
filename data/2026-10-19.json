@@ -1,1 +1,103 @@
-PLACEHOLDER_EDITION
+{
+  "date": "2026-10-19",
+  "cards": [
+    {
+      "headline": "Eric García out for three to four weeks, Koundé misses PSG",
+      "summary": "Barcelona confirmed on Sunday that Eric García has a muscle injury to the rectus femoris in his right thigh and will be out for three to four weeks. Jules Koundé has a left ankle sprain and will miss Tuesday’s Champions League match against Paris Saint-Germain. His availability for the Clásico on 25 October depends on recovery. Both picked up the problems in the 5-2 win at Betis.",
+      "body": "García came on at half-time for Gerard Martín at La Cartuja and scored to make it 2-4 before leaving the pitch in the final minutes. Tests on Sunday morning at the Ciutat Esportiva showed the thigh strain. He will also miss the Clásico, the Alavés game, Aston Villa and Atlético Madrid. Koundé started at right-back, finished the match with discomfort and arrived back limping. The club said the progression of the ankle sprain will decide whether he is available for Real Madrid at Spotify Camp Nou. Gerard Martín, substituted at the break as a precaution, is touched but expected to travel to Paris. Andreas Christensen remains out with a thigh strain. The double blow leaves Flick with limited options at the back for the trip to the Parc des Princes. Cubarsí is the only fully fit centre-back among the regulars. Cancelo and Espart can cover the full-back spots. Rodri has played as a centre-back earlier in his career and is the obvious emergency option if Martín does not recover in time. The squad returned to Barcelona on Sunday after weather forced them to spend Saturday night in Seville.",
+      "sources": [
+        {"name": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/news/4594024/medical-updates-on-eric-and-kounde"},
+        {"name": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261018/1004240207/pruebas-eric-kounde-gerard-martin.html"},
+        {"name": "The Athletic", "url": "https://www.nytimes.com/athletic/7701614/2026/10/18/barcelona-garcia-kounde-injury-news-psg/"}
+      ],
+      "tweets": [
+        {"id": "2111847369532654053", "handle": "FCBarcelona"},
+        {"id": "2111846837196091566", "handle": "mundodeportivo"}
+      ]
+    },
+    {
+      "headline": "Barça Femení lose 2-1 at Real Sociedad, first defeat in 350 days",
+      "summary": "Real Sociedad came from behind to beat Barça 2-1 in Liga F at Zubieta on Sunday. Patri Guijarro scored inside the first minute, but Cecilia Marcos equalised and Ainhoa Marín completed the turnaround before half-time. The result ends a 45-game unbeaten run and is Barça’s first defeat since a 1-0 loss to the same side last November. They remain top of the table with 18 points.",
+      "body": "Pere Romeu’s side started the game as they have most of the season, with Guijarro finishing a loose clearance after barely a minute. Real Sociedad, who had won only once in the league before Sunday, responded quickly. Cecilia Marcos levelled in the 13th minute and Ainhoa Marín scored in first-half stoppage time. The Basque side defended with discipline after the break and limited clear chances. A penalty awarded for a foul on Brugts in the 80th minute was overturned after a VAR review, a decision that drew strong reaction from the Barça bench and players. Cata Coll was in goal, with Irene Paredes and Martina Fernández at the back. Aitana Bonmatí and Guijarro started in midfield. Ewa Pajor led the line. The defeat is the first of the campaign for a side that swept the Champions League, Liga F, Copa de la Reina and Super Cup last season. Real Sociedad climbed out of the relegation zone. Barça next face a midweek Champions League fixture before returning to Liga F. Romeu had spoken before the game about keeping a short memory after the 7-0 win over Real Madrid.",
+      "sources": [
+        {"name": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/real-sociedad/20261018/1004240178/real-carga-superbarca-vuelve-perder-zubieta-ano-2-1.html"},
+        {"name": "Reuters", "url": "https://www.reuters.com/sports/soccer/barcelona-women-suffer-first-defeat-350-days-2026-10-18/"},
+        {"name": "SPORT", "url": "https://www.sport.es/es/noticias/barca/futbol-femenino/barca-cae-gran-real-sociedad-135468630"}
+      ],
+      "tweets": [
+        {"id": "2111788330283069499", "handle": "mundodeportivo"},
+        {"id": "2111790109041574270", "handle": "sport"}
+      ]
+    },
+    {
+      "headline": "Flick left with thin options at the back for PSG",
+      "summary": "With Eric García and Koundé ruled out and Gerard Martín only partially fit, Hansi Flick has limited choices for the Champions League trip to Paris on Tuesday. Pau Cubarsí is the sole fully available centre-back. Cancelo and Xavi Espart are expected to share the full-back roles. Rodri is the emergency option in central defence if needed. Balde has played limited minutes this season.",
+      "body": "Mundo Deportivo reported on Sunday that Cancelo and Espart will cover the wide areas because Balde is not in Flick’s plans for regular minutes. Martín, who was replaced at half-time against Betis, is available but not at 100 percent. If he cannot start, Rodri could drop into the back line, a role he has filled before. Christensen is still out. The rest of the squad is largely available. Raphinha and De Jong both returned at Betis and are expected to be involved in Paris. Joan García is first choice in goal. The match at the Parc des Princes is the third group-stage fixture. PSG are without Nuno Mendes. Flick’s side travel on Monday after the delayed return from Seville. The German has managed the minutes of returning players carefully. The Clásico follows five days later, so any further knocks in Paris would complicate the Real Madrid fixture. Cubarsí has been one of the more consistent performers this season and will be central to whatever back four Flick picks. The club has not named the travelling squad yet.",
+      "sources": [
+        {"name": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261018/1004240266/escasas-opciones-flick-defensa-paris-cartucho-rodri-tres-bajas.html"},
+        {"name": "El Nacional", "url": "https://www.elnacional.cat/ca/esports/flick-haura-buscar-solucions-defensa-barca-sense-efectius-abans-psg_1711312_102.html"}
+      ],
+      "tweets": [
+        {"id": "2111867054970019957", "handle": "mundodeportivo"},
+        {"id": "2111853331526386083", "handle": "mundodeportivo"}
+      ]
+    },
+    {
+      "headline": "Yamal stars as Barça equal best La Liga start with 5-2 at Betis",
+      "summary": "Lamine Yamal scored and assisted in a 5-2 win at Real Betis on Saturday that made it nine wins from nine in La Liga. Rodri, Gabriel Jesus, Eric García and Dani Olmo also scored. Facundo Bernal was sent off for Betis. Flick said after the game that Yamal is the best player in the world at the moment and told him he was proud when he substituted him.",
+      "body": "The goal from Yamal in the 10th minute was the standout moment. He turned away from Bernal on the edge of the box and curled into the top corner from a low expected-goals position. Barça went behind briefly when Valentín Gómez headed in before Rodri restored the lead with a header from a Fermín corner. Jesus added a third after the break. García made it 4-2 and Olmo finished the scoring with a strike from outside the box. Raphinha came off the bench for his first appearance since the Brazil duty thigh problem and drew level with Neymar on 186 Barça games. Flick took Yamal off with the game won to protect him from a further booking that could have ruled him out of the Clásico. The win extended the all-competitions winning run to 11 and equalled the club’s best start to a league season, matching Real Madrid’s nine wins from nine in 1968/69. Barça sit five points clear at the top. The match was played at La Cartuja after the usual Betis home was unavailable.",
+      "sources": [
+        {"name": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news/4593638/betis-2-5-fc-barcelona-the-dream-start-continues"},
+        {"name": "The Athletic", "url": "https://www.nytimes.com/athletic/football/team/fc-barcelona/"}
+      ],
+      "tweets": [
+        {"id": "2111702343108718746", "handle": "BarcaFutbolLive"},
+        {"id": "2111702721124532534", "handle": "BarcaFutbolLive"}
+      ]
+    },
+    {
+      "headline": "Barça reach 13 different scorers, a European record this season",
+      "summary": "Goals from Rodri, Eric García and Dani Olmo at Betis took Barcelona to 13 different goalscorers across all competitions this season. The club highlighted the figure as a European record. Lamine Yamal, Gabriel Jesus, Raphinha, Fermín López and others have all contributed. The spread of goals has been a feature of Hansi Flick’s side since the start of the campaign.",
+      "body": "The official site noted the milestone after the 5-2 win in Seville. Rodri scored his first of the season with the header. García added his from close range after Cubarsí nodded the ball back across. Olmo, who had been used in different roles, finished with a right-footed effort into the top corner. The list now includes players from defence, midfield and attack. Flick has rotated the attacking options while managing the returns of Raphinha and De Jong. Jesus has scored in his early appearances. Gordon opened his account against Getafe. The variety has helped the side cope with the absence of key players at different times. With the PSG and Clásico fixtures next, the depth in front of goal remains one of the stronger points even as the defensive options narrow. The club published the figure on Sunday alongside the medical updates. It is the highest number of different scorers recorded by a European side at this stage of the season.",
+      "sources": [
+        {"name": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news/4593865/13-different-scorers-a-record-in-europe"}
+      ],
+      "tweets": [
+        {"id": "2111847369532654053", "handle": "FCBarcelona"}
+      ]
+    },
+    {
+      "headline": "Squad spent Saturday night in Seville after weather grounded the flight",
+      "summary": "Barcelona were forced to stay overnight in Seville after severe weather prevented their return flight to Barcelona on Saturday. The squad waited more than two hours on the plane without clearance. They arrived back at the Ciutat Esportiva on Sunday afternoon, 14 hours later than planned, and went straight into medical checks for the injured players.",
+      "body": "Reports from the scene said the plane never received clearance for El Prat because of the storm. The delay came after the 5-2 win at La Cartuja and left limited recovery time before the trip to Paris on Monday. Players and staff spent the night in the city. The late return meant the medical examinations for García, Koundé and Martín took place on Sunday rather than Saturday night. Flick and the staff will have a shorter preparation window for the Champions League match. The Clásico is still five days after the PSG game, so the priority remains managing the available squad carefully. Raphinha and De Jong both featured at Betis and are expected to travel. The weather disruption is the latest logistical complication in a congested October schedule that already includes the international break return, Galatasaray, Betis, PSG and the Madrid fixture. The club has not commented publicly on the flight beyond the medical bulletins issued once the squad was back.",
+      "sources": [
+        {"name": "BarcaFutbolLive", "url": "https://x.com/BarcaFutbolLive/status/2111772880036147317"}
+      ],
+      "tweets": [
+        {"id": "2111772880036147317", "handle": "BarcaFutbolLive"}
+      ]
+    },
+    {
+      "headline": "Vicky López and teammates react to the overturned penalty at Zubieta",
+      "summary": "Vicky López posted a story reacting to the penalty that was awarded and then overturned in the 80th minute of the Liga F defeat at Real Sociedad. Aleixandri and Claudia Pina, both currently injured, reposted and commented on it. The referee initially pointed to the spot for a foul on Brugts by Laborde before the VAR review reversed the decision.",
+      "body": "SPORT reported the reaction on Sunday evening. The incident came with Real Sociedad leading 2-1. Brugts was brought down inside the area. The referee gave the penalty, but after consulting the monitor she waved it away. The decision left the Barça players and bench frustrated at the final whistle. López, who did not play, made her feelings clear on social media. The two injured teammates amplified the post. It is the first public reaction from the squad to the call. Romeu had not spoken at length about the officiating in the immediate aftermath. The result itself was already a setback after the 7-0 win over Madrid in the previous league fixture. Real Sociedad’s second goal of the season and their first home league win of the campaign arrived on the same afternoon. Barça remain two points clear of Madrid at the top of Liga F. The next league match is after the midweek European fixture. The club has not issued a statement on the officiating.",
+      "sources": [
+        {"name": "SPORT", "url": "https://www.sport.es/es/noticias/barca/futbol-femenino/barca-cae-gran-real-sociedad-135468630"}
+      ],
+      "tweets": [
+        {"id": "2111809183909835054", "handle": "sport"}
+      ]
+    },
+    {
+      "headline": "Flick records 11 consecutive wins as the perfect Liga start continues",
+      "summary": "The 5-2 victory at Betis extended Hansi Flick’s winning run to 11 matches across all competitions and made it nine wins from nine in La Liga. It equals the best start to a league season in club history. The German said after the match that he was happy with his team and singled out Yamal. Raphinha’s return from the bench was another positive.",
+      "body": "Flick has now matched his longest winning sequence since taking charge. The side has scored freely throughout the run, with 39 league goals already. The Betis game was the most open of the recent fixtures, with both teams creating chances and Betis finishing with ten men. The result kept the five-point cushion at the top. Atlético beat Espanyol 1-0 on the same day. Real Madrid host Sevilla on Sunday. The upcoming fixtures against PSG and Madrid will test whether the form holds against the strongest opponents. Flick has rotated carefully around the returns of Raphinha and De Jong while dealing with the defensive absences. The late return from Seville shortens the preparation time for Paris, but the squad is otherwise largely available. The German has spoken repeatedly about managing minutes and keeping the group focused on the next match rather than the table. The Clásico on 25 October is the next league fixture after the Champions League trip.",
+      "sources": [
+        {"name": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/news"}
+      ],
+      "tweets": [
+        {"id": "2111702343108718746", "handle": "BarcaFutbolLive"}
+      ]
+    }
+  ]
+}
