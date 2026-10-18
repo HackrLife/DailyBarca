@@ -1,1 +1,15 @@
-PLACEHOLDER_EDITIONS
+{
+  "editions": [
+    {"number": 286, "date": "2026-10-19", "label": "Monday 19 Oct 2026", "file": "2026-10-19.json", "tweets": 12, "lead": "Eric García out for three to four weeks as Koundé misses PSG; Femení suffer first defeat"},
+    {"number": 285, "date": "2026-10-18", "label": "Sunday 18 Oct 2026", "file": "2026-10-18.json", "tweets": 11, "lead": "Barça equal the best La Liga start with a 5-2 win at Betis as Yamal stars"},
+    {"number": 284, "date": "2026-10-17", "label": "Saturday 17 Oct 2026", "file": "2026-10-17.json", "tweets": 9, "lead": "Raphinha and De Jong named in the Betis squad as Flick manages their return"},
+    {"number": 283, "date": "2026-10-16", "label": "Friday 16 Oct 2026", "file": "2026-10-16.json", "tweets": 10, "lead": "Raphinha and De Jong rejoin full training as Barça prepare for Betis with Tyler’s GOLF shirt for the Clásico"},
+    {"number": 282, "date": "2026-10-15", "label": "Thursday 15 Oct 2026", "file": "2026-10-15.json", "tweets": 5, "lead": "Barça make it ten wins with 4-1 at Galatasaray as Vinicius is banned for the Clásico"},
+    {"number": 281, "date": "2026-10-14", "label": "Wednesday 14 Oct 2026", "file": "2026-10-14.json", "tweets": 5, "lead": "Cancelo levels as Barça go in 1-1 at Galatasaray after Batrakov opener"},
+    {"number": 280, "date": "2026-10-13", "label": "Tuesday 13 Oct 2026", "file": "2026-10-13.json", "tweets": 4, "lead": "Barça face Galatasaray tonight still without Raphinha as Flick calls the atmosphere one of the best"},
+    {"number": 279, "date": "2026-10-12", "label": "Monday 12 Oct 2026", "file": "2026-10-12.json", "tweets": 10, "lead": "Barça travel to Istanbul for Galatasaray still without Raphinha and De Jong"},
+    {"number": 278, "date": "2026-10-11", "label": "Sunday 11 Oct 2026", "file": "2026-10-11.json", "tweets": 8, "lead": "Gordon opens his account as Barça beat Getafe 3-0 and stay perfect"},
+    {"number": 277, "date": "2026-10-10", "label": "Saturday 10 Oct 2026", "file": "2026-10-10.json", "tweets": 6, "lead": "Flick rules Raphinha out of Getafe and Galatasaray; Garcia and Jesus to start"},
+    {"number": 276, "date": "2026-10-09", "label": "Friday 9 Oct 2026", "file": "2026-10-09.json", "tweets": 11, "lead": "Espart agrees to 2030; Pedro speaks at the Auditori at 11:30"}
+  ]
+}
