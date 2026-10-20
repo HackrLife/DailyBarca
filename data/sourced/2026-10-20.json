@@ -1,0 +1,2185 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T09:28:46.565632+00:00",
+  "source_pool": 50,
+  "articles_kept": 247,
+  "clusters": 198,
+  "failed_sources": [
+    "UEFA – Barcelona",
+    "LaLiga – Barcelona",
+    "Reuters",
+    "Associated Press",
+    "ESPN",
+    "Sky Sports",
+    "FOX Sports",
+    "The Independent",
+    "Goal",
+    "Football España",
+    "Get Spanish Football News",
+    "Barça News Network",
+    "SPORT",
+    "Esport3",
+    "RAC1",
+    "Cadena SER",
+    "AS",
+    "Relevo",
+    "El Periódico",
+    "El Nacional",
+    "Món Esport",
+    "Onda Cero",
+    "COPE",
+    "FotMob",
+    "Sofascore",
+    "FBref",
+    "WhoScored",
+    "Transfermarkt",
+    "OneFootball",
+    "LiveScore"
+  ],
+  "stories": [
+    {
+      "headline": "Champions League Predictions 10/20: PSG Host Barcelona; Man City, Liverpool in Action",
+      "summary": "Champions League Predictions 10/20: PSG Host Barcelona; Man City, Liverpool in Action",
+      "source_count": 4,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Sports Illustrated",
+          "url": "https://www.si.com/soccer/champions-league-predictions-10-20-26-psg-barcelona-man-city-liverpool",
+          "tier": "major"
+        },
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/champions-league-predictions-10-20-26-psg-barcelona-man-city-liverpool",
+          "tier": "volume"
+        },
+        {
+          "name": "Everything Barça",
+          "url": "https://everythingbarca.com/psg-vs-barcelona-champions-league-preview-predictions-team-news-and-tv-info",
+          "tier": "specialist"
+        },
+        {
+          "name": "Opta Analyst",
+          "url": "https://theanalyst.com/articles/psg-vs-barcelona-prediction-champions-league-10-2026",
+          "tier": "data"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 10,
+          "source": "Sports Illustrated",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Champions League Predictions 10/20: PSG Host Barcelona; Man City, Liverpool in Action",
+          "url": "https://www.si.com/soccer/champions-league-predictions-10-20-26-psg-barcelona-man-city-liverpool",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Champions League Predictions 10/20: PSG Host Barcelona; Man City, Liverpool in Action",
+          "url": "https://www.si.com/soccer/champions-league-predictions-10-20-26-psg-barcelona-man-city-liverpool",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 24,
+          "source": "Everything Barça",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "PSG vs Barcelona: Champions League preview, predictions, team news and TV info",
+          "url": "https://everythingbarca.com/psg-vs-barcelona-champions-league-preview-predictions-team-news-and-tv-info",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 50,
+          "source": "Opta Analyst",
+          "tier": "data",
+          "lang": [
+            "en"
+          ],
+          "title": "PSG vs Barcelona: UEFA Champions League Preview",
+          "url": "https://theanalyst.com/articles/psg-vs-barcelona-prediction-champions-league-10-2026",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "PSG vs. Barcelona: Preview, Predictions and Lineups",
+      "summary": "PSG vs. Barcelona: Preview, Predictions and Lineups",
+      "source_count": 3,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Sports Illustrated",
+          "url": "https://www.si.com/soccer/psg-vs-barcelona-preview-predictions-lineups-10-20-26",
+          "tier": "major"
+        },
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/psg-vs-barcelona-preview-predictions-lineups-10-20-26",
+          "tier": "volume"
+        },
+        {
+          "name": "Everything Barça",
+          "url": "https://everythingbarca.com/real-betis-vs-barcelona-la-liga-preview-predictions-team-news-and-tv-info",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 10,
+          "source": "Sports Illustrated",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "PSG vs. Barcelona: Preview, Predictions and Lineups",
+          "url": "https://www.si.com/soccer/psg-vs-barcelona-preview-predictions-lineups-10-20-26",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "PSG vs. Barcelona: Preview, Predictions and Lineups",
+          "url": "https://www.si.com/soccer/psg-vs-barcelona-preview-predictions-lineups-10-20-26",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Real Betis vs. Barcelona: Preview, Predictions and Lineups",
+          "url": "https://www.si.com/soccer/real-betis-vs-barcelona-preview-predictions-lineups-10-17-26",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 24,
+          "source": "Everything Barça",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Real Betis vs Barcelona: La Liga preview, predictions, team news and TV info",
+          "url": "https://everythingbarca.com/real-betis-vs-barcelona-la-liga-preview-predictions-team-news-and-tv-info",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barcelona Suffer Unexpected Setback Ahead of Huge PSG Champions League Clash",
+      "summary": "Barcelona Suffer Unexpected Setback Ahead of Huge PSG Champions League Clash",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/barcelona-unexpected-setback-huge-psg-champions-league-clash",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Universal",
+          "url": "https://barcauniversal.com/psg-vs-barcelona-three-key-duels-that-could-decide-the-champions-league-clash/",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona Suffer Unexpected Setback Ahead of Huge PSG Champions League Clash",
+          "url": "https://www.si.com/soccer/barcelona-unexpected-setback-huge-psg-champions-league-clash",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 20,
+          "source": "Barça Universal",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "PSG vs Barcelona: Three key duels that could decide the Champions League clash",
+          "url": "https://barcauniversal.com/psg-vs-barcelona-three-key-duels-that-could-decide-the-champions-league-clash/",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 20,
+          "source": "Barça Universal",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Three talking points ahead of PSG vs Barcelona | UEFA Champions League",
+          "url": "https://barcauniversal.com/three-talking-points-ahead-of-psg-vs-barcelona-uefa-champions-league/",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Las claves del PSG-Barça, por Lobo Carrasco Las claves del PSG-Barça, por Lobo Carrasco",
+      "summary": "1. Duelo de pirañas 1. Duelo de pirañas",
+      "source_count": 2,
+      "languages": [
+        "ca",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261020/1004240875/claves-psg-barca-lobo-carrasco.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20261020/1004240875/claves-psg-barca-lobo-carrasco.html",
+          "tier": "local"
+        },
+        {
+          "name": "La Vanguardia",
+          "url": "https://www.lavanguardia.com/deportes/20261020/11663029/psg-barca-amantes-gol.htmlhttps://www.lavanguardia.com/deportes/20261020/11663029/psg-barca-amantes-gol.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 26,
+          "source": "Mundo Deportivo",
+          "tier": "local",
+          "lang": [
+            "es"
+          ],
+          "title": "Las claves del PSG-Barça, por Lobo Carrasco Las claves del PSG-Barça, por Lobo Carrasco",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261020/1004240875/claves-psg-barca-lobo-carrasco.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20261020/1004240875/claves-psg-barca-lobo-carrasco.html",
+          "summary": "1. Duelo de pirañas 1. Duelo de pirañas",
+          "published": "20 Oct 2026 08:03:43 +020020 Oct 2026 08:03:43 +0200"
+        },
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "PSG-Barça: Los amantes del gol PSG-Barça: Los amantes del gol",
+          "url": "https://www.lavanguardia.com/deportes/20261020/11663029/psg-barca-amantes-gol.htmlhttps://www.lavanguardia.com/deportes/20261020/11663029/psg-barca-amantes-gol.html",
+          "summary": "Luis Enrique y Flick se miden al frente de los equipos más brillantes del mundo en el Parque de los Príncipes Luis Enrique y Flick se miden al frente de los equipos más brillantes del mundo en el Parque de los Príncipes",
+          "published": "20 Oct 2026 06:00:00 +020020 Oct 2026 06:00:00 +0200"
+        },
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "Raphinha, la defensa y otras claves del PSG-Barça Raphinha, la defensa y otras claves del PSG-Barça",
+          "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20261020/11662911/raphinha-defensa-claves-psg-barca-analisis-tactico.htmlhttps://www.lavanguardia.com/deportes/fc-barcelona/20261020/11662911/raphinha-defensa-claves-psg-barca-analisis-tactico.html",
+          "summary": "El conjunto azulgrana se verá las caras con el doble campeón de Europa, el PSG de Luis Enrique El conjunto azulgrana se verá las caras con el doble campeón de Europa, el PSG de Luis Enrique",
+          "published": "20 Oct 2026 06:00:00 +020020 Oct 2026 06:00:00 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "Transfer Rumors: Liverpool Battle Rivals for Alexander-Arnold Return; Barcelona’s New Alvarez Plan",
+      "summary": "Transfer Rumors: Liverpool Battle Rivals for Alexander-Arnold Return; Barcelona’s New Alvarez Plan",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Sports Illustrated",
+          "url": "https://www.si.com/soccer/transfer-rumors-liverpool-battle-rivals-alexander-arnold-barcelona-new-alvarez-plan",
+          "tier": "major"
+        },
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/transfer-rumors-liverpool-battle-rivals-alexander-arnold-barcelona-new-alvarez-plan",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 10,
+          "source": "Sports Illustrated",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Transfer Rumors: Liverpool Battle Rivals for Alexander-Arnold Return; Barcelona’s New Alvarez Plan",
+          "url": "https://www.si.com/soccer/transfer-rumors-liverpool-battle-rivals-alexander-arnold-barcelona-new-alvarez-plan",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Transfer Rumors: Liverpool Battle Rivals for Alexander-Arnold Return; Barcelona’s New Alvarez Plan",
+          "url": "https://www.si.com/soccer/transfer-rumors-liverpool-battle-rivals-alexander-arnold-barcelona-new-alvarez-plan",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Transfer Rumors: Barcelona Follow Messi’s Tip; Bellingham’s Premier League Ambition",
+      "summary": "Transfer Rumors: Barcelona Follow Messi’s Tip; Bellingham’s Premier League Ambition",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Sports Illustrated",
+          "url": "https://www.si.com/soccer/transfer-rumors-barcelona-messi-tip-bellingham-premier-league-ambition",
+          "tier": "major"
+        },
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/transfer-rumors-barcelona-messi-tip-bellingham-premier-league-ambition",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 10,
+          "source": "Sports Illustrated",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Transfer Rumors: Barcelona Follow Messi’s Tip; Bellingham’s Premier League Ambition",
+          "url": "https://www.si.com/soccer/transfer-rumors-barcelona-messi-tip-bellingham-premier-league-ambition",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Transfer Rumors: Barcelona Follow Messi’s Tip; Bellingham’s Premier League Ambition",
+          "url": "https://www.si.com/soccer/transfer-rumors-barcelona-messi-tip-bellingham-premier-league-ambition",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Transfer Rumors: Barcelona Eye Wantaway Fernandes; Liverpool’s $157 Million Wirtz Replacement",
+      "summary": "Transfer Rumors: Barcelona Eye Wantaway Fernandes; Liverpool’s $157 Million Wirtz Replacement",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Sports Illustrated",
+          "url": "https://www.si.com/soccer/transfer-rumors-barcelona-wantaway-fernandes-liverpool-wirtz-replacement",
+          "tier": "major"
+        },
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/transfer-rumors-barcelona-wantaway-fernandes-liverpool-wirtz-replacement",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 10,
+          "source": "Sports Illustrated",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Transfer Rumors: Barcelona Eye Wantaway Fernandes; Liverpool’s $157 Million Wirtz Replacement",
+          "url": "https://www.si.com/soccer/transfer-rumors-barcelona-wantaway-fernandes-liverpool-wirtz-replacement",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Transfer Rumors: Barcelona Eye Wantaway Fernandes; Liverpool’s $157 Million Wirtz Replacement",
+          "url": "https://www.si.com/soccer/transfer-rumors-barcelona-wantaway-fernandes-liverpool-wirtz-replacement",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barcelona Player Ratings vs. Real Betis: Lamine Yamal Scores Stunner in Record-Setting Thriller",
+      "summary": "Barcelona Player Ratings vs. Real Betis: Lamine Yamal Scores Stunner in Record-Setting Thriller",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/barcelona-player-ratings-vs-real-betis-lamine-yamal-record-thriller-10-17-26",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Universal",
+          "url": "https://barcauniversal.com/yamal-9-5-cubarsi-8-5-real-betis-2-5-barcelona-player-ratings/",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona Player Ratings vs. Real Betis: Lamine Yamal Scores Stunner in Record-Setting Thriller",
+          "url": "https://www.si.com/soccer/barcelona-player-ratings-vs-real-betis-lamine-yamal-record-thriller-10-17-26",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 20,
+          "source": "Barça Universal",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Yamal 9.5, Cubarsi 8.5 | Real Betis 2-5 Barcelona: Player Ratings",
+          "url": "https://barcauniversal.com/yamal-9-5-cubarsi-8-5-real-betis-2-5-barcelona-player-ratings/",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 59m Héctor Bellerín asked for Real Betis goal to stand against Barcelona because it was really nice Nice try!",
+      "summary": "www.barcablaugranes.com • 59m Héctor Bellerín asked for Real Betis goal to stand against Barcelona because it was really nice Nice try!",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/barcelona-news/135577/hector-bellerin-asked-for-real-betis-goal-to-stand-against-barcelona-because-it-was-really-nice?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-news/135577/hector-bellerin-asked-for-real-betis-goal-to-stand-against-barcelona-because-it-was-really-nice",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 59m Héctor Bellerín asked for Real Betis goal to stand against Barcelona because it was really nice Nice try!",
+          "url": "https://www.barcablaugranes.com/barcelona-news/135577/hector-bellerin-asked-for-real-betis-goal-to-stand-against-barcelona-because-it-was-really-nice?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Héctor Bellerín asked for Real Betis goal to stand against Barcelona because it was really niceHéctor Bellerín asked for Real Betis goal to stand against Barcelona because it was really nice",
+          "url": "https://www.barcablaugranes.com/barcelona-news/135577/hector-bellerin-asked-for-real-betis-goal-to-stand-against-barcelona-because-it-was-really-nice",
+          "summary": "After Real Betis’s Giovani Lo Celso scored a great goal on the volley at La Cartuja on Saturday, FC Barcelona players immediately protested. Within seconds, Lamine Yamal and Pedri approached the ref, Ricardo de Burgos Bengoetxea. But one player’s defense of the goal as heard on the ref-cam has gone viral. “It’s a clear handball, […]After Real Betis’s Giovani Lo Celso scored a great goal on the vol",
+          "published": "2026-10-20T04:00:00-04:002026-10-20T04:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 3h Gossip: João Félix dreaming of Barcelona return The Portugal international wants to come back",
+      "summary": "www.barcablaugranes.com • 3h Gossip: João Félix dreaming of Barcelona return The Portugal international wants to come back",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/135579/gossip-joao-felix-dreaming-of-barcelona-return?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/135579/gossip-joao-felix-dreaming-of-barcelona-return",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 3h Gossip: João Félix dreaming of Barcelona return The Portugal international wants to come back",
+          "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/135579/gossip-joao-felix-dreaming-of-barcelona-return?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Gossip: João Félix dreaming of Barcelona returnGossip: João Félix dreaming of Barcelona return",
+          "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/135579/gossip-joao-felix-dreaming-of-barcelona-return",
+          "summary": "Portuguese star João Félix is considering leaving the Saudi league and returning to Europe, and FC Barcelona is his dream destination, according to a new report. Félix played the 2023-24 season on loan at Barça. His representative, Jorge Mendes, who is one of the world’s most influential agents and has a good relationship with Barcelona […]Portuguese star João Félix is considering leaving the Saud",
+          "published": "2026-10-20T02:00:00-04:002026-10-20T02:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 4h Luis Enrique talks Lionel Messi-Lamine Yamal comparisons The PSG coach and Barça legend had his say",
+      "summary": "www.barcablaugranes.com • 4h Luis Enrique talks Lionel Messi-Lamine Yamal comparisons The PSG coach and Barça legend had his say",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/barcelona-news/135581/luis-enrique-talks-lionel-messi-lamine-yamal-comparisons-barcelona?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-news/135581/luis-enrique-talks-lionel-messi-lamine-yamal-comparisons-barcelona",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 4h Luis Enrique talks Lionel Messi-Lamine Yamal comparisons The PSG coach and Barça legend had his say",
+          "url": "https://www.barcablaugranes.com/barcelona-news/135581/luis-enrique-talks-lionel-messi-lamine-yamal-comparisons-barcelona?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Luis Enrique talks Lionel Messi-Lamine Yamal comparisonsLuis Enrique talks Lionel Messi-Lamine Yamal comparisons",
+          "url": "https://www.barcablaugranes.com/barcelona-news/135581/luis-enrique-talks-lionel-messi-lamine-yamal-comparisons-barcelona",
+          "summary": "Former Barcelona and current Paris Saint-Germain manager Luis Enrique has spoken out about the comparisons between Lionel Messi and Lamine Yamal. Luis Enrique managed Messi at Barcelona a decade ago, winning the UEFA Champions League together. He was also a former Barcelona player, who got his start as a manager coaching Barcelona B. He hasn’t […]Former Barcelona and current Paris Saint-Germain ma",
+          "published": "2026-10-20T01:00:00-04:002026-10-20T01:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 9h ‘It’s always a risk’ - Hansi Flick talks Barcelona’s high line ahead of PSG test The coach spoke about his defensive strategy",
+      "summary": "www.barcablaugranes.com • 9h ‘It’s always a risk’ - Hansi Flick talks Barcelona’s high line ahead of PSG test The coach spoke about his defensive strategy",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/barcelona-team-news/135568/its-always-a-risk-hansi-flick-talks-barcelonas-high-line-ahead-of-psg-test?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-team-news/135568/its-always-a-risk-hansi-flick-talks-barcelonas-high-line-ahead-of-psg-test",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 9h ‘It’s always a risk’ - Hansi Flick talks Barcelona’s high line ahead of PSG test The coach spoke about his defensive strategy",
+          "url": "https://www.barcablaugranes.com/barcelona-team-news/135568/its-always-a-risk-hansi-flick-talks-barcelonas-high-line-ahead-of-psg-test?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "‘It’s always a risk’ – Hansi Flick talks Barcelona’s high line ahead of PSG test‘It’s always a risk’ – Hansi Flick talks Barcelona’s high line ahead of PSG test",
+          "url": "https://www.barcablaugranes.com/barcelona-team-news/135568/its-always-a-risk-hansi-flick-talks-barcelonas-high-line-ahead-of-psg-test",
+          "summary": "The topic of Barcelona’s high defensive line under coach Hansi Flick is one that the football media at large seems entirely too obsessed with, and has been often used as a crutch to explain the problems with the Blaugrana every time they don’t succeed to avoid the hassle of having to do actual in-depth analysis. […]The topic of Barcelona’s high defensive line under coach Hansi Flick is one that th",
+          "published": "2026-10-19T19:00:00-04:002026-10-19T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 20h Barcelona loanee Ronald Araujo quizzed on whether he will stay at Liverpool The defender has become a regular for the Reds.",
+      "summary": "www.barcablaugranes.com • 20h Barcelona loanee Ronald Araujo quizzed on whether he will stay at Liverpool The defender has become a regular for the Reds.",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/135542/ronald-araujo-quizzed-on-whether-he-will-stay-at-liverpool?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/135542/ronald-araujo-quizzed-on-whether-he-will-stay-at-liverpool",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 20h Barcelona loanee Ronald Araujo quizzed on whether he will stay at Liverpool The defender has become a regular for the Reds.",
+          "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/135542/ronald-araujo-quizzed-on-whether-he-will-stay-at-liverpool?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona loanee Ronald Araujo quizzed on whether he will stay at LiverpoolBarcelona loanee Ronald Araujo quizzed on whether he will stay at Liverpool",
+          "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/135542/ronald-araujo-quizzed-on-whether-he-will-stay-at-liverpool",
+          "summary": "Ronald Araujo has been on media duty with Liverpool ahead of a Champions League tie against Villarreal on Tuesday at Anfield. The Barcelona loanee is enjoying life with the Premier League side following his summer move but says it’s too early to talk about the possibility of making the transfer permanent. “It’s very early to […]Ronald Araujo has been on media duty with Liverpool ahead of a Champio",
+          "published": "2026-10-19T09:00:00-04:002026-10-19T09:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "headline": "Eight in, many out – Rating Barcelona’s 2026 summer transfer window",
+      "summary": "Eight in, many out – Rating Barcelona’s 2026 summer transfer window",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Barça Universal",
+          "url": "https://barcauniversal.com/eight-in-many-out-rating-barcelonas-2026-summer-transfer-window/",
+          "tier": "specialist"
+        },
+        {
+          "name": "Everything Barça",
+          "url": "https://everythingbarca.com/barcelona-complete-2026-summer-transfer-window-recap",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 20,
+          "source": "Barça Universal",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Eight in, many out – Rating Barcelona’s 2026 summer transfer window",
+          "url": "https://barcauniversal.com/eight-in-many-out-rating-barcelonas-2026-summer-transfer-window/",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 24,
+          "source": "Everything Barça",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Complete recap of Barcelona's massive 2026 summer transfer window",
+          "url": "https://everythingbarca.com/barcelona-complete-2026-summer-transfer-window-recap",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Las claves de Hansi Flick para ganar al PSG Las claves de Hansi Flick para ganar al PSG",
+      "summary": "El FC Barcelona tratará de imponerse al PSG , vigente campeón de la Champions League, en un partido en el Parque de los Príncipes para el que Hansi Flick dio la receta del éxito en rueda de prensa. El FC Barcelona tratará de imponerse al PSG , vigente campeón de la Champions League, en un partido en el Parque de los Príncipes para el que Hansi Flick dio la receta del éxito en rueda de prensa.",
+      "source_count": 2,
+      "languages": [
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261019/1004240694/claves-hansi-flick-ganar-psg.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20261019/1004240694/claves-hansi-flick-ganar-psg.html",
+          "tier": "local"
+        },
+        {
+          "name": "Culemanía",
+          "url": "https://cronicaglobal.elespanol.com/culemania/secciones/20261019/alex-campos-masia-hansi-flick-convocado-psg-barca/1003742804047_0.html",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 26,
+          "source": "Mundo Deportivo",
+          "tier": "local",
+          "lang": [
+            "es"
+          ],
+          "title": "Las claves de Hansi Flick para ganar al PSG Las claves de Hansi Flick para ganar al PSG",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261019/1004240694/claves-hansi-flick-ganar-psg.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20261019/1004240694/claves-hansi-flick-ganar-psg.html",
+          "summary": "El FC Barcelona tratará de imponerse al PSG , vigente campeón de la Champions League, en un partido en el Parque de los Príncipes para el que Hansi Flick dio la receta del éxito en rueda de prensa. El FC Barcelona tratará de imponerse al PSG , vigente campeón de la Champions League, en un partido en el Parque de los Príncipes para el que Hansi Flick dio la receta del éxito en rueda de prensa.",
+          "published": "19 Oct 2026 18:29:43 +020019 Oct 2026 18:29:43 +0200"
+        },
+        {
+          "source_id": 39,
+          "source": "Culemanía",
+          "tier": "specialist",
+          "lang": [
+            "es"
+          ],
+          "title": "Quién es Alex Campos, la nueva perla de la Masía a la que Hansi Flick ha convocado para el PSG-Barça",
+          "url": "https://cronicaglobal.elespanol.com/culemania/secciones/20261019/alex-campos-masia-hansi-flick-convocado-psg-barca/1003742804047_0.html",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Lamine Yamal piensa con los pies Lamine Yamal piensa con los pies",
+      "summary": "Una jugada como la que inventó ante el Galatasaray me conduce a una gran pregunta: ¿por qué nuestra cultura ha tardado tanto en reconocer como inteligencia lo que sucede dentro de un campo de juego?Una jugada como la que inventó ante el Galatasaray me conduce a una gran pregunta: ¿por qué nuestra cultura ha tardado tanto en reconocer como inteligencia lo que sucede dentro de un campo de juego?",
+      "source_count": 2,
+      "languages": [
+        "ca",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "El País",
+          "url": "https://elpais.com/deportes/futbol/2026-10-17/lamine-yamal-piensa-con-los-pies.htmlhttps://elpais.com/deportes/futbol/2026-10-17/lamine-yamal-piensa-con-los-pies.html",
+          "tier": "national"
+        },
+        {
+          "name": "La Vanguardia",
+          "url": "https://www.lavanguardia.com/deportes/20261018/11661644/lamine-yamal-genio-furia-sevilla.htmlhttps://www.lavanguardia.com/deportes/20261018/11661644/lamine-yamal-genio-furia-sevilla.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 30,
+          "source": "El País",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "Lamine Yamal piensa con los pies Lamine Yamal piensa con los pies",
+          "url": "https://elpais.com/deportes/futbol/2026-10-17/lamine-yamal-piensa-con-los-pies.htmlhttps://elpais.com/deportes/futbol/2026-10-17/lamine-yamal-piensa-con-los-pies.html",
+          "summary": "Una jugada como la que inventó ante el Galatasaray me conduce a una gran pregunta: ¿por qué nuestra cultura ha tardado tanto en reconocer como inteligencia lo que sucede dentro de un campo de juego?Una jugada como la que inventó ante el Galatasaray me conduce a una gran pregunta: ¿por qué nuestra cultura ha tardado tanto en reconocer como inteligencia lo que sucede dentro de un campo de juego?",
+          "published": "Sat, 17 Oct 2026 03:30:01 GMTSat, 17 Oct 2026 03:30:01 GMT"
+        },
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "Lamine Yamal, genio y furia en Sevilla Lamine Yamal, genio y furia en Sevilla",
+          "url": "https://www.lavanguardia.com/deportes/20261018/11661644/lamine-yamal-genio-furia-sevilla.htmlhttps://www.lavanguardia.com/deportes/20261018/11661644/lamine-yamal-genio-furia-sevilla.html",
+          "summary": "El 10 del Barça marca, asiste, resuelve, se mete en una refriega y Hansi Flick le sustituye para evitar que se pierda el clásico ante el Madrid El 10 del Barça marca, asiste, resuelve, se mete en una refriega y Hansi Flick le sustituye para evitar que se pierda el clásico ante el Madrid",
+          "published": "18 Oct 2026 06:00:00 +020018 Oct 2026 06:00:00 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "Al Barcelona se le atraganta Zubieta y vuelve a caer ante la Real SociedadAl Barcelona se le atraganta Zubieta y vuelve a caer ante la Real Sociedad",
+      "summary": "Las azulgrana pierden su primer partido de la temporada después de haber goleado al Real Madrid en el clásico por 7-0Las azulgrana pierden su primer partido de la temporada después de haber goleado al Real Madrid en el clásico por 7-0",
+      "source_count": 2,
+      "languages": [
+        "ca",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "El País",
+          "url": "https://elpais.com/deportes/futbol/2026-10-18/el-barcelona-cae-por-segundo-ano-consecutivo-ante-la-real-sociedad-en-zubieta.htmlhttps://elpais.com/deportes/futbol/2026-10-18/el-barcelona-cae-por-segundo-ano-consecutivo-ante-la-real-sociedad-en-zubieta.html",
+          "tier": "national"
+        },
+        {
+          "name": "La Vanguardia",
+          "url": "https://www.lavanguardia.com/deportes/futbol-femenino/20261018/11662026/barca-vuelve-caer-zubieta-manos-gran-real-sociedad.htmlhttps://www.lavanguardia.com/deportes/futbol-femenino/20261018/11662026/barca-vuelve-caer-zubieta-manos-gran-real-sociedad.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 30,
+          "source": "El País",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "Al Barcelona se le atraganta Zubieta y vuelve a caer ante la Real SociedadAl Barcelona se le atraganta Zubieta y vuelve a caer ante la Real Sociedad",
+          "url": "https://elpais.com/deportes/futbol/2026-10-18/el-barcelona-cae-por-segundo-ano-consecutivo-ante-la-real-sociedad-en-zubieta.htmlhttps://elpais.com/deportes/futbol/2026-10-18/el-barcelona-cae-por-segundo-ano-consecutivo-ante-la-real-sociedad-en-zubieta.html",
+          "summary": "Las azulgrana pierden su primer partido de la temporada después de haber goleado al Real Madrid en el clásico por 7-0Las azulgrana pierden su primer partido de la temporada después de haber goleado al Real Madrid en el clásico por 7-0",
+          "published": "Sun, 18 Oct 2026 15:39:39 GMTSun, 18 Oct 2026 15:39:39 GMT"
+        },
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "El Barça vuelve a caer en Zubieta a manos de una gran Real Sociedad El Barça vuelve a caer en Zubieta a manos de una gran Real Sociedad",
+          "url": "https://www.lavanguardia.com/deportes/futbol-femenino/20261018/11662026/barca-vuelve-caer-zubieta-manos-gran-real-sociedad.htmlhttps://www.lavanguardia.com/deportes/futbol-femenino/20261018/11662026/barca-vuelve-caer-zubieta-manos-gran-real-sociedad.html",
+          "summary": "El conjunto blaugrana ya perdió en este mismo feudo la temporada pasada, su última derrota El conjunto blaugrana ya perdió en este mismo feudo la temporada pasada, su última derrota",
+          "published": "18 Oct 2026 14:23:02 +020018 Oct 2026 14:23:02 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "BARÇABARÇA",
+      "summary": "No encadenaba dos suplencias con la selección desde 2022 y en el Barça ha perdido pesoNo encadenaba dos suplencias con la selección desde 2022 y en el Barça ha perdido peso",
+      "source_count": 1,
+      "languages": [
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "MARCA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/10/06/kounde-nuevo-escenario.htmlhttps://www.marca.com/futbol/barcelona/2026/10/06/kounde-nuevo-escenario.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/10/06/kounde-nuevo-escenario.htmlhttps://www.marca.com/futbol/barcelona/2026/10/06/kounde-nuevo-escenario.html",
+          "summary": "No encadenaba dos suplencias con la selección desde 2022 y en el Barça ha perdido pesoNo encadenaba dos suplencias con la selección desde 2022 y en el Barça ha perdido peso",
+          "published": "Tue, 06 Oct 2026 11:11:22 +0200Tue, 06 Oct 2026 11:11:22 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/10/05/cancelo-revienta-paron-vuelve-barca-pletorico-exhibicion-portugal.htmlhttps://www.marca.com/futbol/barcelona/2026/10/05/cancelo-revienta-paron-vuelve-barca-pletorico-exhibicion-portugal.html",
+          "summary": "Ha jugado los cuatro partidos y ha marcado dos golazosHa jugado los cuatro partidos y ha marcado dos golazos",
+          "published": "Mon, 05 Oct 2026 19:42:58 +0200Mon, 05 Oct 2026 19:42:58 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/10/05/creador-oliver-benji-recrea-boceto-figura-lamine-yamal.htmlhttps://www.marca.com/futbol/barcelona/2026/10/05/creador-oliver-benji-recrea-boceto-figura-lamine-yamal.html",
+          "summary": "El artista japonés Yoichi Takahashi ha estado de visita en el Spotify Camp NouEl artista japonés Yoichi Takahashi ha estado de visita en el Spotify Camp Nou",
+          "published": "Mon, 05 Oct 2026 17:43:42 +0200Mon, 05 Oct 2026 17:43:42 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/10/05/lamine-yamal-aun-cuenta-pendiente-barca.htmlhttps://www.marca.com/futbol/barcelona/2026/10/05/lamine-yamal-aun-cuenta-pendiente-barca.html",
+          "summary": "Tiene un aumento de ficha pactado, pero deberá esperar aún unos meses para su ejecuciónTiene un aumento de ficha pactado, pero deberá esperar aún unos meses para su ejecución",
+          "published": "Mon, 05 Oct 2026 16:00:31 +0200Mon, 05 Oct 2026 16:00:31 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/10/05/hugo-galdeano-talento-gigante-barca.htmlhttps://www.marca.com/futbol/barcelona/2026/10/05/hugo-galdeano-talento-gigante-barca.html",
+          "summary": "El menudo atacante de La Masía brilla por su nivel de juego y su garra… siendo el más chiquito de toda la categoríaEl menudo atacante de La Masía brilla por su nivel de juego y su garra… siendo el más chiquito de toda la categoría",
+          "published": "Mon, 05 Oct 2026 14:22:20 +0200Mon, 05 Oct 2026 14:22:20 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/10/05/barca-vuelve-trabajo-unica-novedad-eric-garcia.htmlhttps://www.marca.com/futbol/barcelona/2026/10/05/barca-vuelve-trabajo-unica-novedad-eric-garcia.html",
+          "summary": "Los no internacionales han tenido nueve días de descansoLos no internacionales han tenido nueve días de descanso",
+          "published": "Mon, 05 Oct 2026 11:48:13 +0200Mon, 05 Oct 2026 11:48:13 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/10/04/barca-regresa-lunes-trabajo-mini-vacaciones.htmlhttps://www.marca.com/futbol/barcelona/2026/10/04/barca-regresa-lunes-trabajo-mini-vacaciones.html",
+          "summary": "Los jugadores no internacionales disfrutaron de nueve días de descansoLos jugadores no internacionales disfrutaron de nueve días de descanso",
+          "published": "Sun, 04 Oct 2026 17:46:34 +0200Sun, 04 Oct 2026 17:46:34 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/10/04/barca-domina-europa-ritmo-gol.htmlhttps://www.marca.com/futbol/barcelona/2026/10/04/barca-domina-europa-ritmo-gol.html",
+          "summary": "Los culés, el equipo con mejor porcentaje realizador de las grandes ligasLos culés, el equipo con mejor porcentaje realizador de las grandes ligas",
+          "published": "Sun, 04 Oct 2026 16:48:34 +0200Sun, 04 Oct 2026 16:48:34 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "FC BARCELONAFC BARCELONA",
+      "summary": "El portero está a la espera de que el club le comunique cómo queda su situaciónEl portero está a la espera de que el club le comunique cómo queda su situación",
+      "source_count": 1,
+      "languages": [
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "MARCA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/barcelona-ter-stegen-maxima-tension.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/barcelona-ter-stegen-maxima-tension.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "FC BARCELONAFC BARCELONA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/barcelona-ter-stegen-maxima-tension.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/barcelona-ter-stegen-maxima-tension.html",
+          "summary": "El portero está a la espera de que el club le comunique cómo queda su situaciónEl portero está a la espera de que el club le comunique cómo queda su situación",
+          "published": "Mon, 09 Jun 2025 20:07:06 +0200Mon, 09 Jun 2025 20:07:06 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "FC BARCELONAFC BARCELONA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/lewandowski-me-dijeron-me-quitaban-brazalete-acostando-mis-hijos.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/lewandowski-me-dijeron-me-quitaban-brazalete-acostando-mis-hijos.html",
+          "summary": "El delantero afirma que&nbsp; Michal Probierz \"ha traicionado mi confianza\"El delantero afirma que&nbsp; Michal Probierz \"ha traicionado mi confianza\"",
+          "published": "Mon, 09 Jun 2025 18:51:43 +0200Mon, 09 Jun 2025 18:51:43 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "FC BARCELONAFC BARCELONA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/laporta-tira-diplomacia-evitar-sancion-uefa.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/laporta-tira-diplomacia-evitar-sancion-uefa.html",
+          "summary": "Se reunió con Ceferin para intentar mitigar el castigo por irregularidades financierasSe reunió con Ceferin para intentar mitigar el castigo por irregularidades financieras",
+          "published": "Mon, 09 Jun 2025 12:34:03 +0200Mon, 09 Jun 2025 12:34:03 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "FC BARCELONAFC BARCELONA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/lenglet-deja-barca.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/lenglet-deja-barca.html",
+          "summary": "Principio de acuerdo para la rescisión del contrato del futbolistaPrincipio de acuerdo para la rescisión del contrato del futbolista",
+          "published": "Mon, 09 Jun 2025 13:47:01 +0200Mon, 09 Jun 2025 13:47:01 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 2h Barcelona squad named for PSG Hansi Flick has called up 23 players for Tuesday’s clash",
+      "summary": "www.barcablaugranes.com • 2h Barcelona squad named for PSG Hansi Flick has called up 23 players for Tuesday’s clash",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/barcelona-uefa-champions-league/135524/psg-barcelona-champions-league-team-news-squad-list?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 2h Barcelona squad named for PSG Hansi Flick has called up 23 players for Tuesday’s clash",
+          "url": "https://www.barcablaugranes.com/barcelona-uefa-champions-league/135524/psg-barcelona-champions-league-team-news-squad-list?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 1d Gerard Martin included in Barcelona squad to face PSG Alex Campos has also been called up.",
+          "url": "https://www.barcablaugranes.com/barcelona-uefa-champions-league/135513/gerard-martin-squad-psg?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 1d How will Barcelona line up against PSG? Hansi Flick’s possible XI for Tuesday’s clash",
+          "url": "https://www.barcablaugranes.com/barcelona-uefa-champions-league/135456/how-will-barcelona-line-up-psg-champions-league?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "FC Barcelona News: 20 October 2026; All set for massive Champions League clash with PSGFC Barcelona News: 20 October 2026; All set for massive Champions League clash with PSG",
+      "summary": "FC Barcelona squad for the trip to PSG – FC BarcelonaHansi Flick’s side travel to Paris for Matchday 3 of the Champions League without Eric Garcia and Jules Kounde. When and where to watch Paris Saint-Germain v FC Barcelona – FC BarcelonaOur guide to the international kick-off times and TV channels for the third UEFA […]FC Barcelona squad for the trip to PSG – FC BarcelonaHansi Flick’s side travel",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-news/135591/fc-barcelona-news-20-october-2026-all-set-for-massive-champions-league-clash-with-psg",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "FC Barcelona News: 20 October 2026; All set for massive Champions League clash with PSGFC Barcelona News: 20 October 2026; All set for massive Champions League clash with PSG",
+          "url": "https://www.barcablaugranes.com/barcelona-news/135591/fc-barcelona-news-20-october-2026-all-set-for-massive-champions-league-clash-with-psg",
+          "summary": "FC Barcelona squad for the trip to PSG – FC BarcelonaHansi Flick’s side travel to Paris for Matchday 3 of the Champions League without Eric Garcia and Jules Kounde. When and where to watch Paris Saint-Germain v FC Barcelona – FC BarcelonaOur guide to the international kick-off times and TV channels for the third UEFA […]FC Barcelona squad for the trip to PSG – FC BarcelonaHansi Flick’s side travel",
+          "published": "2026-10-20T05:00:00-04:002026-10-20T05:00:00-04:00"
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "FC Barcelona announce squad for Champions League match against PSGFC Barcelona announce squad for Champions League match against PSG",
+          "url": "https://www.barcablaugranes.com/barcelona-uefa-champions-league/135524/psg-barcelona-champions-league-team-news-squad-list",
+          "summary": "The next Barcelona match is upon us! The Blaugrana travel to Paris for a massive Champions League game against reigning back-to-back champions PSG, and Hansi Flick has called up the following 23 players for Tuesday’s clash: Goalkeepers: 1. Joan Garcia, 13. Wojciech Szczesny, 25. Dominik Livakovic Defenders: 2. João Cancelo, 3. Alejandro Balde, 5. Pau […]The next Barcelona match is upon us! The Bla",
+          "published": "2026-10-20T03:00:00-04:002026-10-20T03:00:00-04:00"
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "PSG vs Barcelona, Champions League: Team News, Match PreviewPSG vs Barcelona, Champions League: Team News, Match Preview",
+          "url": "https://www.barcablaugranes.com/barcelona-uefa-champions-league/135530/psg-barcelona-champions-league-team-news-match-preview-lineups-prediction",
+          "summary": "Paris Saint-Germain (1st, 6pts) vs FC Barcelona (2nd, 6pts) Competition/Round: 2026-27 UEFA Champions League, League Phase, Matchday 3 Barcelona Outs & Doubts: Andreas Christensen, Roony Bardghji, Jules Kounde, Eric Garcia (out), Gerard Martín (doubt) PSG Outs & Doubts: Nuno Mendes (out), Magnes Akliouche, Senny Mayulu (doubt) Date/Time: Tuesday, October 20, 2026, 9pm CET (Barcelona), 8pm […]Paris",
+          "published": "2026-10-19T23:00:00-04:002026-10-19T23:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 5h PSG vs Barcelona, Champions League: Preview A massive European test",
+      "summary": "www.barcablaugranes.com • 5h PSG vs Barcelona, Champions League: Preview A massive European test",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/barcelona-uefa-champions-league/135530/psg-barcelona-champions-league-team-news-match-preview-lineups-prediction?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 5h PSG vs Barcelona, Champions League: Preview A massive European test",
+          "url": "https://www.barcablaugranes.com/barcelona-uefa-champions-league/135530/psg-barcelona-champions-league-team-news-match-preview-lineups-prediction?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 1d Rival Watch: Nuno Mendes to miss Champions League clash with Barcelona & Lamine Yamal The defender is injured.",
+          "url": "https://www.barcablaugranes.com/barcelona-uefa-champions-league/135466/rival-watch-nuno-mendes-out?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Man City FFP: Barcelona ‘begin talks’ to sign Haaland as City star reaches exit decision",
+      "summary": "Man City FFP: Barcelona ‘begin talks’ to sign Haaland as City star reaches exit decision",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Football365",
+          "url": "https://www.football365.com/news/man-city-ffp-barcelona-begin-talks-haaland-reaches-exit-decision",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 17,
+          "source": "Football365",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Man City FFP: Barcelona ‘begin talks’ to sign Haaland as City star reaches exit decision",
+          "url": "https://www.football365.com/news/man-city-ffp-barcelona-begin-talks-haaland-reaches-exit-decision",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 17,
+          "source": "Football365",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Erling Haaland: Man City striker reaches decision on joining Barcelona – now ‘waits for agreement’ to leave",
+          "url": "https://www.football365.com/news/erling-haaland-man-city-striker-reaches-decision-joining-barcelona-now-waits-agreement-leave",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Tottenham: Barcelona, Real Madrid rocked as world-record Pedro Porro asking price set",
+      "summary": "Tottenham: Barcelona, Real Madrid rocked as world-record Pedro Porro asking price set",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Football365",
+          "url": "https://www.football365.com/news/tottenham-set-world-record-asking-price-pedro-porro-barcelona-real-madrid-interest",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 17,
+          "source": "Football365",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Tottenham: Barcelona, Real Madrid rocked as world-record Pedro Porro asking price set",
+          "url": "https://www.football365.com/news/tottenham-set-world-record-asking-price-pedro-porro-barcelona-real-madrid-interest",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 17,
+          "source": "Football365",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Tottenham lose ‘£100m talent’ as Pedro Porro chooses between Barcelona and Real Madrid",
+          "url": "https://www.football365.com/news/tottenham-lose-100m-talent-pedro-porro-chooses-between-barcelona-real-madrid",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Controversial night, historic streak | Three takeaways from Real Betis 2-5 Barcelona",
+      "summary": "Controversial night, historic streak | Three takeaways from Real Betis 2-5 Barcelona",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Barça Universal",
+          "url": "https://barcauniversal.com/controversial-night-historic-streak-three-takeaways-from-real-betis-2-5-barcelona/",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 20,
+          "source": "Barça Universal",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Controversial night, historic streak | Three takeaways from Real Betis 2-5 Barcelona",
+          "url": "https://barcauniversal.com/controversial-night-historic-streak-three-takeaways-from-real-betis-2-5-barcelona/",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 20,
+          "source": "Barça Universal",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Three talking points ahead of Real Betis vs Barcelona | La Liga MD 9",
+          "url": "https://barcauniversal.com/three-talking-points-ahead-of-real-betis-vs-barcelona-la-liga-md-9/",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Raphinha’s Perfect Hat-Trick Heroics | 5 Headlines from 3-1 Win vs. SevillaRaphinha’s Perfect Hat-Trick Heroics | 5 Headlines from 3-1 Win vs. Sevilla",
+      "summary": "On episode 855, Barcelona faced their most challenging match of the season so far, and still came out with a 3-1 win. Raphinha made some hat-trick history while Rodri diagnosed how Sevilla gave them a fight. New Store! – HERE Watchalongs – HERE Join the Discord server! The post Raphinha’s Perfect Hat-Trick Heroics | 5 Headlines from 3-1 Win vs. Sevilla appeared first on BarcaBlog . On episode 855,",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "BarçaBlog",
+          "url": "https://barcablog.com/2026/09/raphinhas-perfect-hat-trick-heroics-5-headlines-from-3-1-win-vs-sevilla.html?utm_source=rss&utm_medium=rss&utm_campaign=raphinhas-perfect-hat-trick-heroics-5-headlines-from-3-1-win-vs-sevillahttps://barcablog.com/2026/09/raphinhas-perfect-hat-trick-heroics-5-headlines-from-3-1-win-vs-sevilla.html?utm_source=rss&utm_medium=rss&utm_campaign=raphinhas-perfect-hat-trick-heroics-5-headlines-from-3-1-win-vs-sevilla",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 23,
+          "source": "BarçaBlog",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Raphinha’s Perfect Hat-Trick Heroics | 5 Headlines from 3-1 Win vs. SevillaRaphinha’s Perfect Hat-Trick Heroics | 5 Headlines from 3-1 Win vs. Sevilla",
+          "url": "https://barcablog.com/2026/09/raphinhas-perfect-hat-trick-heroics-5-headlines-from-3-1-win-vs-sevilla.html?utm_source=rss&utm_medium=rss&utm_campaign=raphinhas-perfect-hat-trick-heroics-5-headlines-from-3-1-win-vs-sevillahttps://barcablog.com/2026/09/raphinhas-perfect-hat-trick-heroics-5-headlines-from-3-1-win-vs-sevilla.html?utm_source=rss&utm_medium=rss&utm_campaign=raphinhas-perfect-hat-trick-heroics-5-headlines-from-3-1-win-vs-sevilla",
+          "summary": "On episode 855, Barcelona faced their most challenging match of the season so far, and still came out with a 3-1 win. Raphinha made some hat-trick history while Rodri diagnosed how Sevilla gave them a fight. New Store! – HERE Watchalongs – HERE Join the Discord server! The post Raphinha’s Perfect Hat-Trick Heroics | 5 Headlines from 3-1 Win vs. Sevilla appeared first on BarcaBlog . On episode 855,",
+          "published": "Sun, 20 Sep 2026 06:13:28 +0000Sun, 20 Sep 2026 06:13:28 +0000"
+        },
+        {
+          "source_id": 23,
+          "source": "BarçaBlog",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Raphinha’s Hat-Trick Headlines Rout of Racing | 5 Headlines from 7-2 WinRaphinha’s Hat-Trick Headlines Rout of Racing | 5 Headlines from 7-2 Win",
+          "url": "https://barcablog.com/2026/09/raphinhas-hat-trick-headlines-rout-of-racing-5-headlines-from-7-2-win.html?utm_source=rss&utm_medium=rss&utm_campaign=raphinhas-hat-trick-headlines-rout-of-racing-5-headlines-from-7-2-winhttps://barcablog.com/2026/09/raphinhas-hat-trick-headlines-rout-of-racing-5-headlines-from-7-2-win.html?utm_source=rss&utm_medium=rss&utm_campaign=raphinhas-hat-trick-headlines-rout-of-racing-5-headlines-from-7-2-win",
+          "summary": "On episode 854, Racing Santander were the latest victim to Barcelona’s sensational start to the season. Two more worrying signs at the back were the lowlights on a rainy night full of highlights, with Raphinha and his hat-trick signing brightest. Or maybe it was Cancelo’s opener. Or the Adeyemi and Lamine Yamal seventh. New Store! […] The post Raphinha’s Hat-Trick Headlines Rout of Racing | 5 Head",
+          "published": "Thu, 17 Sep 2026 05:42:36 +0000Thu, 17 Sep 2026 05:42:36 +0000"
+        }
+      ]
+    },
+    {
+      "headline": "El posible once del PSG ante el Barça: Lucas Hernández, otra opción anti-Lamine El posible once del PSG ante el Barça: Lucas Hernández, otra opción anti-Lamine",
+      "summary": "El exazulgrana Lucas Digne (33 años) debería ser el sustituto lógico de Nuno Mendes en la banda izquierda del PSG como el otro lateral zurdo puro de la plantilla de Luis Enrique , pero no se puede descartar que el técnico asturiano reubique al central zurdo Lucas Hernández (30) o que coloque al interior Warren Zaïre-Emery (20) de ‘falso lateral’, como hace Hansi Flick con Xavi Espart en el Barça, ",
+      "source_count": 1,
+      "languages": [
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261020/1004240702/posible-once-psg-barca-lucas-hernandez-opcion-anti-lamine.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20261020/1004240702/posible-once-psg-barca-lucas-hernandez-opcion-anti-lamine.html",
+          "tier": "local"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 26,
+          "source": "Mundo Deportivo",
+          "tier": "local",
+          "lang": [
+            "es"
+          ],
+          "title": "El posible once del PSG ante el Barça: Lucas Hernández, otra opción anti-Lamine El posible once del PSG ante el Barça: Lucas Hernández, otra opción anti-Lamine",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261020/1004240702/posible-once-psg-barca-lucas-hernandez-opcion-anti-lamine.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20261020/1004240702/posible-once-psg-barca-lucas-hernandez-opcion-anti-lamine.html",
+          "summary": "El exazulgrana Lucas Digne (33 años) debería ser el sustituto lógico de Nuno Mendes en la banda izquierda del PSG como el otro lateral zurdo puro de la plantilla de Luis Enrique , pero no se puede descartar que el técnico asturiano reubique al central zurdo Lucas Hernández (30) o que coloque al interior Warren Zaïre-Emery (20) de ‘falso lateral’, como hace Hansi Flick con Xavi Espart en el Barça, ",
+          "published": "20 Oct 2026 06:30:00 +020020 Oct 2026 06:30:00 +0200"
+        },
+        {
+          "source_id": 26,
+          "source": "Mundo Deportivo",
+          "tier": "local",
+          "lang": [
+            "es"
+          ],
+          "title": "El posible once del Barça ante el PSG El posible once del Barça ante el PSG",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261020/1004240860/posible-once-barca-psg.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20261020/1004240860/posible-once-barca-psg.html",
+          "summary": "Hansi Flick decidirá hoy el once que alinea ante el PSG en función de cómo esté Gerard Martí n, y también deberá decantarse por una de las opciones en la punta de ataque. En cuanto al central, las pruebas descartaron lesión pero la hinchazón le generaba una cierta incomodidad al apoyar el pie. La decisión tomada fue esperar y controlar su evolución para acabar determinando si puede jugar o no ante",
+          "published": "20 Oct 2026 05:30:00 +020020 Oct 2026 05:30:00 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "Barcelona 2-0 Athletic Club: el proyecto de Hansi Flick firma un triunfo contundente en el Camp Nou",
+      "summary": "Barcelona 2-0 Athletic Club: el proyecto de Hansi Flick firma un triunfo contundente en el Camp Nou",
+      "source_count": 1,
+      "languages": [
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona Noticias",
+          "url": "https://www.fcbarcelonanoticias.com/barcelona-2-0-athletic-club-el-proyecto-de-hansi-flick-firma-un-triunfo-contundente-en-el-camp-nou/",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 40,
+          "source": "FC Barcelona Noticias",
+          "tier": "specialist",
+          "lang": [
+            "es",
+            "en"
+          ],
+          "title": "Barcelona 2-0 Athletic Club: el proyecto de Hansi Flick firma un triunfo contundente en el Camp Nou",
+          "url": "https://www.fcbarcelonanoticias.com/barcelona-2-0-athletic-club-el-proyecto-de-hansi-flick-firma-un-triunfo-contundente-en-el-camp-nou/",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 40,
+          "source": "FC Barcelona Noticias",
+          "tier": "specialist",
+          "lang": [
+            "es",
+            "en"
+          ],
+          "title": "FC Barcelona – Athletic Club: Todo listo en el Camp Nou para un choque de altura",
+          "url": "https://www.fcbarcelonanoticias.com/fc-barcelona-athletic-club-todo-listo-en-el-camp-nou-para-un-choque-de-altura/",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "ticket-vip BARÇA BUSINESS External link",
+      "summary": "ticket-vip BARÇA BUSINESS External link",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://www.fcbarcelona.com/en/tickets/hospitality?int=WB_26-27_K0-272&btm_source=WebBarca&btm_medium=SliderMenu&btm_campaign=barcabusiness_EN_TKT_B2B_WW",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "ticket-vip BARÇA BUSINESS External link",
+          "url": "https://www.fcbarcelona.com/en/tickets/hospitality?int=WB_26-27_K0-272&btm_source=WebBarca&btm_medium=SliderMenu&btm_campaign=barcabusiness_EN_TKT_B2B_WW",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Academy The flagship Barça school. Teaching Barça values to boys and girls",
+      "summary": "Barça Academy The flagship Barça school. Teaching Barça values to boys and girls",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://barcaacademy.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=BarcaAcademy_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Academy The flagship Barça school. Teaching Barça values to boys and girls",
+          "url": "https://barcaacademy.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=BarcaAcademy_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Foundation The Official site of the Barça Foundation.",
+      "summary": "Barça Foundation The Official site of the Barça Foundation.",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://foundation.fcbarcelona.com/home?ext=OCM_880&utm_source=WebBarca&utm_medium=BarcaSites&utm_campaign=Fundacio_ORG_DIG_WEB_TXT_WW_EN&utm_term=BarcaSitesFundacio",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Foundation The Official site of the Barça Foundation.",
+          "url": "https://foundation.fcbarcelona.com/home?ext=OCM_880&utm_source=WebBarca&utm_medium=BarcaSites&utm_campaign=Fundacio_ORG_DIG_WEB_TXT_WW_EN&utm_term=BarcaSitesFundacio",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Innovation Hub The center for sports knowledge and innovation.",
+      "summary": "Barça Innovation Hub The center for sports knowledge and innovation.",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://barcainnovationhub.fcbarcelona.com/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Bihub_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Innovation Hub The center for sports knowledge and innovation.",
+          "url": "https://barcainnovationhub.fcbarcelona.com/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Bihub_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Mobile The virtual mobile network operator of FC Barcelona",
+      "summary": "Barça Mobile The virtual mobile network operator of FC Barcelona",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://barcamobile.com/en",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Mobile The virtual mobile network operator of FC Barcelona",
+          "url": "https://barcamobile.com/en",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Espai Barça The largest and most innovative sports and entertainment space",
+      "summary": "Espai Barça The largest and most innovative sports and entertainment space",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://espaibarca.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=EspaiBarca_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Espai Barça The largest and most innovative sports and entertainment space",
+          "url": "https://espaibarca.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=EspaiBarca_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Memorial FC Barcelona FC Barcelona Memorial Official Website",
+      "summary": "Memorial FC Barcelona FC Barcelona Memorial Official Website",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://memorialfcbarcelona.com/en",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Memorial FC Barcelona FC Barcelona Memorial Official Website",
+          "url": "https://memorialfcbarcelona.com/en",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Vision Barça Vision is an innovative platform that uses emerging technologies like Web3 and Artificial intelligence to revolutionise the fan experience.",
+      "summary": "Barça Vision Barça Vision is an innovative platform that uses emerging technologies like Web3 and Artificial intelligence to revolutionise the fan experience.",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://barcavision.fcbarcelona.com/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Barca-Vision_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Vision Barça Vision is an innovative platform that uses emerging technologies like Web3 and Artificial intelligence to revolutionise the fan experience.",
+          "url": "https://barcavision.fcbarcelona.com/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Barca-Vision_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Official Store Camp Nou Shop now at Barça's Official Store Camp Nou",
+      "summary": "Barça Official Store Camp Nou Shop now at Barça's Official Store Camp Nou",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://store.fcbarcelona.com/en/?ext=OCM_2913&utm_source=WebBarca&utm_medium=BarcaSites&utm_campaign=BLM_ORG_BLM_HOME_OCM_webBarca_TXT_WW_EN&utm_content=&utm_term=BarcaSitesBLM",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Official Store Camp Nou Shop now at Barça's Official Store Camp Nou",
+          "url": "https://store.fcbarcelona.com/en/?ext=OCM_2913&utm_source=WebBarca&utm_medium=BarcaSites&utm_campaign=BLM_ORG_BLM_HOME_OCM_webBarca_TXT_WW_EN&utm_content=&utm_term=BarcaSitesBLM",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Penyes All the official information of the FC Barcelona Supporters' Clubs",
+      "summary": "Barça Penyes All the official information of the FC Barcelona Supporters' Clubs",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://penyes.fcbarcelona.com/en/",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Penyes All the official information of the FC Barcelona Supporters' Clubs",
+          "url": "https://penyes.fcbarcelona.com/en/",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Agrupació Jugadors The organisation that unites ex-players from all FC Barcelona football teams.",
+      "summary": "Agrupació Jugadors The organisation that unites ex-players from all FC Barcelona football teams.",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://agrupaciojugadors.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=ABJ_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Agrupació Jugadors The organisation that unites ex-players from all FC Barcelona football teams.",
+          "url": "https://agrupaciojugadors.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=ABJ_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Players Find all the players that have played for Barça!",
+      "summary": "Barça Players Find all the players that have played for Barça!",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://players.fcbarcelona.com/en?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Players_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Players Find all the players that have played for Barça!",
+          "url": "https://players.fcbarcelona.com/en?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Players_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Rookies Barça's most special fans!",
+      "summary": "Barça Rookies Barça's most special fans!",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://www.fcbrookies.cat/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Rookies_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Rookies Barça's most special fans!",
+          "url": "https://www.fcbrookies.cat/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Rookies_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "FC Barcelona club badge Hansi Flick: 'I am happy with my team' The Barça coach and midfielder Dani Olmo react to the win over Betis in La Liga First Team Published date 17 Oct 26",
+      "summary": "FC Barcelona club badge Hansi Flick: 'I am happy with my team' The Barça coach and midfielder Dani Olmo react to the win over Betis in La Liga First Team Published date 17 Oct 26",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://www.fcbarcelona.com/en/barca-play/videos/4593735",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "FC Barcelona club badge Hansi Flick: 'I am happy with my team' The Barça coach and midfielder Dani Olmo react to the win over Betis in La Liga First Team Published date 17 Oct 26",
+          "url": "https://www.fcbarcelona.com/en/barca-play/videos/4593735",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "PSG v Barcelona - Europe's most exciting match-up?PSG v Barcelona - Europe's most exciting match-up?",
+      "summary": "Paris St-Germain and Barcelona, the current top two in this season's Champions League, meet on Tuesday.Paris St-Germain and Barcelona, the current top two in this season's Champions League, meet on Tuesday.",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c820vw7velvro?at_medium=RSS&at_campaign=rsshttps://www.bbc.co.uk/sport/football/articles/c820vw7velvro?at_medium=RSS&at_campaign=rss",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 6,
+          "source": "BBC Sport",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "PSG v Barcelona - Europe's most exciting match-up?PSG v Barcelona - Europe's most exciting match-up?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c820vw7velvro?at_medium=RSS&at_campaign=rsshttps://www.bbc.co.uk/sport/football/articles/c820vw7velvro?at_medium=RSS&at_campaign=rss",
+          "summary": "Paris St-Germain and Barcelona, the current top two in this season's Champions League, meet on Tuesday.Paris St-Germain and Barcelona, the current top two in this season's Champions League, meet on Tuesday.",
+          "published": "Tue, 20 Oct 2026 08:52:56 GMTTue, 20 Oct 2026 08:52:56 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Araujo the stopgap solution fixing Liverpool's problemsAraujo the stopgap solution fixing Liverpool's problems",
+      "summary": "Ronald Araujo has impressed since arriving at Liverpool from Barcelona. Could he prove a longer-term solution?Ronald Araujo has impressed since arriving at Liverpool from Barcelona. Could he prove a longer-term solution?",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ck8dz7pp4089o?at_medium=RSS&at_campaign=rsshttps://www.bbc.co.uk/sport/football/articles/ck8dz7pp4089o?at_medium=RSS&at_campaign=rss",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 6,
+          "source": "BBC Sport",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Araujo the stopgap solution fixing Liverpool's problemsAraujo the stopgap solution fixing Liverpool's problems",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ck8dz7pp4089o?at_medium=RSS&at_campaign=rsshttps://www.bbc.co.uk/sport/football/articles/ck8dz7pp4089o?at_medium=RSS&at_campaign=rss",
+          "summary": "Ronald Araujo has impressed since arriving at Liverpool from Barcelona. Could he prove a longer-term solution?Ronald Araujo has impressed since arriving at Liverpool from Barcelona. Could he prove a longer-term solution?",
+          "published": "Mon, 19 Oct 2026 16:29:34 GMTMon, 19 Oct 2026 16:29:34 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Mbappe scores twice as Real Madrid beat SevillaMbappe scores twice as Real Madrid beat Sevilla",
+      "summary": "Kylian Mbappe scores twice as Real Madrid beat Sevilla 4-1 in La Liga to close the gap on Barcelona to six points ahead of next weekend's El Clasico. Kylian Mbappe scores twice as Real Madrid beat Sevilla 4-1 in La Liga to close the gap on Barcelona to six points ahead of next weekend's El Clasico.",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/videos/crp3g7z9x215o?at_medium=RSS&at_campaign=rsshttps://www.bbc.co.uk/sport/football/videos/crp3g7z9x215o?at_medium=RSS&at_campaign=rss",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 6,
+          "source": "BBC Sport",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Mbappe scores twice as Real Madrid beat SevillaMbappe scores twice as Real Madrid beat Sevilla",
+          "url": "https://www.bbc.co.uk/sport/football/videos/crp3g7z9x215o?at_medium=RSS&at_campaign=rsshttps://www.bbc.co.uk/sport/football/videos/crp3g7z9x215o?at_medium=RSS&at_campaign=rss",
+          "summary": "Kylian Mbappe scores twice as Real Madrid beat Sevilla 4-1 in La Liga to close the gap on Barcelona to six points ahead of next weekend's El Clasico. Kylian Mbappe scores twice as Real Madrid beat Sevilla 4-1 in La Liga to close the gap on Barcelona to six points ahead of next weekend's El Clasico.",
+          "published": "Sun, 18 Oct 2026 21:39:04 GMTSun, 18 Oct 2026 21:39:04 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Shades of Barca and Beckham - Brighton aim to maintain superb startShades of Barca and Beckham - Brighton aim to maintain superb start",
+      "summary": "With 23 goals in seven Premier League matches, including some stunning strikes, Brighton continue to delight their fans and get them dreaming of what might be.With 23 goals in seven Premier League matches, including some stunning strikes, Brighton continue to delight their fans and get them dreaming of what might be.",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmwyd05wj00do?at_medium=RSS&at_campaign=rsshttps://www.bbc.co.uk/sport/football/articles/cmwyd05wj00do?at_medium=RSS&at_campaign=rss",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 6,
+          "source": "BBC Sport",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Shades of Barca and Beckham - Brighton aim to maintain superb startShades of Barca and Beckham - Brighton aim to maintain superb start",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmwyd05wj00do?at_medium=RSS&at_campaign=rsshttps://www.bbc.co.uk/sport/football/articles/cmwyd05wj00do?at_medium=RSS&at_campaign=rss",
+          "summary": "With 23 goals in seven Premier League matches, including some stunning strikes, Brighton continue to delight their fans and get them dreaming of what might be.With 23 goals in seven Premier League matches, including some stunning strikes, Brighton continue to delight their fans and get them dreaming of what might be.",
+          "published": "Sun, 18 Oct 2026 18:33:29 GMTSun, 18 Oct 2026 18:33:29 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Will that do? Lamine Yamal conjures another magical spell as Barça pass first test | Sid LoweWill that do? Lamine Yamal conjures another magical spell as Barça pass first test | Sid Lowe",
+      "summary": "The 19-year-old scored a cracker in Seville, days after his ‘almost rabona’ at Galatasaray, as La Liga leaders beat Real Betis When at last it was time for Lamine Yamal to leave, the 19-year-old’s number going up before the 90th minute for only the second time since the opening day, Real Betis fans whistled him all the way to the touchline where Barcelona’s coach was waiting. His work here was don",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/oct/19/lamine-yamal-wonder-goal-barcelona-real-betis-la-ligahttps://www.theguardian.com/football/2026/oct/19/lamine-yamal-wonder-goal-barcelona-real-betis-la-liga",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Will that do? Lamine Yamal conjures another magical spell as Barça pass first test | Sid LoweWill that do? Lamine Yamal conjures another magical spell as Barça pass first test | Sid Lowe",
+          "url": "https://www.theguardian.com/football/2026/oct/19/lamine-yamal-wonder-goal-barcelona-real-betis-la-ligahttps://www.theguardian.com/football/2026/oct/19/lamine-yamal-wonder-goal-barcelona-real-betis-la-liga",
+          "summary": "The 19-year-old scored a cracker in Seville, days after his ‘almost rabona’ at Galatasaray, as La Liga leaders beat Real Betis When at last it was time for Lamine Yamal to leave, the 19-year-old’s number going up before the 90th minute for only the second time since the opening day, Real Betis fans whistled him all the way to the touchline where Barcelona’s coach was waiting. His work here was don",
+          "published": "Mon, 19 Oct 2026 17:29:16 GMTMon, 19 Oct 2026 17:29:16 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "The 100 best male footballers in the world 2025The 100 best male footballers in the world 2025",
+      "summary": "Ousmane Dembélé becomes our seventh winner as he beats Lamine Yamal into second and Vitinha into third on our list of the best players on the planet Premier League dominates list | How every judge voted | Our methodology | The top 100 female players for 2025 2024 edition | 2023 | 2022 | 2021 | 2020 | 2019 | 2018 | 2017 | 2016 | 2015 | 2014 | 2013 | 2012 Continue reading... Ousmane Dembélé becomes ",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/ng-interactive/2025/dec/16/the-100-best-male-footballers-in-the-world-2025https://www.theguardian.com/football/ng-interactive/2025/dec/16/the-100-best-male-footballers-in-the-world-2025",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "The 100 best male footballers in the world 2025The 100 best male footballers in the world 2025",
+          "url": "https://www.theguardian.com/football/ng-interactive/2025/dec/16/the-100-best-male-footballers-in-the-world-2025https://www.theguardian.com/football/ng-interactive/2025/dec/16/the-100-best-male-footballers-in-the-world-2025",
+          "summary": "Ousmane Dembélé becomes our seventh winner as he beats Lamine Yamal into second and Vitinha into third on our list of the best players on the planet Premier League dominates list | How every judge voted | Our methodology | The top 100 female players for 2025 2024 edition | 2023 | 2022 | 2021 | 2020 | 2019 | 2018 | 2017 | 2016 | 2015 | 2014 | 2013 | 2012 Continue reading... Ousmane Dembélé becomes ",
+          "published": "Fri, 19 Dec 2025 10:04:51 GMTFri, 19 Dec 2025 10:04:51 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Aitana Bonmatí makes Guardian top 100 history with third title in a rowAitana Bonmatí makes Guardian top 100 history with third title in a row",
+      "summary": "The margin may have got smaller but the brilliant Spanish midfielder makes it a hat-trick of No 1 finishes They say the best things come in threes, and Aitana Bonmatí has written herself into the Guardian’s top 100 history as the first player to finish at the top of the tree for a third consecutive year. Last year the majestic midfielder emulated her Barcelona and Spain teammate Alexia Putellas by",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2025/dec/05/aitana-bonmati-guardian-top-100-history-third-straight-titlehttps://www.theguardian.com/football/2025/dec/05/aitana-bonmati-guardian-top-100-history-third-straight-title",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Aitana Bonmatí makes Guardian top 100 history with third title in a rowAitana Bonmatí makes Guardian top 100 history with third title in a row",
+          "url": "https://www.theguardian.com/football/2025/dec/05/aitana-bonmati-guardian-top-100-history-third-straight-titlehttps://www.theguardian.com/football/2025/dec/05/aitana-bonmati-guardian-top-100-history-third-straight-title",
+          "summary": "The margin may have got smaller but the brilliant Spanish midfielder makes it a hat-trick of No 1 finishes They say the best things come in threes, and Aitana Bonmatí has written herself into the Guardian’s top 100 history as the first player to finish at the top of the tree for a third consecutive year. Last year the majestic midfielder emulated her Barcelona and Spain teammate Alexia Putellas by",
+          "published": "Fri, 05 Dec 2025 08:00:42 GMTFri, 05 Dec 2025 08:00:42 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "PERFECT Barcelona Face Their Next BIG TEST! Real Betis vs. Barcelona MATCH PREVIEW - Scoreline",
+      "summary": "PERFECT Barcelona Face Their Next BIG TEST! Real Betis vs. Barcelona MATCH PREVIEW - Scoreline",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "CBS Sports",
+          "url": "https://www.cbssports.com/watch/soccer/video/perfect-barcelona-face-their-next-big-test-real-betis-vs-barcelona-match-preview-scoreline?ftag=CBS-16-10aci9g",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 11,
+          "source": "CBS Sports",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "PERFECT Barcelona Face Their Next BIG TEST! Real Betis vs. Barcelona MATCH PREVIEW - Scoreline",
+          "url": "https://www.cbssports.com/watch/soccer/video/perfect-barcelona-face-their-next-big-test-real-betis-vs-barcelona-match-preview-scoreline?ftag=CBS-16-10aci9g",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    }
+  ]
+}
