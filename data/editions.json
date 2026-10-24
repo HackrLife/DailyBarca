@@ -1,5 +1,6 @@
 {
   "editions": [
+    {"number": 292, "date": "2026-10-25", "label": "Sunday 25 Oct 2026", "file": "2026-10-25.json", "tweets": 9, "lead": "Flick rules Koundé out of the Clásico as Gavi and Fermín speak and Espart prepares at right-back"},
     {"number": 291, "date": "2026-10-24", "label": "Saturday 24 Oct 2026", "file": "2026-10-24.json", "tweets": 6, "lead": "Koundé stays in the gym and is practically ruled out as Barça complete Friday training ahead of the Clásico"},
     {"number": 290, "date": "2026-10-23", "label": "Friday 23 Oct 2026", "file": "2026-10-23.json", "tweets": 8, "lead": "Squad does voluntary work on rest day as Espart calls the Clásico a war and Klopp backs Barça"},
     {"number": 289, "date": "2026-10-22", "label": "Thursday 22 Oct 2026", "file": "2026-10-22.json", "tweets": 11, "lead": "PSG end Barça’s perfect start with a 4-2 win as Olmo is ruled out for a month and Espart scores on debut"},
