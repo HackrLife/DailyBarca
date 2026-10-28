@@ -1,0 +1,2143 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T10:37:48.869630+00:00",
+  "source_pool": 50,
+  "articles_kept": 252,
+  "clusters": 206,
+  "failed_sources": [
+    "UEFA – Barcelona",
+    "LaLiga – Barcelona",
+    "Reuters",
+    "Associated Press",
+    "ESPN",
+    "Sky Sports",
+    "CBS Sports",
+    "The Independent",
+    "Goal",
+    "Football España",
+    "Get Spanish Football News",
+    "Barça News Network",
+    "SPORT",
+    "Esport3",
+    "RAC1",
+    "Cadena SER",
+    "AS",
+    "Relevo",
+    "El Periódico",
+    "El Nacional",
+    "Món Esport",
+    "Onda Cero",
+    "COPE",
+    "FotMob",
+    "Sofascore",
+    "FBref",
+    "WhoScored",
+    "Transfermarkt",
+    "OneFootball",
+    "LiveScore"
+  ],
+  "stories": [
+    {
+      "headline": "Ballon d’Or 2026 Rankings Reveal As It Happened: Where Mbappe, Yamal, Kane Finished",
+      "summary": "Ballon d’Or 2026 Rankings Reveal As It Happened: Where Mbappe, Yamal, Kane Finished",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Sports Illustrated",
+          "url": "https://www.si.com/soccer/ballon-dor-2026-live-rankings-reveal-mbappe-yamal-kane",
+          "tier": "major"
+        },
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/how-close-mbappe-yamal-came-beating-kane-2026-ballon-dor",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 10,
+          "source": "Sports Illustrated",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Ballon d’Or 2026 Rankings Reveal As It Happened: Where Mbappe, Yamal, Kane Finished",
+          "url": "https://www.si.com/soccer/ballon-dor-2026-live-rankings-reveal-mbappe-yamal-kane",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "‘Extremely Small’—How Close Mbappe, Yamal Came to Beating Kane to 2026 Ballon d’Or",
+          "url": "https://www.si.com/soccer/how-close-mbappe-yamal-came-beating-kane-2026-ballon-dor",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Ballon d’Or 2026 Rankings Reveal As It Happened: Where Mbappe, Yamal, Kane Finished",
+          "url": "https://www.si.com/soccer/ballon-dor-2026-live-rankings-reveal-mbappe-yamal-kane",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Transfer Rumors: Rashford’s Premier League Switch; Barcelona Eye Double Man City Swoop",
+      "summary": "Transfer Rumors: Rashford’s Premier League Switch; Barcelona Eye Double Man City Swoop",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Sports Illustrated",
+          "url": "https://www.si.com/soccer/transfer-rumors-rashford-premier-league-barcelona-double-man-city-swoop",
+          "tier": "major"
+        },
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/transfer-rumors-rashford-premier-league-barcelona-double-man-city-swoop",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 10,
+          "source": "Sports Illustrated",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Transfer Rumors: Rashford’s Premier League Switch; Barcelona Eye Double Man City Swoop",
+          "url": "https://www.si.com/soccer/transfer-rumors-rashford-premier-league-barcelona-double-man-city-swoop",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 10,
+          "source": "Sports Illustrated",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Transfer Rumors: Man Utd Plot Man City Raid; Barcelona Eye Vitinha",
+          "url": "https://www.si.com/soccer/transfer-rumors-man-utd-plot-man-city-raid-barcelona-eye-vitinha",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Transfer Rumors: Rashford’s Premier League Switch; Barcelona Eye Double Man City Swoop",
+          "url": "https://www.si.com/soccer/transfer-rumors-rashford-premier-league-barcelona-double-man-city-swoop",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 13h ‘Good things take time’ - Lamine Yamal sends out message after missing out on Ballon d’Or to Harry Kane He also congratulated the winners.",
+      "summary": "www.barcablaugranes.com • 13h ‘Good things take time’ - Lamine Yamal sends out message after missing out on Ballon d’Or to Harry Kane He also congratulated the winners.",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/barcelona-team-news/136379/lamine-yamal-message-after-missing-out-on-ballon-dor-harry-kane?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-team-news/136379/lamine-yamal-message-after-missing-out-on-ballon-dor-harry-kane",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 13h ‘Good things take time’ - Lamine Yamal sends out message after missing out on Ballon d’Or to Harry Kane He also congratulated the winners.",
+          "url": "https://www.barcablaugranes.com/barcelona-team-news/136379/lamine-yamal-message-after-missing-out-on-ballon-dor-harry-kane?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 1d Lamine Yamal, Harry Kane and Kylian Mbappe named as winners in major Ballon d’Or blunder Somebody messed up ahead of the big event.",
+          "url": "https://www.barcablaugranes.com/barcelona-team-news/136225/lamine-yamal-harry-kane-kylian-mbappe-major-ballon-dor-blunder?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "‘Good things take time’ – Lamine Yamal sends out message after missing out on Ballon d’Or to Harry Kane‘Good things take time’ – Lamine Yamal sends out message after missing out on Ballon d’Or to Harry Kane",
+          "url": "https://www.barcablaugranes.com/barcelona-team-news/136379/lamine-yamal-message-after-missing-out-on-ballon-dor-harry-kane",
+          "summary": "Barcelona star Lamine Yamal has reacted to missing out on the 2026 Ballon d’Or with a post on social media. Bayern’s Harry Kane was declared the best player in the world on Monday night, with Kylian Mbappe in second place and 19-year-old Yamal third The Barca forward has now shared his thoughts on social media. […]Barcelona star Lamine Yamal has reacted to missing out on the 2026 Ballon d’Or with ",
+          "published": "2026-10-27T15:46:31-04:002026-10-27T15:46:31-04:00"
+        }
+      ]
+    },
+    {
+      "headline": "Barcelona fined £503 over approach for AlvarezBarcelona fined £503 over approach for Alvarez",
+      "summary": "Barcelona are fined 602 euros (£503) following a complaint by Atletico Madrid over contact the club made with striker Julian Alvarez.Barcelona are fined 602 euros (£503) following a complaint by Atletico Madrid over contact the club made with striker Julian Alvarez.",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmpwg0lqxkd4o?at_medium=RSS&at_campaign=rsshttps://www.bbc.co.uk/sport/football/articles/cmpwg0lqxkd4o?at_medium=RSS&at_campaign=rss",
+          "tier": "major"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/oct/27/barcelona-fined-503-over-their-approach-for-atletico-madrid-star-alvarezhttps://www.theguardian.com/football/2026/oct/27/barcelona-fined-503-over-their-approach-for-atletico-madrid-star-alvarez",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 6,
+          "source": "BBC Sport",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona fined £503 over approach for AlvarezBarcelona fined £503 over approach for Alvarez",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmpwg0lqxkd4o?at_medium=RSS&at_campaign=rsshttps://www.bbc.co.uk/sport/football/articles/cmpwg0lqxkd4o?at_medium=RSS&at_campaign=rss",
+          "summary": "Barcelona are fined 602 euros (£503) following a complaint by Atletico Madrid over contact the club made with striker Julian Alvarez.Barcelona are fined 602 euros (£503) following a complaint by Atletico Madrid over contact the club made with striker Julian Alvarez.",
+          "published": "Tue, 27 Oct 2026 21:38:20 GMTTue, 27 Oct 2026 21:38:20 GMT"
+        },
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona fined £503 over their approach for Atlético Madrid star ÁlvarezBarcelona fined £503 over their approach for Atlético Madrid star Álvarez",
+          "url": "https://www.theguardian.com/football/2026/oct/27/barcelona-fined-503-over-their-approach-for-atletico-madrid-star-alvarezhttps://www.theguardian.com/football/2026/oct/27/barcelona-fined-503-over-their-approach-for-atletico-madrid-star-alvarez",
+          "summary": "Atlético accused Barcelona during summer chase Striker now rebuilding his reputation with fans Barcelona’s pursuit of Julián Álvarez came at a modest cost ⁠on Tuesday after the Spanish FA fined the club €602 (£503) following a complaint by Atlético Madrid over contact ⁠with ​the striker. Atlético accused Barcelona of approaching the Argentine, whose contract runs until June 2030, ⁠without first no",
+          "published": "Tue, 27 Oct 2026 23:18:47 GMTTue, 27 Oct 2026 23:18:47 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Julian Alvarez Makes Barcelona Transfer U-Turn With Massive Atletico Apology",
+      "summary": "Julian Alvarez Makes Barcelona Transfer U-Turn With Massive Atletico Apology",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Sports Illustrated",
+          "url": "https://www.si.com/soccer/julian-alvarez-barcelona-transfer-atletico-apology",
+          "tier": "major"
+        },
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/julian-alvarez-barcelona-transfer-atletico-apology",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 10,
+          "source": "Sports Illustrated",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Julian Alvarez Makes Barcelona Transfer U-Turn With Massive Atletico Apology",
+          "url": "https://www.si.com/soccer/julian-alvarez-barcelona-transfer-atletico-apology",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Julian Alvarez Makes Barcelona Transfer U-Turn With Massive Atletico Apology",
+          "url": "https://www.si.com/soccer/julian-alvarez-barcelona-transfer-atletico-apology",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Supercomputer Predicts La Liga Title Race After Real Madrid Shock Barcelona in El Clasico",
+      "summary": "Supercomputer Predicts La Liga Title Race After Real Madrid Shock Barcelona in El Clasico",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/supercomputer-predicts-la-liga-title-race-real-madrid-shock-barcelona-clasico",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Universal",
+          "url": "https://barcauniversal.com/barcelona-face-potential-sanctions-as-la-liga-reports-multiple-incidents-from-real-madrid-clasico/",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Supercomputer Predicts La Liga Title Race After Real Madrid Shock Barcelona in El Clasico",
+          "url": "https://www.si.com/soccer/supercomputer-predicts-la-liga-title-race-real-madrid-shock-barcelona-clasico",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 20,
+          "source": "Barça Universal",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona face potential sanctions as La Liga reports multiple incidents from Real Madrid Clasico",
+          "url": "https://barcauniversal.com/barcelona-face-potential-sanctions-as-la-liga-reports-multiple-incidents-from-real-madrid-clasico/",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "2026 Ballon d’Or: Who Lamine Yamal, Kylian Mbappe and Other Stars Are Backing to Win",
+      "summary": "2026 Ballon d’Or: Who Lamine Yamal, Kylian Mbappe and Other Stars Are Backing to Win",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/2026-ballon-dor-who-lamine-yamal-kylian-mbappe-other-stars-backing-to-win",
+          "tier": "volume"
+        },
+        {
+          "name": "Football365",
+          "url": "https://www.football365.com/news/who-will-win-the-2026-ballon-dor-yamal-the-runaway-early-favourite",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "2026 Ballon d’Or: Who Lamine Yamal, Kylian Mbappe and Other Stars Are Backing to Win",
+          "url": "https://www.si.com/soccer/2026-ballon-dor-who-lamine-yamal-kylian-mbappe-other-stars-backing-to-win",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 17,
+          "source": "Football365",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Who will win the 2026 Ballon d’Or? Harry Kane, Kylian Mbappe, Lamine Yamal poised for the podium",
+          "url": "https://www.football365.com/news/who-will-win-the-2026-ballon-dor-yamal-the-runaway-early-favourite",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barcelona vs. Real Madrid Player Ratings: Mbappe Hits 100 As Los Blancos Stun Camp Nou",
+      "summary": "Barcelona vs. Real Madrid Player Ratings: Mbappe Hits 100 As Los Blancos Stun Camp Nou",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/barcelona-vs-real-madrid-player-ratings-mbappe-100-los-blancos-stun-camp-nou",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Universal",
+          "url": "https://barcauniversal.com/joan-garcia-7-cubarsi-6-barcelona-1-2-real-madrid-player-ratings/",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona vs. Real Madrid Player Ratings: Mbappe Hits 100 As Los Blancos Stun Camp Nou",
+          "url": "https://www.si.com/soccer/barcelona-vs-real-madrid-player-ratings-mbappe-100-los-blancos-stun-camp-nou",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 20,
+          "source": "Barça Universal",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Joan Garcia 7, Cubarsi 6 | Barcelona 1-2 Real Madrid: Player Ratings",
+          "url": "https://barcauniversal.com/joan-garcia-7-cubarsi-6-barcelona-1-2-real-madrid-player-ratings/",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 4h ‘What we need’ - Virgil van Dijk explains why Ronald Araujo is thriving at Liverpool The defender is impressing on loan in the Premier League.",
+      "summary": "www.barcablaugranes.com • 4h ‘What we need’ - Virgil van Dijk explains why Ronald Araujo is thriving at Liverpool The defender is impressing on loan in the Premier League.",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/136317/virgil-van-dijk-explains-why-ronald-araujo-thriving-liverpool?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/136317/virgil-van-dijk-explains-why-ronald-araujo-thriving-liverpool",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 4h ‘What we need’ - Virgil van Dijk explains why Ronald Araujo is thriving at Liverpool The defender is impressing on loan in the Premier League.",
+          "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/136317/virgil-van-dijk-explains-why-ronald-araujo-thriving-liverpool?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "‘What we need’ – Virgil van Dijk explains why Ronald Araujo is thriving at Liverpool‘What we need’ – Virgil van Dijk explains why Ronald Araujo is thriving at Liverpool",
+          "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/136317/virgil-van-dijk-explains-why-ronald-araujo-thriving-liverpool",
+          "summary": "Liverpool captain Virgil van Dijk has become the latest Red to shower praise on Barcelona loanee Ronald Araujo. The Uruguayan in loving life at Anfield following his summer transfer and was named Player of the Match (and Premier League Player of the Week) after Sunday’s win over Brighton. Manager Andoni Iraola spoke about how much […]Liverpool captain Virgil van Dijk has become the latest Red to s",
+          "published": "2026-10-28T02:00:00-04:002026-10-28T02:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 11h Brian Farinas emerges as potential option to replace injured Xavi Espart at Barcelona The midfielder did play in defence in pre-season.",
+      "summary": "www.barcablaugranes.com • 11h Brian Farinas emerges as potential option to replace injured Xavi Espart at Barcelona The midfielder did play in defence in pre-season.",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/136333/brian-farinas-tipped-role-xavi-espart?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/136333/brian-farinas-tipped-role-xavi-espart",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 11h Brian Farinas emerges as potential option to replace injured Xavi Espart at Barcelona The midfielder did play in defence in pre-season.",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/136333/brian-farinas-tipped-role-xavi-espart?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Brian Farinas emerges as potential option to replace injured Xavi Espart at BarcelonaBrian Farinas emerges as potential option to replace injured Xavi Espart at Barcelona",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/136333/brian-farinas-tipped-role-xavi-espart",
+          "summary": "Brian Farinas is yet to feature for Barcelona this season after being promoted to the first-team squad but could potentially get some minutes in the wake of Xavi Espart’s injury. The full-back has been sidelined for seven weeks with an ankle problem, leaving Barcelona short at the back as they are also still currently without […]Brian Farinas is yet to feature for Barcelona this season after being",
+          "published": "2026-10-27T18:00:00-04:002026-10-27T18:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 15h Barcelona fined after Atletico Madrid complain about Julian Alvarez pursuit The Catalans must pay a paltry fee.",
+      "summary": "www.barcablaugranes.com • 15h Barcelona fined after Atletico Madrid complain about Julian Alvarez pursuit The Catalans must pay a paltry fee.",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/136357/fined-after-atletico-madrid-complain-about-julian-alvarez-pursuit?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/136357/fined-after-atletico-madrid-complain-about-julian-alvarez-pursuit",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 15h Barcelona fined after Atletico Madrid complain about Julian Alvarez pursuit The Catalans must pay a paltry fee.",
+          "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/136357/fined-after-atletico-madrid-complain-about-julian-alvarez-pursuit?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona fined after Atletico Madrid complain about Julian Alvarez pursuitBarcelona fined after Atletico Madrid complain about Julian Alvarez pursuit",
+          "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/136357/fined-after-atletico-madrid-complain-about-julian-alvarez-pursuit",
+          "summary": "Barcelona have reportedly been fined €602 after Atletico Madrid complained about the Catalans’ pursuit of Julian Alvarez in the summer transfer window. Los Colchoneros filed a complaint with FIFA and the RFEF after being angered by a summer that saw Alvarez say he wanted to leave and Barcelona heavily linked with the Argentina international. According […]Barcelona have reportedly been fined €602 a",
+          "published": "2026-10-27T14:00:00-04:002026-10-27T14:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 17h What should Hansi Flick and Barcelona do next after losing to PSG and Real Madrid? The early season honeymoon is over for Barcelona",
+      "summary": "www.barcablaugranes.com • 17h What should Hansi Flick and Barcelona do next after losing to PSG and Real Madrid? The early season honeymoon is over for Barcelona",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/cant-del-blog-barcelona-opinion/136339/what-should-hansi-flick-and-barcelona-do-next-after-losing-to-psg-and-real-madrid?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/cant-del-blog-barcelona-opinion/136339/what-should-hansi-flick-and-barcelona-do-next-after-losing-to-psg-and-real-madrid",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 17h What should Hansi Flick and Barcelona do next after losing to PSG and Real Madrid? The early season honeymoon is over for Barcelona",
+          "url": "https://www.barcablaugranes.com/cant-del-blog-barcelona-opinion/136339/what-should-hansi-flick-and-barcelona-do-next-after-losing-to-psg-and-real-madrid?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "What should Hansi Flick and Barcelona do next after losing to PSG and Real Madrid?What should Hansi Flick and Barcelona do next after losing to PSG and Real Madrid?",
+          "url": "https://www.barcablaugranes.com/cant-del-blog-barcelona-opinion/136339/what-should-hansi-flick-and-barcelona-do-next-after-losing-to-psg-and-real-madrid",
+          "summary": "This will be an important week of reflection for Hansi Flick and everyone involved at Barcelona. There’s no midweek fixture, which will allow for much-needed recovery time, but around the corner there are big challenges to come in the form of Aston Villa and Atletico Madrid. Barcelona would be wise to see the big picture. […]This will be an important week of reflection for Hansi Flick and everyone",
+          "published": "2026-10-27T12:00:00-04:002026-10-27T12:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "headline": "Eight in, many out – Rating Barcelona’s 2026 summer transfer window",
+      "summary": "Eight in, many out – Rating Barcelona’s 2026 summer transfer window",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Barça Universal",
+          "url": "https://barcauniversal.com/eight-in-many-out-rating-barcelonas-2026-summer-transfer-window/",
+          "tier": "specialist"
+        },
+        {
+          "name": "Everything Barça",
+          "url": "https://everythingbarca.com/barcelona-complete-2026-summer-transfer-window-recap",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 20,
+          "source": "Barça Universal",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Eight in, many out – Rating Barcelona’s 2026 summer transfer window",
+          "url": "https://barcauniversal.com/eight-in-many-out-rating-barcelonas-2026-summer-transfer-window/",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 24,
+          "source": "Everything Barça",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Complete recap of Barcelona's massive 2026 summer transfer window",
+          "url": "https://everythingbarca.com/barcelona-complete-2026-summer-transfer-window-recap",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "How Real Madrid Beat Barcelona’s Press to Win El ClásicoHow Real Madrid Beat Barcelona’s Press to Win El Clásico",
+      "summary": "On episode 867, Dan and Domagoj give their thoughts on the Ballon d’Or outcome before diving back into the issues Barcelona had in El Clásico. They focus on Barça’s press and how Mourinho figured out how to get through it, plus the problems at the back and possible solutions. Special Discount for Domagoj’s Substack: https://domstacticslab.substack.com/2f443677 […] The post How Real Madrid Beat Bar",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "BarçaBlog",
+          "url": "https://barcablog.com/2026/10/how-real-madrid-beat-barcelonas-press-to-win-el-clasico.html?utm_source=rss&utm_medium=rss&utm_campaign=how-real-madrid-beat-barcelonas-press-to-win-el-clasicohttps://barcablog.com/2026/10/how-real-madrid-beat-barcelonas-press-to-win-el-clasico.html?utm_source=rss&utm_medium=rss&utm_campaign=how-real-madrid-beat-barcelonas-press-to-win-el-clasico",
+          "tier": "specialist"
+        },
+        {
+          "name": "Opta Analyst",
+          "url": "https://theanalyst.com/articles/barcelona-vs-real-madrid-el-clasico-live-stats-10-2026",
+          "tier": "data"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 23,
+          "source": "BarçaBlog",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "How Real Madrid Beat Barcelona’s Press to Win El ClásicoHow Real Madrid Beat Barcelona’s Press to Win El Clásico",
+          "url": "https://barcablog.com/2026/10/how-real-madrid-beat-barcelonas-press-to-win-el-clasico.html?utm_source=rss&utm_medium=rss&utm_campaign=how-real-madrid-beat-barcelonas-press-to-win-el-clasicohttps://barcablog.com/2026/10/how-real-madrid-beat-barcelonas-press-to-win-el-clasico.html?utm_source=rss&utm_medium=rss&utm_campaign=how-real-madrid-beat-barcelonas-press-to-win-el-clasico",
+          "summary": "On episode 867, Dan and Domagoj give their thoughts on the Ballon d’Or outcome before diving back into the issues Barcelona had in El Clásico. They focus on Barça’s press and how Mourinho figured out how to get through it, plus the problems at the back and possible solutions. Special Discount for Domagoj’s Substack: https://domstacticslab.substack.com/2f443677 […] The post How Real Madrid Beat Bar",
+          "published": "Wed, 28 Oct 2026 00:16:36 +0000Wed, 28 Oct 2026 00:16:36 +0000"
+        },
+        {
+          "source_id": 50,
+          "source": "Opta Analyst",
+          "tier": "data",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona 1-2 Real Madrid: Kylian Mbappé Strikes Twice as José Mourinho Claims Clásico Win",
+          "url": "https://theanalyst.com/articles/barcelona-vs-real-madrid-el-clasico-live-stats-10-2026",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Lamine se pronuncia sobre el Balón de Oro: \"Llegará\" Lamine se pronuncia sobre el Balón de Oro: \"Llegará\"",
+      "summary": "Lamine Yamal fue el primer futbolista en subir al escenario del London Palladium a recoger, por tercer año consecutivo, el premio a Mejor Talento de la gala del Balón de Oro. Thierry Henry, en su pregunta como presentador del evento, bromeó con que no era el premio que quería recibir esa noche. Al final, Lamine quedó tercero en la votación más importante de la velada. Lamine Yamal fue el primer fu",
+      "source_count": 2,
+      "languages": [
+        "ca",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261027/1004243964/lamine-pronuncia-sobre-balon-oro-llegara.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20261027/1004243964/lamine-pronuncia-sobre-balon-oro-llegara.html",
+          "tier": "local"
+        },
+        {
+          "name": "La Vanguardia",
+          "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20261026/11668603/lamine-yamal-estadistica-balon-de-oro-observatorio-cies.htmlhttps://www.lavanguardia.com/deportes/fc-barcelona/20261026/11668603/lamine-yamal-estadistica-balon-de-oro-observatorio-cies.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 26,
+          "source": "Mundo Deportivo",
+          "tier": "local",
+          "lang": [
+            "es"
+          ],
+          "title": "Lamine se pronuncia sobre el Balón de Oro: \"Llegará\" Lamine se pronuncia sobre el Balón de Oro: \"Llegará\"",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261027/1004243964/lamine-pronuncia-sobre-balon-oro-llegara.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20261027/1004243964/lamine-pronuncia-sobre-balon-oro-llegara.html",
+          "summary": "Lamine Yamal fue el primer futbolista en subir al escenario del London Palladium a recoger, por tercer año consecutivo, el premio a Mejor Talento de la gala del Balón de Oro. Thierry Henry, en su pregunta como presentador del evento, bromeó con que no era el premio que quería recibir esa noche. Al final, Lamine quedó tercero en la votación más importante de la velada. Lamine Yamal fue el primer fu",
+          "published": "27 Oct 2026 20:15:42 +010027 Oct 2026 20:15:42 +0100"
+        },
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "La estadística elige a Lamine Yamal como Balón de Oro La estadística elige a Lamine Yamal como Balón de Oro",
+          "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20261026/11668603/lamine-yamal-estadistica-balon-de-oro-observatorio-cies.htmlhttps://www.lavanguardia.com/deportes/fc-barcelona/20261026/11668603/lamine-yamal-estadistica-balon-de-oro-observatorio-cies.html",
+          "summary": "El blaugrana repite como el jugador más completo estadísticamente hablando de la temporada pasada El blaugrana repite como el jugador más completo estadísticamente hablando de la temporada pasada",
+          "published": "26 Oct 2026 17:22:35 +010026 Oct 2026 17:22:35 +0100"
+        }
+      ]
+    },
+    {
+      "headline": "Así te hemos contado la victoria del Real Madrid frente al Barcelona en el clásico de LigaAsí te hemos contado la victoria del Real Madrid frente al Barcelona en el clásico de Liga",
+      "summary": "Un doblete de Mbappé deja al equipo de Mourinho a tres puntos de los azulgrana | Raphinha empató el primer tanto de los blancosUn doblete de Mbappé deja al equipo de Mourinho a tres puntos de los azulgrana | Raphinha empató el primer tanto de los blancos",
+      "source_count": 2,
+      "languages": [
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "El País",
+          "url": "https://elpais.com/deportes/futbol/2026-10-25/barcelona-real-madrid-en-directo-el-clasico-de-la-liga-en-vivo.htmlhttps://elpais.com/deportes/futbol/2026-10-25/barcelona-real-madrid-en-directo-el-clasico-de-la-liga-en-vivo.html",
+          "tier": "national"
+        },
+        {
+          "name": "Opta Analyst",
+          "url": "https://theanalyst.com/articles/barcelona-vs-real-madrid-prediction-la-liga-el-clasico-preview-10-2026",
+          "tier": "data"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 30,
+          "source": "El País",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "Así te hemos contado la victoria del Real Madrid frente al Barcelona en el clásico de LigaAsí te hemos contado la victoria del Real Madrid frente al Barcelona en el clásico de Liga",
+          "url": "https://elpais.com/deportes/futbol/2026-10-25/barcelona-real-madrid-en-directo-el-clasico-de-la-liga-en-vivo.htmlhttps://elpais.com/deportes/futbol/2026-10-25/barcelona-real-madrid-en-directo-el-clasico-de-la-liga-en-vivo.html",
+          "summary": "Un doblete de Mbappé deja al equipo de Mourinho a tres puntos de los azulgrana | Raphinha empató el primer tanto de los blancosUn doblete de Mbappé deja al equipo de Mourinho a tres puntos de los azulgrana | Raphinha empató el primer tanto de los blancos",
+          "published": "Mon, 26 Oct 2026 00:22:09 GMTMon, 26 Oct 2026 00:22:09 GMT"
+        },
+        {
+          "source_id": 50,
+          "source": "Opta Analyst",
+          "tier": "data",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona vs Real Madrid Prediction: La Liga El Clásico Preview",
+          "url": "https://theanalyst.com/articles/barcelona-vs-real-madrid-prediction-la-liga-el-clasico-preview-10-2026",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "La RFEF solo multa al Barça con 600 euros por contactar a Julián Álvarez La RFEF solo multa al Barça con 600 euros por contactar a Julián Álvarez",
+      "summary": "La denuncia del Atlético de Madrid al club blaugrana se salda con un castigo simbólico al juzgarlo como infracción leve La denuncia del Atlético de Madrid al club blaugrana se salda con un castigo simbólico al juzgarlo como infracción leve",
+      "source_count": 2,
+      "languages": [
+        "ca",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "La Vanguardia",
+          "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20261027/11669571/rfef-multa-barca-600-euros-tocar-julian-alvarez.htmlhttps://www.lavanguardia.com/deportes/fc-barcelona/20261027/11669571/rfef-multa-barca-600-euros-tocar-julian-alvarez.html",
+          "tier": "national"
+        },
+        {
+          "name": "Culemanía",
+          "url": "https://cronicaglobal.elespanol.com/culemania/palco/20261027/flirteo-veraniego-barca-julian-alvarez-irrisoria-inminente/1003742806788_0.html",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "La RFEF solo multa al Barça con 600 euros por contactar a Julián Álvarez La RFEF solo multa al Barça con 600 euros por contactar a Julián Álvarez",
+          "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20261027/11669571/rfef-multa-barca-600-euros-tocar-julian-alvarez.htmlhttps://www.lavanguardia.com/deportes/fc-barcelona/20261027/11669571/rfef-multa-barca-600-euros-tocar-julian-alvarez.html",
+          "summary": "La denuncia del Atlético de Madrid al club blaugrana se salda con un castigo simbólico al juzgarlo como infracción leve La denuncia del Atlético de Madrid al club blaugrana se salda con un castigo simbólico al juzgarlo como infracción leve",
+          "published": "27 Oct 2026 18:15:14 +010027 Oct 2026 18:15:14 +0100"
+        },
+        {
+          "source_id": 39,
+          "source": "Culemanía",
+          "tier": "specialist",
+          "lang": [
+            "es"
+          ],
+          "title": "El flirteo veraniego del Barça con Julián Álvarez se salda con una multa irrisoria de 602 euros: recurso inminente",
+          "url": "https://cronicaglobal.elespanol.com/culemania/palco/20261027/flirteo-veraniego-barca-julian-alvarez-irrisoria-inminente/1003742806788_0.html",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "La brújula y la empatía de Mourinho rearman al Real Madrid La brújula y la empatía de Mourinho rearman al Real Madrid",
+      "summary": "La victoria en el Camp Nou premia al portugués, quien se ha ido ganando a los jugadores con decisiones que han ido cayendo por su propio peso La victoria en el Camp Nou premia al portugués, quien se ha ido ganando a los jugadores con decisiones que han ido cayendo por su propio peso",
+      "source_count": 2,
+      "languages": [
+        "ca",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "La Vanguardia",
+          "url": "https://www.lavanguardia.com/deportes/real-madrid/20261027/11668835/brujula-empatia-mourinho-rearman-real-madrid.htmlhttps://www.lavanguardia.com/deportes/real-madrid/20261027/11668835/brujula-empatia-mourinho-rearman-real-madrid.html",
+          "tier": "national"
+        },
+        {
+          "name": "MARCA",
+          "url": "https://www.marca.com/futbol/real-madrid/2026/10/06/tebas-real-madrid-tv-diga-negreira-sigue-influyendo-actualidad-barbaridad.htmlhttps://www.marca.com/futbol/real-madrid/2026/10/06/tebas-real-madrid-tv-diga-negreira-sigue-influyendo-actualidad-barbaridad.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "La brújula y la empatía de Mourinho rearman al Real Madrid La brújula y la empatía de Mourinho rearman al Real Madrid",
+          "url": "https://www.lavanguardia.com/deportes/real-madrid/20261027/11668835/brujula-empatia-mourinho-rearman-real-madrid.htmlhttps://www.lavanguardia.com/deportes/real-madrid/20261027/11668835/brujula-empatia-mourinho-rearman-real-madrid.html",
+          "summary": "La victoria en el Camp Nou premia al portugués, quien se ha ido ganando a los jugadores con decisiones que han ido cayendo por su propio peso La victoria en el Camp Nou premia al portugués, quien se ha ido ganando a los jugadores con decisiones que han ido cayendo por su propio peso",
+          "published": "27 Oct 2026 06:05:00 +010027 Oct 2026 06:05:00 +0100"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "REAL MADRIDREAL MADRID",
+          "url": "https://www.marca.com/futbol/real-madrid/2026/10/06/tebas-real-madrid-tv-diga-negreira-sigue-influyendo-actualidad-barbaridad.htmlhttps://www.marca.com/futbol/real-madrid/2026/10/06/tebas-real-madrid-tv-diga-negreira-sigue-influyendo-actualidad-barbaridad.html",
+          "summary": "El presidente de LaLiga vuelve a referirse a la investigación sobre los pagos del Barcelona al que fuera vicepresidente del CTAEl presidente de LaLiga vuelve a referirse a la investigación sobre los pagos del Barcelona al que fuera vicepresidente del CTA",
+          "published": "Tue, 06 Oct 2026 09:31:37 +0200Tue, 06 Oct 2026 09:31:37 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "BARÇABARÇA",
+      "summary": "No encadenaba dos suplencias con la selección desde 2022 y en el Barça ha perdido pesoNo encadenaba dos suplencias con la selección desde 2022 y en el Barça ha perdido peso",
+      "source_count": 1,
+      "languages": [
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "MARCA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/10/06/kounde-nuevo-escenario.htmlhttps://www.marca.com/futbol/barcelona/2026/10/06/kounde-nuevo-escenario.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/10/06/kounde-nuevo-escenario.htmlhttps://www.marca.com/futbol/barcelona/2026/10/06/kounde-nuevo-escenario.html",
+          "summary": "No encadenaba dos suplencias con la selección desde 2022 y en el Barça ha perdido pesoNo encadenaba dos suplencias con la selección desde 2022 y en el Barça ha perdido peso",
+          "published": "Tue, 06 Oct 2026 11:11:22 +0200Tue, 06 Oct 2026 11:11:22 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/10/05/cancelo-revienta-paron-vuelve-barca-pletorico-exhibicion-portugal.htmlhttps://www.marca.com/futbol/barcelona/2026/10/05/cancelo-revienta-paron-vuelve-barca-pletorico-exhibicion-portugal.html",
+          "summary": "Ha jugado los cuatro partidos y ha marcado dos golazosHa jugado los cuatro partidos y ha marcado dos golazos",
+          "published": "Mon, 05 Oct 2026 19:42:58 +0200Mon, 05 Oct 2026 19:42:58 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/10/05/creador-oliver-benji-recrea-boceto-figura-lamine-yamal.htmlhttps://www.marca.com/futbol/barcelona/2026/10/05/creador-oliver-benji-recrea-boceto-figura-lamine-yamal.html",
+          "summary": "El artista japonés Yoichi Takahashi ha estado de visita en el Spotify Camp NouEl artista japonés Yoichi Takahashi ha estado de visita en el Spotify Camp Nou",
+          "published": "Mon, 05 Oct 2026 17:43:42 +0200Mon, 05 Oct 2026 17:43:42 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/10/05/lamine-yamal-aun-cuenta-pendiente-barca.htmlhttps://www.marca.com/futbol/barcelona/2026/10/05/lamine-yamal-aun-cuenta-pendiente-barca.html",
+          "summary": "Tiene un aumento de ficha pactado, pero deberá esperar aún unos meses para su ejecuciónTiene un aumento de ficha pactado, pero deberá esperar aún unos meses para su ejecución",
+          "published": "Mon, 05 Oct 2026 16:00:31 +0200Mon, 05 Oct 2026 16:00:31 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/10/05/hugo-galdeano-talento-gigante-barca.htmlhttps://www.marca.com/futbol/barcelona/2026/10/05/hugo-galdeano-talento-gigante-barca.html",
+          "summary": "El menudo atacante de La Masía brilla por su nivel de juego y su garra… siendo el más chiquito de toda la categoríaEl menudo atacante de La Masía brilla por su nivel de juego y su garra… siendo el más chiquito de toda la categoría",
+          "published": "Mon, 05 Oct 2026 14:22:20 +0200Mon, 05 Oct 2026 14:22:20 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/10/05/barca-vuelve-trabajo-unica-novedad-eric-garcia.htmlhttps://www.marca.com/futbol/barcelona/2026/10/05/barca-vuelve-trabajo-unica-novedad-eric-garcia.html",
+          "summary": "Los no internacionales han tenido nueve días de descansoLos no internacionales han tenido nueve días de descanso",
+          "published": "Mon, 05 Oct 2026 11:48:13 +0200Mon, 05 Oct 2026 11:48:13 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/10/04/barca-regresa-lunes-trabajo-mini-vacaciones.htmlhttps://www.marca.com/futbol/barcelona/2026/10/04/barca-regresa-lunes-trabajo-mini-vacaciones.html",
+          "summary": "Los jugadores no internacionales disfrutaron de nueve días de descansoLos jugadores no internacionales disfrutaron de nueve días de descanso",
+          "published": "Sun, 04 Oct 2026 17:46:34 +0200Sun, 04 Oct 2026 17:46:34 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/10/04/barca-domina-europa-ritmo-gol.htmlhttps://www.marca.com/futbol/barcelona/2026/10/04/barca-domina-europa-ritmo-gol.html",
+          "summary": "Los culés, el equipo con mejor porcentaje realizador de las grandes ligasLos culés, el equipo con mejor porcentaje realizador de las grandes ligas",
+          "published": "Sun, 04 Oct 2026 16:48:34 +0200Sun, 04 Oct 2026 16:48:34 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "FC BARCELONAFC BARCELONA",
+      "summary": "El portero está a la espera de que el club le comunique cómo queda su situaciónEl portero está a la espera de que el club le comunique cómo queda su situación",
+      "source_count": 1,
+      "languages": [
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "MARCA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/barcelona-ter-stegen-maxima-tension.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/barcelona-ter-stegen-maxima-tension.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "FC BARCELONAFC BARCELONA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/barcelona-ter-stegen-maxima-tension.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/barcelona-ter-stegen-maxima-tension.html",
+          "summary": "El portero está a la espera de que el club le comunique cómo queda su situaciónEl portero está a la espera de que el club le comunique cómo queda su situación",
+          "published": "Mon, 09 Jun 2025 20:07:06 +0200Mon, 09 Jun 2025 20:07:06 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "FC BARCELONAFC BARCELONA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/lewandowski-me-dijeron-me-quitaban-brazalete-acostando-mis-hijos.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/lewandowski-me-dijeron-me-quitaban-brazalete-acostando-mis-hijos.html",
+          "summary": "El delantero afirma que&nbsp; Michal Probierz \"ha traicionado mi confianza\"El delantero afirma que&nbsp; Michal Probierz \"ha traicionado mi confianza\"",
+          "published": "Mon, 09 Jun 2025 18:51:43 +0200Mon, 09 Jun 2025 18:51:43 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "FC BARCELONAFC BARCELONA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/laporta-tira-diplomacia-evitar-sancion-uefa.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/laporta-tira-diplomacia-evitar-sancion-uefa.html",
+          "summary": "Se reunió con Ceferin para intentar mitigar el castigo por irregularidades financierasSe reunió con Ceferin para intentar mitigar el castigo por irregularidades financieras",
+          "published": "Mon, 09 Jun 2025 12:34:03 +0200Mon, 09 Jun 2025 12:34:03 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "FC BARCELONAFC BARCELONA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/lenglet-deja-barca.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/lenglet-deja-barca.html",
+          "summary": "Principio de acuerdo para la rescisión del contrato del futbolistaPrincipio de acuerdo para la rescisión del contrato del futbolista",
+          "published": "Mon, 09 Jun 2025 13:47:01 +0200Mon, 09 Jun 2025 13:47:01 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 20h Was Lamine Yamal robbed of the 2026 Ballon d’Or? Kylian Mbappe finished second to leave the Barcelona superstar third.",
+      "summary": "www.barcablaugranes.com • 20h Was Lamine Yamal robbed of the 2026 Ballon d’Or? Kylian Mbappe finished second to leave the Barcelona superstar third.",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/cant-del-blog-barcelona-opinion/136284/was-lamine-yamal-robbed-of-the-2026-ballon-dor?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 20h Was Lamine Yamal robbed of the 2026 Ballon d’Or? Kylian Mbappe finished second to leave the Barcelona superstar third.",
+          "url": "https://www.barcablaugranes.com/cant-del-blog-barcelona-opinion/136284/was-lamine-yamal-robbed-of-the-2026-ballon-dor?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 1d Harry Kane beats Kylian Mbappe and Lamine Yamal to 2026 Ballon d’Or award The Bayern man is the best.",
+          "url": "https://www.barcablaugranes.com/barcelona-team-news/136254/harry-kane-beats-lamine-yamal-to-2026-ballon-dor-award?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 1d Lamine Yamal vs Harry Kane: Who will win the 2026 Ballon d’Or? Time to predict the winner.",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/136177/lamine-yamal-harry-kane-kylian-mbappe-who-will-win-the-2026-ballon-dor?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Alexia Putellas y Harry Kane ganan el balón de Oro 2026: clasificación de Lamine Yamal y listado completo de jugadores Alexia Putellas y Harry Kane ganan el balón de Oro 2026: clasificación de Lamine Yamal y listado completo de jugadores",
+      "summary": "Alexia Putellas: “Espero poder llevar este Balón de Oro donde tiene que estar, que es en Barcelona”. Alexia Putellas: “Espero poder llevar este Balón de Oro donde tiene que estar, que es en Barcelona”.",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "La Vanguardia",
+          "url": "https://www.lavanguardia.com/deportes/futbol/20261026/11668236/gala-balon-de-oro-2026-ganador-mejor-jugador-del-mundo-lamine-yamal-kylian-mbappe-harry-kane-londres-ultima-hora-en-directo-hoy.htmlhttps://www.lavanguardia.com/deportes/futbol/20261026/11668236/gala-balon-de-oro-2026-ganador-mejor-jugador-del-mundo-lamine-yamal-kylian-mbappe-harry-kane-londres-ultima-hora-en-directo-hoy.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "Alexia Putellas y Harry Kane ganan el balón de Oro 2026: clasificación de Lamine Yamal y listado completo de jugadores Alexia Putellas y Harry Kane ganan el balón de Oro 2026: clasificación de Lamine Yamal y listado completo de jugadores",
+          "url": "https://www.lavanguardia.com/deportes/futbol/20261026/11668236/gala-balon-de-oro-2026-ganador-mejor-jugador-del-mundo-lamine-yamal-kylian-mbappe-harry-kane-londres-ultima-hora-en-directo-hoy.htmlhttps://www.lavanguardia.com/deportes/futbol/20261026/11668236/gala-balon-de-oro-2026-ganador-mejor-jugador-del-mundo-lamine-yamal-kylian-mbappe-harry-kane-londres-ultima-hora-en-directo-hoy.html",
+          "summary": "Alexia Putellas: “Espero poder llevar este Balón de Oro donde tiene que estar, que es en Barcelona”. Alexia Putellas: “Espero poder llevar este Balón de Oro donde tiene que estar, que es en Barcelona”.",
+          "published": "27 Oct 2026 09:47:22 +010027 Oct 2026 09:47:22 +0100"
+        },
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "Harry Kane se lleva el Balón de Oro al mejor futbolista por delante de Mbappé y Lamine Yamal, tercero Harry Kane se lleva el Balón de Oro al mejor futbolista por delante de Mbappé y Lamine Yamal, tercero",
+          "url": "https://www.lavanguardia.com/deportes/20261026/11668794/balon-oro-harry-kane-mejor-futbolista-por-delante-lamine-yamal-mbappe-londres.htmlhttps://www.lavanguardia.com/deportes/20261026/11668794/balon-oro-harry-kane-mejor-futbolista-por-delante-lamine-yamal-mbappe-londres.html",
+          "summary": "El delantero del Bayern de 33 años es el primer inglés en 25 años, desde Michael Owen, que gana el máximo galardón individual El delantero del Bayern de 33 años es el primer inglés en 25 años, desde Michael Owen, que gana el máximo galardón individual",
+          "published": "26 Oct 2026 23:51:19 +010026 Oct 2026 23:51:19 +0100"
+        },
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "Lamine Yamal, mejor talento joven del 2026, se queda sin Balón de Oro y termina tercero Lamine Yamal, mejor talento joven del 2026, se queda sin Balón de Oro y termina tercero",
+          "url": "https://www.lavanguardia.com/deportes/futbol/20261026/11668694/primer-premio-lamine-yamal-mejor-talento-joven-2026-balon-de-oro-londres.htmlhttps://www.lavanguardia.com/deportes/futbol/20261026/11668694/primer-premio-lamine-yamal-mejor-talento-joven-2026-balon-de-oro-londres.html",
+          "summary": "El extremo del Barça revalida por tercer año consecutivo el premio al mejor talento joven pero Harry Kane se lleva el trofeo dorado y Mbappé queda segundo El extremo del Barça revalida por tercer año consecutivo el premio al mejor talento joven pero Harry Kane se lleva el trofeo dorado y Mbappé queda segundo",
+          "published": "26 Oct 2026 22:00:28 +010026 Oct 2026 22:00:28 +0100"
+        }
+      ]
+    },
+    {
+      "headline": "Putellas wins record-equalling third Ballon d'Or to extend Spanish dominancePutellas wins record-equalling third Ballon d'Or to extend Spanish dominance",
+      "summary": "Barcelona and Spain midfielder Alexia Putellas wins the Ballon d'Or Feminin for a record-equalling third time.Barcelona and Spain midfielder Alexia Putellas wins the Ballon d'Or Feminin for a record-equalling third time.",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqp9gky38lj3o?at_medium=RSS&at_campaign=rsshttps://www.bbc.co.uk/sport/football/articles/cqp9gky38lj3o?at_medium=RSS&at_campaign=rss",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 6,
+          "source": "BBC Sport",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Putellas wins record-equalling third Ballon d'Or to extend Spanish dominancePutellas wins record-equalling third Ballon d'Or to extend Spanish dominance",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqp9gky38lj3o?at_medium=RSS&at_campaign=rsshttps://www.bbc.co.uk/sport/football/articles/cqp9gky38lj3o?at_medium=RSS&at_campaign=rss",
+          "summary": "Barcelona and Spain midfielder Alexia Putellas wins the Ballon d'Or Feminin for a record-equalling third time.Barcelona and Spain midfielder Alexia Putellas wins the Ballon d'Or Feminin for a record-equalling third time.",
+          "published": "Mon, 26 Oct 2026 23:14:39 GMTMon, 26 Oct 2026 23:14:39 GMT"
+        },
+        {
+          "source_id": 6,
+          "source": "BBC Sport",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Putellas wins record-equalling third Ballon d'OrPutellas wins record-equalling third Ballon d'Or",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqp9gky38lj3o?at_medium=RSS&at_campaign=rsshttps://www.bbc.co.uk/sport/football/articles/cqp9gky38lj3o?at_medium=RSS&at_campaign=rss",
+          "summary": "Barcelona and Spain midfielder Alexia Putellas wins the Ballon d'Or Feminin for a record-equalling third time.Barcelona and Spain midfielder Alexia Putellas wins the Ballon d'Or Feminin for a record-equalling third time.",
+          "published": "Mon, 26 Oct 2026 23:14:39 GMTMon, 26 Oct 2026 23:14:39 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Three talking points ahead of FC Barcelona vs Real Madrid | La Liga MD 10",
+      "summary": "Three talking points ahead of FC Barcelona vs Real Madrid | La Liga MD 10",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Barça Universal",
+          "url": "https://barcauniversal.com/three-talking-points-ahead-of-fc-barcelona-vs-real-madrid-la-liga-md-10/",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 20,
+          "source": "Barça Universal",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Three talking points ahead of FC Barcelona vs Real Madrid | La Liga MD 10",
+          "url": "https://barcauniversal.com/three-talking-points-ahead-of-fc-barcelona-vs-real-madrid-la-liga-md-10/",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 20,
+          "source": "Barça Universal",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Three things Barcelona need to do to beat Real Madrid in El Clasico",
+          "url": "https://barcauniversal.com/three-things-barcelona-need-to-do-to-beat-real-madrid-in-el-clasico/",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "HB Køge vs Barça Femení: Women's Champions League preview, predictions, team news and TV info",
+      "summary": "HB Køge vs Barça Femení: Women's Champions League preview, predictions, team news and TV info",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Everything Barça",
+          "url": "https://everythingbarca.com/hb-koge-vs-barca-femeni-womens-champions-league-preview-predictions-team-news-and-tv-info",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 24,
+          "source": "Everything Barça",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "HB Køge vs Barça Femení: Women's Champions League preview, predictions, team news and TV info",
+          "url": "https://everythingbarca.com/hb-koge-vs-barca-femeni-womens-champions-league-preview-predictions-team-news-and-tv-info",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 24,
+          "source": "Everything Barça",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona vs Real Madrid: La Liga preview, predictions, team news and TV info",
+          "url": "https://everythingbarca.com/barcelona-vs-real-madrid-la-liga-preview-predictions-team-news-and-tv-info",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "El Barça, listo para el ansiado regreso a la Champions El Barça, listo para el ansiado regreso a la Champions",
+      "summary": "Por fin llega una de las semanas más esperadas en el Barça de fútbol sala de los últimos años: el ansiado regreso a la Champions League . Tras dos años sin disputar la máxima competición continental, el conjunto azulgrana arranca este miércoles la Main Round en Lucenec (Eslovaquia) con un duelo frente al Futsal Minerva suizo (16.00 horas). Los otros dos rivales de los culés serán el FC Semey kazaj",
+      "source_count": 1,
+      "languages": [
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261028/1004243819/barca-listo-ansiado-regreso-champions.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20261028/1004243819/barca-listo-ansiado-regreso-champions.html",
+          "tier": "local"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 26,
+          "source": "Mundo Deportivo",
+          "tier": "local",
+          "lang": [
+            "es"
+          ],
+          "title": "El Barça, listo para el ansiado regreso a la Champions El Barça, listo para el ansiado regreso a la Champions",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261028/1004243819/barca-listo-ansiado-regreso-champions.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20261028/1004243819/barca-listo-ansiado-regreso-champions.html",
+          "summary": "Por fin llega una de las semanas más esperadas en el Barça de fútbol sala de los últimos años: el ansiado regreso a la Champions League . Tras dos años sin disputar la máxima competición continental, el conjunto azulgrana arranca este miércoles la Main Round en Lucenec (Eslovaquia) con un duelo frente al Futsal Minerva suizo (16.00 horas). Los otros dos rivales de los culés serán el FC Semey kazaj",
+          "published": "28 Oct 2026 07:05:00 +010028 Oct 2026 07:05:00 +0100"
+        },
+        {
+          "source_id": 26,
+          "source": "Mundo Deportivo",
+          "tier": "local",
+          "lang": [
+            "es"
+          ],
+          "title": "Toma de contacto del Barça para su regreso a la Champions Toma de contacto del Barça para su regreso a la Champions",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261027/1004243946/toma-contacto-barca-regreso-champions.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20261027/1004243946/toma-contacto-barca-regreso-champions.html",
+          "summary": "El Barça de fútbol sala ya está preparado para su deseado regreso a la Champions League . La expedición azulgrana salió este martes a primera hora de la mañana de la Ciutat Esportiva y puso rumbo en avión hasta Budapest, donde después tomaron un autobús para llegar al hotel de concentración en Halič (Eslovaquia).El Barça de fútbol sala ya está preparado para su deseado regreso a la Champions Leagu",
+          "published": "27 Oct 2026 19:53:21 +010027 Oct 2026 19:53:21 +0100"
+        }
+      ]
+    },
+    {
+      "headline": "Per què Lamine Yamal s'ha quedat a les portes de guanyar la Pilota d'Or?",
+      "summary": "Per què Lamine Yamal s'ha quedat a les portes de guanyar la Pilota d'Or?",
+      "source_count": 1,
+      "languages": [
+        "ca"
+      ],
+      "sources": [
+        {
+          "name": "ARA",
+          "url": "https://www.ara.cat/esports/barca/lamine-yamal-s-quedat-portes-guanyar-pilota-d-or_1_5891726.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 32,
+          "source": "ARA",
+          "tier": "national",
+          "lang": [
+            "ca"
+          ],
+          "title": "Per què Lamine Yamal s'ha quedat a les portes de guanyar la Pilota d'Or?",
+          "url": "https://www.ara.cat/esports/barca/lamine-yamal-s-quedat-portes-guanyar-pilota-d-or_1_5891726.html",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 32,
+          "source": "ARA",
+          "tier": "national",
+          "lang": [
+            "ca"
+          ],
+          "title": "Gala de la Pilota d'Or 2026: serà per fi l'any de Lamine Yamal?",
+          "url": "https://www.ara.cat/esports/barca/gala-pilota-d-or-2026-londres_6_5891134.html",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barcelona 2-0 Athletic Club: el proyecto de Hansi Flick firma un triunfo contundente en el Camp Nou",
+      "summary": "Barcelona 2-0 Athletic Club: el proyecto de Hansi Flick firma un triunfo contundente en el Camp Nou",
+      "source_count": 1,
+      "languages": [
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona Noticias",
+          "url": "https://www.fcbarcelonanoticias.com/barcelona-2-0-athletic-club-el-proyecto-de-hansi-flick-firma-un-triunfo-contundente-en-el-camp-nou/",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 40,
+          "source": "FC Barcelona Noticias",
+          "tier": "specialist",
+          "lang": [
+            "es",
+            "en"
+          ],
+          "title": "Barcelona 2-0 Athletic Club: el proyecto de Hansi Flick firma un triunfo contundente en el Camp Nou",
+          "url": "https://www.fcbarcelonanoticias.com/barcelona-2-0-athletic-club-el-proyecto-de-hansi-flick-firma-un-triunfo-contundente-en-el-camp-nou/",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 40,
+          "source": "FC Barcelona Noticias",
+          "tier": "specialist",
+          "lang": [
+            "es",
+            "en"
+          ],
+          "title": "FC Barcelona – Athletic Club: Todo listo en el Camp Nou para un choque de altura",
+          "url": "https://www.fcbarcelonanoticias.com/fc-barcelona-athletic-club-todo-listo-en-el-camp-nou-para-un-choque-de-altura/",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "ticket-vip BARÇA BUSINESS External link",
+      "summary": "ticket-vip BARÇA BUSINESS External link",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://www.fcbarcelona.com/en/tickets/hospitality?int=WB_26-27_K0-272&btm_source=WebBarca&btm_medium=SliderMenu&btm_campaign=barcabusiness_EN_TKT_B2B_WW",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "ticket-vip BARÇA BUSINESS External link",
+          "url": "https://www.fcbarcelona.com/en/tickets/hospitality?int=WB_26-27_K0-272&btm_source=WebBarca&btm_medium=SliderMenu&btm_campaign=barcabusiness_EN_TKT_B2B_WW",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Academy The flagship Barça school. Teaching Barça values to boys and girls",
+      "summary": "Barça Academy The flagship Barça school. Teaching Barça values to boys and girls",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://barcaacademy.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=BarcaAcademy_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Academy The flagship Barça school. Teaching Barça values to boys and girls",
+          "url": "https://barcaacademy.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=BarcaAcademy_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Foundation The Official site of the Barça Foundation.",
+      "summary": "Barça Foundation The Official site of the Barça Foundation.",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://foundation.fcbarcelona.com/home?ext=OCM_880&utm_source=WebBarca&utm_medium=BarcaSites&utm_campaign=Fundacio_ORG_DIG_WEB_TXT_WW_EN&utm_term=BarcaSitesFundacio",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Foundation The Official site of the Barça Foundation.",
+          "url": "https://foundation.fcbarcelona.com/home?ext=OCM_880&utm_source=WebBarca&utm_medium=BarcaSites&utm_campaign=Fundacio_ORG_DIG_WEB_TXT_WW_EN&utm_term=BarcaSitesFundacio",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Innovation Hub The center for sports knowledge and innovation.",
+      "summary": "Barça Innovation Hub The center for sports knowledge and innovation.",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://barcainnovationhub.fcbarcelona.com/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Bihub_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Innovation Hub The center for sports knowledge and innovation.",
+          "url": "https://barcainnovationhub.fcbarcelona.com/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Bihub_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Mobile The virtual mobile network operator of FC Barcelona",
+      "summary": "Barça Mobile The virtual mobile network operator of FC Barcelona",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://barcamobile.com/en",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Mobile The virtual mobile network operator of FC Barcelona",
+          "url": "https://barcamobile.com/en",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Espai Barça The largest and most innovative sports and entertainment space",
+      "summary": "Espai Barça The largest and most innovative sports and entertainment space",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://espaibarca.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=EspaiBarca_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Espai Barça The largest and most innovative sports and entertainment space",
+          "url": "https://espaibarca.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=EspaiBarca_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Memorial FC Barcelona FC Barcelona Memorial Official Website",
+      "summary": "Memorial FC Barcelona FC Barcelona Memorial Official Website",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://memorialfcbarcelona.com/en",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Memorial FC Barcelona FC Barcelona Memorial Official Website",
+          "url": "https://memorialfcbarcelona.com/en",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Vision Barça Vision is an innovative platform that uses emerging technologies like Web3 and Artificial intelligence to revolutionise the fan experience.",
+      "summary": "Barça Vision Barça Vision is an innovative platform that uses emerging technologies like Web3 and Artificial intelligence to revolutionise the fan experience.",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://barcavision.fcbarcelona.com/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Barca-Vision_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Vision Barça Vision is an innovative platform that uses emerging technologies like Web3 and Artificial intelligence to revolutionise the fan experience.",
+          "url": "https://barcavision.fcbarcelona.com/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Barca-Vision_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Official Store Camp Nou Shop now at Barça's Official Store Camp Nou",
+      "summary": "Barça Official Store Camp Nou Shop now at Barça's Official Store Camp Nou",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://store.fcbarcelona.com/en/?ext=OCM_2913&utm_source=WebBarca&utm_medium=BarcaSites&utm_campaign=BLM_ORG_BLM_HOME_OCM_webBarca_TXT_WW_EN&utm_content=&utm_term=BarcaSitesBLM",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Official Store Camp Nou Shop now at Barça's Official Store Camp Nou",
+          "url": "https://store.fcbarcelona.com/en/?ext=OCM_2913&utm_source=WebBarca&utm_medium=BarcaSites&utm_campaign=BLM_ORG_BLM_HOME_OCM_webBarca_TXT_WW_EN&utm_content=&utm_term=BarcaSitesBLM",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Penyes All the official information of the FC Barcelona Supporters' Clubs",
+      "summary": "Barça Penyes All the official information of the FC Barcelona Supporters' Clubs",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://penyes.fcbarcelona.com/en/",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Penyes All the official information of the FC Barcelona Supporters' Clubs",
+          "url": "https://penyes.fcbarcelona.com/en/",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Agrupació Jugadors The organisation that unites ex-players from all FC Barcelona football teams.",
+      "summary": "Agrupació Jugadors The organisation that unites ex-players from all FC Barcelona football teams.",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://agrupaciojugadors.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=ABJ_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Agrupació Jugadors The organisation that unites ex-players from all FC Barcelona football teams.",
+          "url": "https://agrupaciojugadors.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=ABJ_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Players Find all the players that have played for Barça!",
+      "summary": "Barça Players Find all the players that have played for Barça!",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://players.fcbarcelona.com/en?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Players_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Players Find all the players that have played for Barça!",
+          "url": "https://players.fcbarcelona.com/en?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Players_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Rookies Barça's most special fans!",
+      "summary": "Barça Rookies Barça's most special fans!",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://www.fcbrookies.cat/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Rookies_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Rookies Barça's most special fans!",
+          "url": "https://www.fcbrookies.cat/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Rookies_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "FC Barcelona club badge LIVE | Q&A with Karim Adeyemi German forward answers FC Barcelona fan questions ahead of his first Clásico First Team Published date 23 Oct 26",
+      "summary": "FC Barcelona club badge LIVE | Q&A with Karim Adeyemi German forward answers FC Barcelona fan questions ahead of his first Clásico First Team Published date 23 Oct 26",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://www.youtube.com/watch?v=CGF2GhipS94",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "FC Barcelona club badge LIVE | Q&A with Karim Adeyemi German forward answers FC Barcelona fan questions ahead of his first Clásico First Team Published date 23 Oct 26",
+          "url": "https://www.youtube.com/watch?v=CGF2GhipS94",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Late Mbappe goal earns Real win at Barca in dramatic ClasicoLate Mbappe goal earns Real win at Barca in dramatic Clasico",
+      "summary": "Kylian Mbappe scores twice for Real Madrid as they beat Barcelona 2-1 at the Camp Nou in the first El Clasico of the season. Kylian Mbappe scores twice for Real Madrid as they beat Barcelona 2-1 at the Camp Nou in the first El Clasico of the season.",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/videos/crje5zewk52no?at_medium=RSS&at_campaign=rsshttps://www.bbc.co.uk/sport/football/videos/crje5zewk52no?at_medium=RSS&at_campaign=rss",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 6,
+          "source": "BBC Sport",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Late Mbappe goal earns Real win at Barca in dramatic ClasicoLate Mbappe goal earns Real win at Barca in dramatic Clasico",
+          "url": "https://www.bbc.co.uk/sport/football/videos/crje5zewk52no?at_medium=RSS&at_campaign=rsshttps://www.bbc.co.uk/sport/football/videos/crje5zewk52no?at_medium=RSS&at_campaign=rss",
+          "summary": "Kylian Mbappe scores twice for Real Madrid as they beat Barcelona 2-1 at the Camp Nou in the first El Clasico of the season. Kylian Mbappe scores twice for Real Madrid as they beat Barcelona 2-1 at the Camp Nou in the first El Clasico of the season.",
+          "published": "Mon, 26 Oct 2026 09:41:25 GMTMon, 26 Oct 2026 09:41:25 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Mourinho keeps Clasico midas touch 13 years on as La Liga heats upMourinho keeps Clasico midas touch 13 years on as La Liga heats up",
+      "summary": "Kylian Mbappe's two goals at Barcelona have opened up La Liga, as Jose Mourinho's Real Madrid leave Camp Nou with a victory.Kylian Mbappe's two goals at Barcelona have opened up La Liga, as Jose Mourinho's Real Madrid leave Camp Nou with a victory.",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo?at_medium=RSS&at_campaign=rsshttps://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo?at_medium=RSS&at_campaign=rss",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 6,
+          "source": "BBC Sport",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Mourinho keeps Clasico midas touch 13 years on as La Liga heats upMourinho keeps Clasico midas touch 13 years on as La Liga heats up",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo?at_medium=RSS&at_campaign=rsshttps://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo?at_medium=RSS&at_campaign=rss",
+          "summary": "Kylian Mbappe's two goals at Barcelona have opened up La Liga, as Jose Mourinho's Real Madrid leave Camp Nou with a victory.Kylian Mbappe's two goals at Barcelona have opened up La Liga, as Jose Mourinho's Real Madrid leave Camp Nou with a victory.",
+          "published": "Mon, 26 Oct 2026 00:07:16 GMTMon, 26 Oct 2026 00:07:16 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Mourinho’s plan comes together as Real Madrid relaunch with clásico statement | Sid LoweMourinho’s plan comes together as Real Madrid relaunch with clásico statement | Sid Lowe",
+      "summary": "It was just like old times as José Mourinho ended a night at Camp Nou with a knee slide and three points José Mourinho had already done the por qu é? , the printout and the press conference no-show in under 100 days. Now he’s done a knee slide too, and in the perfect place: back where it all began and where it can all begin again. When Kylian Mbappé scored the first in the clásico on Sunday night,",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/oct/26/mourinhos-plan-comes-together-as-real-madrid-relaunch-with-clasico-statementhttps://www.theguardian.com/football/2026/oct/26/mourinhos-plan-comes-together-as-real-madrid-relaunch-with-clasico-statement",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Mourinho’s plan comes together as Real Madrid relaunch with clásico statement | Sid LoweMourinho’s plan comes together as Real Madrid relaunch with clásico statement | Sid Lowe",
+          "url": "https://www.theguardian.com/football/2026/oct/26/mourinhos-plan-comes-together-as-real-madrid-relaunch-with-clasico-statementhttps://www.theguardian.com/football/2026/oct/26/mourinhos-plan-comes-together-as-real-madrid-relaunch-with-clasico-statement",
+          "summary": "It was just like old times as José Mourinho ended a night at Camp Nou with a knee slide and three points José Mourinho had already done the por qu é? , the printout and the press conference no-show in under 100 days. Now he’s done a knee slide too, and in the perfect place: back where it all began and where it can all begin again. When Kylian Mbappé scored the first in the clásico on Sunday night,",
+          "published": "Mon, 26 Oct 2026 16:35:26 GMTMon, 26 Oct 2026 16:35:26 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Kvaratskhelia asks ‘why me?’ after ACL rupture in most serious of three PSG injuriesKvaratskhelia asks ‘why me?’ after ACL rupture in most serious of three PSG injuries",
+      "summary": "Kvaratskhelia to undergo surgery on right knee Dembélé and Marquinhos out for weeks Paris Saint-Germain’s Khvicha Kvaratskhelia ⁠will undergo surgery after rupturing the anterior cruciate ⁠ligament in ⁠his ​right knee in the Champions League win over ⁠Barcelona . Kvaratskhelia twisted ⁠the knee during PSG’s 4-2 ​victory on ‌Tuesday and was ‌helped off the pitch just ‌before the hour, with the Geor",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/oct/21/khvicha-kvaratskhelia-acl-injury-psg-ousmane-dembele-marquinhoshttps://www.theguardian.com/football/2026/oct/21/khvicha-kvaratskhelia-acl-injury-psg-ousmane-dembele-marquinhos",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Kvaratskhelia asks ‘why me?’ after ACL rupture in most serious of three PSG injuriesKvaratskhelia asks ‘why me?’ after ACL rupture in most serious of three PSG injuries",
+          "url": "https://www.theguardian.com/football/2026/oct/21/khvicha-kvaratskhelia-acl-injury-psg-ousmane-dembele-marquinhoshttps://www.theguardian.com/football/2026/oct/21/khvicha-kvaratskhelia-acl-injury-psg-ousmane-dembele-marquinhos",
+          "summary": "Kvaratskhelia to undergo surgery on right knee Dembélé and Marquinhos out for weeks Paris Saint-Germain’s Khvicha Kvaratskhelia ⁠will undergo surgery after rupturing the anterior cruciate ⁠ligament in ⁠his ​right knee in the Champions League win over ⁠Barcelona . Kvaratskhelia twisted ⁠the knee during PSG’s 4-2 ​victory on ‌Tuesday and was ‌helped off the pitch just ‌before the hour, with the Geor",
+          "published": "Wed, 21 Oct 2026 09:42:09 GMTWed, 21 Oct 2026 09:42:09 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Football Daily | Post-Ferguson worn-out horror show continues at Manchester UnitedFootball Daily | Post-Ferguson worn-out horror show continues at Manchester United",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! We’re in the midst of what the kids call “spooky season” – or, for our fellow fusty old-timers out there, “autumn”. If you’ve been cosying up with a few horror flicks this month, you’ll know nothing good can come from hanging around a lake at this time of year. And so it proved for Manchester United, who endured an early Halloween nightmare on th",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/oct/22/football-daily-email-manchester-unitedhttps://www.theguardian.com/football/2026/oct/22/football-daily-email-manchester-united",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Football Daily | Post-Ferguson worn-out horror show continues at Manchester UnitedFootball Daily | Post-Ferguson worn-out horror show continues at Manchester United",
+          "url": "https://www.theguardian.com/football/2026/oct/22/football-daily-email-manchester-unitedhttps://www.theguardian.com/football/2026/oct/22/football-daily-email-manchester-united",
+          "summary": "Sign up now! Sign up now! Sign up now? Sign up now! We’re in the midst of what the kids call “spooky season” – or, for our fellow fusty old-timers out there, “autumn”. If you’ve been cosying up with a few horror flicks this month, you’ll know nothing good can come from hanging around a lake at this time of year. And so it proved for Manchester United, who endured an early Halloween nightmare on th",
+          "published": "Thu, 22 Oct 2026 15:44:10 GMTThu, 22 Oct 2026 15:44:10 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "The 100 best male footballers in the world 2025The 100 best male footballers in the world 2025",
+      "summary": "Ousmane Dembélé becomes our seventh winner as he beats Lamine Yamal into second and Vitinha into third on our list of the best players on the planet Premier League dominates list | How every judge voted | Our methodology | The top 100 female players for 2025 2024 edition | 2023 | 2022 | 2021 | 2020 | 2019 | 2018 | 2017 | 2016 | 2015 | 2014 | 2013 | 2012 Continue reading... Ousmane Dembélé becomes ",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/ng-interactive/2025/dec/16/the-100-best-male-footballers-in-the-world-2025https://www.theguardian.com/football/ng-interactive/2025/dec/16/the-100-best-male-footballers-in-the-world-2025",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "The 100 best male footballers in the world 2025The 100 best male footballers in the world 2025",
+          "url": "https://www.theguardian.com/football/ng-interactive/2025/dec/16/the-100-best-male-footballers-in-the-world-2025https://www.theguardian.com/football/ng-interactive/2025/dec/16/the-100-best-male-footballers-in-the-world-2025",
+          "summary": "Ousmane Dembélé becomes our seventh winner as he beats Lamine Yamal into second and Vitinha into third on our list of the best players on the planet Premier League dominates list | How every judge voted | Our methodology | The top 100 female players for 2025 2024 edition | 2023 | 2022 | 2021 | 2020 | 2019 | 2018 | 2017 | 2016 | 2015 | 2014 | 2013 | 2012 Continue reading... Ousmane Dembélé becomes ",
+          "published": "Fri, 19 Dec 2025 10:04:51 GMTFri, 19 Dec 2025 10:04:51 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Aitana Bonmatí makes Guardian top 100 history with third title in a rowAitana Bonmatí makes Guardian top 100 history with third title in a row",
+      "summary": "The margin may have got smaller but the brilliant Spanish midfielder makes it a hat-trick of No 1 finishes They say the best things come in threes, and Aitana Bonmatí has written herself into the Guardian’s top 100 history as the first player to finish at the top of the tree for a third consecutive year. Last year the majestic midfielder emulated her Barcelona and Spain teammate Alexia Putellas by",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2025/dec/05/aitana-bonmati-guardian-top-100-history-third-straight-titlehttps://www.theguardian.com/football/2025/dec/05/aitana-bonmati-guardian-top-100-history-third-straight-title",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Aitana Bonmatí makes Guardian top 100 history with third title in a rowAitana Bonmatí makes Guardian top 100 history with third title in a row",
+          "url": "https://www.theguardian.com/football/2025/dec/05/aitana-bonmati-guardian-top-100-history-third-straight-titlehttps://www.theguardian.com/football/2025/dec/05/aitana-bonmati-guardian-top-100-history-third-straight-title",
+          "summary": "The margin may have got smaller but the brilliant Spanish midfielder makes it a hat-trick of No 1 finishes They say the best things come in threes, and Aitana Bonmatí has written herself into the Guardian’s top 100 history as the first player to finish at the top of the tree for a third consecutive year. Last year the majestic midfielder emulated her Barcelona and Spain teammate Alexia Putellas by",
+          "published": "Fri, 05 Dec 2025 08:00:42 GMTFri, 05 Dec 2025 08:00:42 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "TOP 10 PLAYERS: Barcelona 1-2 Real Madrid A very disciplined and crucial effort in defence from Real Madrid",
+      "summary": "TOP 10 PLAYERS: Barcelona 1-2 Real Madrid A very disciplined and crucial effort in defence from Real Madrid",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "FOX Sports",
+          "url": "https://www.managingmadrid.com/real-madrid-cf-data-analysis/114646/top-10-players-barcelona-1-2-real-madrid",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 12,
+          "source": "FOX Sports",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "TOP 10 PLAYERS: Barcelona 1-2 Real Madrid A very disciplined and crucial effort in defence from Real Madrid",
+          "url": "https://www.managingmadrid.com/real-madrid-cf-data-analysis/114646/top-10-players-barcelona-1-2-real-madrid",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    }
+  ]
+}
