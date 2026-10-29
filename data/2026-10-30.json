@@ -1,1 +1,73 @@
-PLACEHOLDER_CARDS
+{
+  "date": "2026-10-30",
+  "number": 295,
+  "label": "30 October 2026",
+  "title": "Koundé ruled out, Grada closed",
+  "deck": "Flick faces Alavés with four fit senior defenders. Club closes the animation stand after Clásico incidents. Minute of silence for Toledo.",
+  "stories": [
+    {
+      "kicker": "Injury",
+      "headline": "Koundé ruled out of Saturday’s Alavés match",
+      "summary": "Jules Koundé’s left ankle sprain has not improved enough. Fernando Polo of Mundo Deportivo reported the club decided not to force a return for the 21:00 kick-off at Spotify Camp Nou. Only Cancelo, Balde, Cubarsí and Gerard Martín are fully fit senior defenders.",
+      "body": "Koundé picked up the sprain against Betis on 17 October and missed both the 4-2 loss to PSG and the 1-2 Clásico. Early-week optimism faded after he felt discomfort putting on his boot on Wednesday and trained alone. On Thursday the medical staff and coaching staff agreed to keep him out rather than risk making the injury worse. Eric García, Andreas Christensen and Xavi Espart (syndesmosis, roughly seven weeks) remain unavailable. Flick therefore has four senior defenders for Alavés. Youth full-back Guillem Víctor trained with the group. The next fixture after Alavés is Aston Villa in the Champions League on 3 November.",
+      "sources": [{"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261029/1004244578/kounde-descartado-barca-alaves.html"}, {"label": "SPORT", "url": "https://www.sport.es/es/noticias/barca/kounde-sigue-entrenar-grupo-flick-135878016"}],
+      "tweets": [{"id": "2115754894888251772", "handle": "mundodeportivo", "name": "Mundo Deportivo", "text": "Koundé, descartado para el Barça-Alavés. Su esguince en el tobillo no ha mejorado lo suficiente."}, {"id": "2115764022595191193", "handle": "ffpolo", "name": "Fernando Polo", "text": "Habrá que esperar con Koundé. Máxima precaución."}]
+    },
+    {
+      "kicker": "Defence",
+      "headline": "Guillem Víctor joins training as options thin",
+      "summary": "With Koundé out, SPORT reported that Barça Atlètic right-back Guillem Víctor trained with the first team on Thursday. Àlex Campos has also been working with the seniors. Flick has only four fully fit senior defenders available.",
+      "body": "SPORT’s report said Víctor, a regular under Belletti at the B team, was the novelty of Thursday’s session at the Ciutat Esportiva. Campos, already called up for PSG and the Clásico, continued with the group. Tunkara and Hamza Abdelkarim have also featured in recent sessions. The senior list remains Cancelo, Balde, Cubarsí and Gerard Martín. Koundé’s absence removes the most experienced right-sided option. The club will name the Alavés squad closer to kick-off. Alavés sit seventh and have not won a league game since early September.",
+      "sources": [{"label": "SPORT", "url": "https://www.sport.es/es/noticias/barca/kounde-sigue-entrenar-grupo-flick-135878016"}, {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261029/1004244578/kounde-descartado-barca-alaves.html"}],
+      "tweets": [{"id": "2115796858274517172", "handle": "sport", "name": "Diario SPORT", "text": "Koundé no entrena con el grupo y parece seguro que no jugará ante el Alavés. Flick trae a Guillem Víctor."}]
+    },
+    {
+      "kicker": "Stadium",
+      "headline": "Club closes Grada d’Animació for Alavés",
+      "summary": "FC Barcelona will close the Gol 1957 stand for Saturday’s match against Alavés. The decision follows a series of disciplinary files, including the incident involving Camavinga in the Clásico. The club wants to reopen it for Aston Villa.",
+      "body": "The club issued a statement on Thursday. It cited successive open files against the club and some members for behaviour contrary to sporting values. Mossos d’Esquadra identified the supporter who struck Camavinga after Real Madrid’s second goal. LaLiga reported multiple incidents from the Clásico. The board will meet the groups that occupy the stand to set commitments for passionate but respectful support. The stated aim is to have the stand operating again for the Champions League match against Aston Villa on 3 November. It is not the first time under Laporta that the animation area has been closed.",
+      "sources": [{"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261029/1004244733/clausurada-grada-d-animacio-barca-alaves.html"}, {"label": "MARCA", "url": "https://www.marca.com/futbol/barcelona/2026/10/29/barcelona-cierra-temporalmente-grada-animacion.html"}],
+      "tweets": [{"id": "2115856255411425464", "handle": "mundodeportivo", "name": "Mundo Deportivo", "text": "Clausurada la Grada d'Animació para el Barça-Alavés"}]
+    },
+    {
+      "kicker": "Training",
+      "headline": "Squad holds minute of silence for Toledo victims",
+      "summary": "The first team observed a minute of silence before Thursday’s session at the Ciutat Esportiva for the victims of the Toledo train accident. Official accounts posted the video. Koundé remained outside the group work.",
+      "body": "Both the English and Spanish official channels shared footage of the players standing together. Mundo Deportivo also reported the gesture. The session continued with the usual preparation for Alavés. Cubarsí, back from the fever that kept him from the Ballon d’Or gala, trained normally. The group is seeking a reaction at home after the losses to PSG and Real Madrid. Barça remain top of La Liga on 27 points. Alavés visit on Saturday at 21:00.",
+      "sources": [{"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"}, {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261029/1004244606/minuto-silencio-entrenamiento-barca-victimas-toledo.html"}],
+      "tweets": [{"id": "2115760150522847642", "handle": "FCBarcelona", "name": "FC Barcelona", "text": "The first team honors the victims of the Toledo train accident with a minute of silence before training."}, {"id": "2115759508613923273", "handle": "FCBarcelona_es", "name": "FC Barcelona", "text": "El primer equipo homenajea a las víctimas del accidente ferroviario de Toledo con un minuto de silencio antes del entrenamiento."}]
+    },
+    {
+      "kicker": "Transfers",
+      "headline": "MARCA: defensive injuries open winter market door",
+      "summary": "MARCA reported that the absences of Koundé, Eric García, Christensen and Espart have led the club to consider a centre-back signing in January. Finn Jeltsch of Stuttgart remains a name linked with Flick.",
+      "body": "The paper’s piece said the current injury list has reopened a window the club previously considered closed. Jeltsch, the 20-year-old Stuttgart defender, has been monitored for weeks. Reports in Spain and England have put a possible fee around 50 million euros, with competition from other clubs. Di Marzio and others have suggested a summer 2027 move is more likely given the cost and the player’s contract until 2030. Flick has given positive reports on the German. No concrete bid has been confirmed. The immediate priority remains naming a squad for Alavés.",
+      "sources": [{"label": "MARCA", "url": "https://www.marca.com/futbol/barcelona/2026/10/29/flick-abre-puerta-fichar-central-mercado-invernal.html"}, {"label": "SPORT", "url": "https://www.sport.es/es/noticias/barca/flick-aprieta-fichar-jeltsch-barca-135830055"}],
+      "tweets": [{"id": "2115799296809353392", "handle": "marca", "name": "MARCA", "text": "La lesiones de Koundé, Eric García, Christensen y Xavi Espart abren una puerta que el Barça tenía cerrada: Fichar en el mercado invernal"}]
+    },
+    {
+      "kicker": "Match",
+      "headline": "Official channels post five facts for Alavés",
+      "summary": "FC Barcelona’s Spanish account published five things to know before Saturday’s 21:00 match at Spotify Camp Nou. The side wants a response after consecutive defeats. Alavés have not won in the league since 6 September.",
+      "body": "The post linked to the club’s preview page. Barça lead La Liga on 27 points. The viewing guide was already published earlier in the week. Kick-off is 21:00 local time. With the defensive list so short, selection will be watched closely. The club’s medical staff continue to monitor Koundé, though Polo’s report indicated he is out. The next Champions League game is against Aston Villa. Official accounts also shared training clips and the minute of silence.",
+      "sources": [{"label": "FC Barcelona", "url": "https://www.fcbarcelona.es/es/futbol/primer-equipo/noticias/4600661/los-cinco-datos-del-barca-alaves"}],
+      "tweets": [{"id": "2115851311790874901", "handle": "FCBarcelona_es", "name": "FC Barcelona", "text": "Las ✋ cosas que necesitas saber antes del Barça-Alavés del sábado"}]
+    },
+    {
+      "kicker": "Injury",
+      "headline": "Espart’s seven-week absence still shapes the back line",
+      "summary": "Xavi Espart remains out for approximately seven weeks with the syndesmosis injury suffered in the Clásico. Balde is the immediate left-back option. The timeline takes Espart into the international break.",
+      "body": "Espart left the Clásico at half-time after a collision. Tests confirmed the damage. He had signed a contract extension until 2030 only days earlier and scored on his full Champions League debut against PSG. With Koundé now also out for Alavés, the right-back role is open. Cancelo can cover either side. Gerard Martín and Cubarsí are the fit centre-backs. The medical bulletin was issued after the Clásico. Media in Spain have noted the already thin list. Balde has had limited minutes this season but is available.",
+      "sources": [{"label": "MARCA", "url": "https://www.marca.com/futbol/barcelona/2026/10/26/malas-noticias-xavi-espart-sufre-lesion-tobillo-estara-siete-semanas-baja.html"}],
+      "tweets": [{"id": "2114700546888110301", "handle": "FCBarcelona", "name": "FC Barcelona", "text": "Medical update after the Clásico"}]
+    },
+    {
+      "kicker": "Context",
+      "headline": "Barça still top on 27 points ahead of Alavés",
+      "summary": "Despite the 1-2 Clásico defeat and the 4-2 loss to PSG, Hansi Flick’s side remain first in La Liga. Alavés, seventh, have gone without a league win since 6 September. Kick-off is 21:00 on Saturday.",
+      "body": "The two defeats ended a long winning run. Flick has spoken of needing freshness and has managed the squad accordingly. The Alavés match is the first of three in quick succession before the international break. Aston Villa follow in the Champions League. The defensive absences make the selection the main talking point. Official channels have focused on the return to training and the fixture details. The club published the full international viewing guide earlier in the week.",
+      "sources": [{"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"}],
+      "tweets": [{"id": "2115414137836810693", "handle": "FCBarcelona_es", "name": "FC Barcelona", "text": "Viewing guide for Barça-Alavés"}]
+    }
+  ]
+}
