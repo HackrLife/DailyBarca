@@ -1,1 +1,44 @@
-PLACEHOLDER
+{
+  "editions": [
+    {
+      "number": 296,
+      "date": "2026-10-31",
+      "label": "31 October 2026",
+      "file": "2026-10-31.json",
+      "lead": "Flick demands response against Alavés; five B-team players in final session",
+      "tweets": 12
+    },
+    {
+      "number": 295,
+      "date": "2026-10-30",
+      "label": "30 October 2026",
+      "file": "2026-10-30.json",
+      "lead": "Koundé out of Alavés; Grada d’Animació closed; four fit senior defenders",
+      "tweets": 10
+    },
+    {
+      "number": 294,
+      "date": "2026-10-29",
+      "label": "29 October 2026",
+      "file": "2026-10-29.json",
+      "lead": "Squad returns; Koundé still separate; RFEF fine; Alavés viewing guide",
+      "tweets": 12
+    },
+    {
+      "number": 293,
+      "date": "2026-10-27",
+      "label": "27 October 2026",
+      "file": "2026-10-27.json",
+      "lead": "Mbappé brace ends perfect start; Espart out seven weeks",
+      "tweets": 13
+    },
+    {
+      "number": 292,
+      "date": "2026-10-25",
+      "label": "25 October 2026",
+      "file": "2026-10-25.json",
+      "lead": "Flick rules Koundé out of Clásico",
+      "tweets": 9
+    }
+  ]
+}
