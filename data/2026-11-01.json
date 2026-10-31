@@ -1,1 +1,73 @@
-PLACEHOLDER
+{
+  "date": "2026-11-01",
+  "number": 297,
+  "label": "1 November 2026",
+  "title": "Fariñas debuts as Barça host Alavés",
+  "deck": "Brian Fariñas starts at right-back and Frenkie de Jong at centre-back as Hansi Flick’s side face Alavés at 21:00. Match underway seeking first win since Clásico.",
+  "stories": [
+    {
+      "kicker": "Match",
+      "headline": "Barça host Alavés with Fariñas and De Jong in unconventional back line",
+      "summary": "Hansi Flick named Brian Fariñas at right-back for his first-team debut and Frenkie de Jong at centre-back alongside Pau Cubarsí as Barça face Deportivo Alavés at Spotify Camp Nou. Kick-off was 21:00. The league leaders sit on 27 points after the 1-2 defeat to Real Madrid.",
+      "body": "The starting XI confirmed by the club and SPORT is Joan García; Brian Fariñas, Cubarsí, De Jong, Cancelo; Rodri, Pedri, Fermín; Lamine Yamal, Adeyemi, Raphinha. Balde, Gerard Martín and Anthony Gordon started on the bench. Koundé, Eric García, Christensen, Espart, Olmo and Bardghji remain out. Alavés, seventh on 12 points, have not won a league game since early September. The match is the first of three before the international break. Aston Villa visit in the Champions League on 3 November. Official channels published the viewing guide earlier in the week. The club closed the Grada d’Animació for this fixture after the incidents of 25 October.",
+      "sources": [{"label": "SPORT", "url": "https://www.sport.es/es/noticias/barca/alineacion-barcelona-alaves-partido-laliga-135958138"}, {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"}],
+      "tweets": [{"id": "2116602622639522166", "handle": "BarcaTimes", "name": "BarçaTimes", "text": "🚨| 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋: Barcelona's STARTING XI against Alavés. #fcblive"}, {"id": "2116622968159674871", "handle": "FCBarcelona_es", "name": "FC Barcelona", "text": "Respetuoso minuto de silencio en memoria de las víctimas del accidente ferroviario de Toledo. Descansen en paz."}]
+    },
+    {
+      "kicker": "Debut",
+      "headline": "Brian Fariñas makes first-team debut at right-back against Alavés",
+      "summary": "The 20-year-old La Masia midfielder started at right-back for Hansi Flick’s side. Fariñas, who has trained regularly with the first team, had been linked with a January move before the club blocked it. Flick called him intelligent and ready.",
+      "body": "SPORT and Mundo Deportivo reported the selection after Friday’s session. Fariñas arrives from Benicarló via Villarreal’s academy and has played mainly as a midfielder for Barça Atlètic. With Koundé, Espart and Eric unavailable, the coaching staff moved him to the right side, a position he occupied in pre-season. De Jong dropped into the centre of defence next to Cubarsí, a role he has filled under previous coaches. Cancelo operated on the left. Balde remained on the bench. The club has not confirmed whether the shape is temporary or a longer-term solution for the defensive shortage.",
+      "sources": [{"label": "SPORT", "url": "https://www.sport.es/es/noticias/barca/alineacion-barcelona-alaves-partido-laliga-135958138"}, {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261030/1004245068/revolucionaria-defensa-probo-flick-cara-alaves.html"}],
+      "tweets": [{"id": "2116606121435623822", "handle": "samuelmarsden", "name": "Samuel Marsden", "text": "Looks like Fariñas at right-back making his first start for Barcelona. Why play Balde when you can find another central midfielder from the academy to play full back? De Jong at CB it seems as well."}]
+    },
+    {
+      "kicker": "Press",
+      "headline": "Flick: ‘Our idea is the best for this team and we will continue to the end’",
+      "summary": "Hansi Flick thanked the board for its support after the two defeats and said nothing has changed in his approach. He told reporters on Friday that the side must learn from the losses to PSG and Real Madrid and return to winning ways against Alavés.",
+      "body": "In the pre-match press conference at the Ciutat Esportiva, Flick said he had spoken with Joan Laporta and Deco. He called the gesture of confidence a good one but added that he already knows the situation. ‘We won eleven matches and now there are two defeats. We have to get back to winning. Our idea of how to play is the best for this team. We will continue like this until the end.’ He described the season as a long path and the recent results as reversible. The German also noted that Alavés defend well and that goals will not come easily. Barça remain top of La Liga on 27 points.",
+      "sources": [{"label": "MARCA", "url": "https://www.marca.com/futbol/2026/10/30/6ae0b90c020dbf8b21845f78-directo.html"}, {"label": "El País", "url": "https://elpais.com/deportes/futbol/2026-10-30/flick-tras-las-derrotas-ante-el-psg-y-el-real-madrid-no-hay-nada-irreversible.html"}],
+      "tweets": [{"id": "2116163209526911287", "handle": "sport", "name": "Diario SPORT", "text": "Flick: Es un gesto bonito que te den confianza, pero nada ha cambiado: iremos hasta el final con la idea"}]
+    },
+    {
+      "kicker": "Injury",
+      "headline": "Koundé remains out; four senior defenders available before kick-off",
+      "summary": "Jules Koundé did not train with the group on Friday and is ruled out of the Alavés match. Eric García, Andreas Christensen and Xavi Espart are also unavailable. The fit senior defensive list before selection was Cancelo, Balde, Cubarsí and Gerard Martín.",
+      "body": "SPORT’s report from the final session confirmed the absences. Koundé has been managing an ankle sprain since the Betis match on 17 October and has not been able to rejoin full training. Polo had already indicated earlier in the week that the club would not force a return. The medical staff continue to monitor him for Aston Villa. With the list this short, the coaching staff used the B-team options more frequently. Guillem Víctor and Àlex Campos have trained regularly with the seniors. No official medical bulletin has added new names beyond those already listed.",
+      "sources": [{"label": "SPORT", "url": "https://www.sport.es/es/noticias/barca/ultimo-entrenamiento-barca-alaves"}, {"label": "AS", "url": "https://as.com/futbol/paso-atras-de-kounde-f202610-n/"}],
+      "tweets": [{"id": "2116199778841481337", "handle": "sport", "name": "Diario SPORT", "text": "No han estado los lesionados Koundé, Eric García, Dani Olmo, Christensen, Espart y Roony"}]
+    },
+    {
+      "kicker": "Attack",
+      "headline": "Adeyemi starts as Raphinha and Yamal lead the attack",
+      "summary": "Karim Adeyemi was named in the starting XI alongside Lamine Yamal and Raphinha. SPORT had reported earlier that the German was lined up to start as Barça prepare for three matches before the international break.",
+      "body": "The piece said Adeyemi is expected to provide the spark the side has lacked in the last two matches. Raphinha and Lamine Yamal remain the main wide options, with Fermín and Pedri in midfield. Flick has managed minutes carefully after the congested run. The next fixtures after Alavés are Aston Villa at home and then Atlético Madrid away. Adeyemi’s availability gives the coaching staff another option in the final third. No official confirmation of the starting XI had been released before the teamsheet.",
+      "sources": [{"label": "SPORT", "url": "https://www.sport.es/es/noticias/barca/adeyemi-revolucionar-polvora-cule-135935009"}],
+      "tweets": [{"id": "2116218574373376446", "handle": "sport", "name": "Diario SPORT", "text": "Adeyemi para revolucionar la pólvora culé. El extremo alemán se perfila como titular ante el Alavés"}]
+    },
+    {
+      "kicker": "Officials",
+      "headline": "Cordero Vega appointed for Barça–Alavés; Pizarro Gómez on VAR",
+      "summary": "SPORT reported that Cordero Vega will referee Saturday’s match at Spotify Camp Nou. Pizarro Gómez, who was involved in the last Catalan derby, is assigned to the VAR.",
+      "body": "The appointment was confirmed in the usual La Liga bulletin. Cordero Vega has handled several matches involving the big sides this season. The VAR assignment has drawn attention because of Pizarro Gómez’s previous work in Catalan fixtures. The club has not commented on the officials. Kick-off remains 21:00. The match is being shown on the usual Movistar and Orange channels in Spain.",
+      "sources": [{"label": "SPORT", "url": "https://www.sport.es/es/noticias/barca/cordero-vega-arbitrara-barca-alaves-pizarro-gomez-var"}],
+      "tweets": [{"id": "2116241223912432124", "handle": "sport", "name": "Diario SPORT", "text": "Cordero Vega arbitrará el Barça-Alavés... y atención a Pizarro Gómez en el VAR"}]
+    },
+    {
+      "kicker": "Context",
+      "headline": "Barça still top on 27 points; Alavés without a league win since September",
+      "summary": "Despite consecutive defeats to PSG and Real Madrid, Hansi Flick’s side remain first in La Liga. Alavés sit seventh and have gone six matches without a victory.",
+      "body": "The table shows Barça on 27 points from 10 games, two ahead of Atlético Madrid and three ahead of Real Madrid. Alavés have 12 points from three wins, three draws and four losses. Their last league win came on 6 September. Flick has described the Alavés match as an opportunity to demonstrate the response he expects. The club published its five facts preview earlier in the week and the international viewing guide remains active. The next Champions League fixture is at home to Aston Villa on 3 November.",
+      "sources": [{"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"}, {"label": "Europa Press", "url": "https://www.europapress.es/deportes/futbol-00162/noticia-barca-debe-reaccionar-alaves-golpe-clasico-20261030181401.html"}],
+      "tweets": [{"id": "2116198452044406968", "handle": "FCBarcelona_es", "name": "FC Barcelona", "text": "De cabeza al Barça - Alavés"}]
+    },
+    {
+      "kicker": "Academy",
+      "headline": "Club renews goalkeeper Iker Rodríguez until 2029",
+      "summary": "FC Barcelona announced the renewal of La Masia goalkeeper Iker Rodríguez. The 18-year-old from Sabadell has signed until June 2029 with an option for two further years.",
+      "body": "SPORT reported the official announcement on Friday. Rodríguez is regarded as one of the most promising keepers in the academy structure. He has been training with the first-team group at times this season. The deal continues the club’s policy of tying down young players before they attract external interest. Max Bonfill, another young goalkeeper, was the novelty in Friday’s first-team session. No senior goalkeeping changes are expected for Alavés; Joan García remains the established starter.",
+      "sources": [{"label": "SPORT", "url": "https://www.sport.es/es/noticias/barca/barca-renueva-iker-rodriguez-135935000"}],
+      "tweets": [{"id": "2116251292397924453", "handle": "sport", "name": "Diario SPORT", "text": "Oficial: El Barça renueva a Iker Rodríguez, el portero de mayor futuro de La Masia"}]
+    }
+  ]
+}
