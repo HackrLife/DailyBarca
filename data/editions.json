@@ -1,6 +1,14 @@
 {
   "editions": [
     {
+      "number": 299,
+      "date": "2026-11-03",
+      "label": "3 November 2026",
+      "file": "2026-11-03.json",
+      "lead": "Flick targets top eight as Barça host Aston Villa; injury timelines set",
+      "tweets": 7
+    },
+    {
       "number": 298,
       "date": "2026-11-02",
       "label": "2 November 2026",
