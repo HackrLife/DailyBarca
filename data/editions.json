@@ -1,6 +1,14 @@
 {
   "editions": [
     {
+      "number": 302,
+      "date": "2026-11-06",
+      "label": "6 November 2026",
+      "file": "2026-11-06.json",
+      "lead": "Squad trains on day off before Atlético; Raphinha reassures on Brazil",
+      "tweets": 6
+    },
+    {
       "number": 301,
       "date": "2026-11-05",
       "label": "5 November 2026",
