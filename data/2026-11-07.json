@@ -1,1 +1,73 @@
-PLACEHOLDER
+{
+  "date": "2026-11-07",
+  "number": 303,
+  "label": "7 November 2026",
+  "title": "Eric García and Christensen train with group; Koundé still out for Atlético",
+  "deck": "Barça returned to the Ciutat Esportiva on Friday after the rest day. Eric García and Andreas Christensen did partial group work. Jules Koundé tested but stayed separate. Rodri remains out. Flick speaks at 13:00 on Saturday.",
+  "stories": [
+    {
+      "kicker": "Training",
+      "headline": "Eric García and Christensen join part of the group session",
+      "summary": "Hansi Flick had the available first-team players plus Hamza Abdelkarim, Guillem Víctor and Àlex Campos from Barça Atlètic at the Ciutat Esportiva Joan Gamper on Friday. Eric García and Andreas Christensen did part of the work with the group. Both still need medical clearance.",
+      "body": "SPORT reported that Eric García completed part of the session and has a realistic chance of being named in the squad for Sunday if Saturday’s final training goes well. Christensen also trained with the group after a longer absence. Jules Koundé tested on the grass before the session but did not join the main group; he is expected to miss the Metropolitano unless there is a clear improvement on Saturday. Rodri, Dani Olmo, Xavi Espart and Roony Bardghji stayed on individual programmes. The club said players returning from injury continue individual work while awaiting clearance. Saturday’s open training starts at 11:00 and Flick’s press conference is at 13:00.",
+      "sources": [{"label": "SPORT", "url": "https://www.sport.es/es/noticias/barca/flick-recupera-titular-metropolitano-136153368"}, {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news/4605545/back-at-training"}],
+      "tweets": [{"id": "2118682313378996259", "handle": "sport", "name": "Diario SPORT", "text": "Flick recupera a un titular para el Metropolitano. Eric Garcia y Andreas Christensen se ejercitaron con el grupo este viernes; Jules Koundé se mantuvo al margen y está descartado salvo 'milagro'."}, {"id": "2118689869597733074", "handle": "FCBarcelona", "name": "FC Barcelona", "text": "Training session ahead of #AtletiBarça"}]
+    },
+    {
+      "kicker": "Squad",
+      "headline": "Rodri ruled out; Bernal the leading option alongside Pedri",
+      "summary": "Rodri will miss Sunday’s La Liga match at Atlético Madrid with a minor right hamstring injury. He came off at half-time against Aston Villa. Marc Bernal is expected to start next to Pedri if Flick does not use De Jong.",
+      "body": "The club confirmed the injury after tests on Wednesday. Spanish media put the absence at three to four weeks, which would also rule him out of Spain’s Nations League matches against Czechia and England. Bernal replaced him against Villa and played the second half. De Jong is available after his return from injury but has been managed carefully. Olmo remains out with an adductor issue. Flick has not named the starting midfield yet. The Metropolitano kick-off is 21:00 on Sunday. Barça lead La Liga by two points.",
+      "sources": [{"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news/4604306/rodri-injury-news"}, {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261104/1004247143/rodri.html"}],
+      "tweets": [{"id": "2117948144642404567", "handle": "samuelmarsden", "name": "Samuel Marsden", "text": "Rodri out of Barça's trip to Atlético this weekend"}]
+    },
+    {
+      "kicker": "Schedule",
+      "headline": "Flick press conference at 13:00 after final training",
+      "summary": "Saturday’s last session at the Ciutat Esportiva starts at 11:00. Hansi Flick will speak to the media at 13:00. The squad then travels to Madrid for the 21:00 kick-off on Sunday.",
+      "body": "FC Barcelona published the international viewing times for the Metropolitano match. The club said the opening minutes of Saturday’s training will be available on official channels. After the Atlético game the international break begins. Players will report to national teams from Monday. Barça next host Villarreal on 22 November. The Champions League continues on 25 November away to Sabah in Baku.",
+      "sources": [{"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news/4604218/when-and-where-to-watch-atletico-madrid-v-fc-barcelona"}, {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news/4605545/back-at-training"}],
+      "tweets": [{"id": "2118757807893962972", "handle": "FCBarcelona_es", "name": "FC Barcelona", "text": "Los horarios internacionales del Atlético de Madrid - FC Barcelona"}, {"id": "2118720068989456476", "handle": "FCBarcelona", "name": "FC Barcelona", "text": "Huge game coming up on Sunday"}]
+    },
+    {
+      "kicker": "Opponent",
+      "headline": "Simeone prepares two surprises in the Atlético starting XI",
+      "summary": "Diego Simeone has tried a different starting line-up in the final training before Barcelona. Johnny Cardoso is available after missing recent matches. Cristian Romero is the only senior absentee.",
+      "body": "SPORT reported that Simeone worked on two changes during the last session at Majadahonda. Cardoso completed full training and is expected to be in the squad. Atlético have seven consecutive La Liga wins and sit two points behind Barça. A home win would put them top before the break. The Metropolitano will also hold a tribute to Jesús de Miguel before kick-off.",
+      "sources": [{"label": "SPORT", "url": "https://www.sport.es/es/noticias/barca/simeone-prepara-sorpresas-once-atletico-136159948"}],
+      "tweets": []
+    },
+    {
+      "kicker": "International",
+      "headline": "Large number of Barça players called up for the final 2026 window",
+      "summary": "Many first-team players will join their national teams after Sunday’s match. Spain face Czechia on 12 November and England on 15 November. Raphinha is expected to travel with Brazil.",
+      "body": "FC Barcelona listed the call-ups on its official site. Eric García was included by Luis de la Fuente. Rodri is expected to miss both Spain matches because of the hamstring. Raphinha has said he spoke with Ancelotti about managing his minutes and that he is not yet at full fitness. The break runs until 17 November. Barça return to action against Villarreal on 22 November.",
+      "sources": [{"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news/4605559/large-number-of-fc-barcelona-players-called-up-for-international-duty"}],
+      "tweets": []
+    },
+    {
+      "kicker": "Attack",
+      "headline": "Raphinha’s 19 goals this season take him to the Metropolitano",
+      "summary": "The captain has 19 goals in 13 matches after his brace against Aston Villa. He signed a new contract until 30 June 2030 on Thursday. He is expected to start on Sunday.",
+      "body": "Raphinha equalled Ronaldinho’s Champions League tally for the club with the two goals on Tuesday. He has 15 in La Liga and four in Europe. He told the media at the signing that he would like to finish his career at Barcelona if his body allows it. Flick has used him as the central striker in recent matches. Yamal and Gordon are also available in the attacking line. Fermín has started as the number 10 in recent games.",
+      "sources": [{"label": "AS", "url": "https://as.com/futbol/primera/oficial-raphinha-renueva-hasta-2030-f202611-n/"}, {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news/4604888/raphinha-staying-at-fc-barcelona-until-2030"}],
+      "tweets": [{"id": "2118780662865907795", "handle": "FCBarcelona", "name": "FC Barcelona", "text": "Aye, captain"}]
+    },
+    {
+      "kicker": "Table",
+      "headline": "Two points separate Barça and Atlético before the break",
+      "summary": "Barcelona lead La Liga on 30 points from 11 matches. Atlético are second on 28. Real Madrid sit further back. A win at the Metropolitano would open a five-point gap.",
+      "body": "The match is the last La Liga fixture before the international window. Barça have scored 46 goals in the league. Atlético have 22. Rodri’s absence removes the midfield anchor who has started most matches since arriving from Manchester City. Flick’s side still have several senior defenders unavailable or returning. The result will decide who goes into the break at the top.",
+      "sources": [{"label": "Sports Mole", "url": "https://www.sportsmole.co.uk/football/barcelona/race-for-the-la-liga-title/preview/atletico-vs-barcelona-prediction-team-news-lineups_608576.html"}],
+      "tweets": []
+    },
+    {
+      "kicker": "Defence",
+      "headline": "Koundé remains separate after testing on Friday",
+      "summary": "Jules Koundé tried the pitch before the main session but did not train with the group. He is carrying the grade-one ankle sprain from the Betis match on 18 October. A place in the Atlético squad looks unlikely.",
+      "body": "SPORT said the French full-back’s sensations were not yet good enough to join the others. He has already missed the Clásico, Alavés and Aston Villa. Brian Fariñas and João Cancelo have covered the right-back role in recent matches. Eric García’s partial return gives Flick another centre-back option if he clears Saturday’s session. Christensen’s return is also being managed carefully to avoid a setback.",
+      "sources": [{"label": "SPORT", "url": "https://www.sport.es/es/noticias/barca/flick-recupera-titular-metropolitano-136153368"}],
+      "tweets": []
+    }
+  ]
+}
