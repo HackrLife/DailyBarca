@@ -1,1 +1,101 @@
-PLACEHOLDER
+{
+  "date": "2026-11-08",
+  "number": 304,
+  "label": "8 November 2026",
+  "title": "Flick confirms Eric García and Christensen in the squad for Atlético",
+  "deck": "Hansi Flick named both defenders for Sunday’s trip to the Metropolitano. Eric could start. Rodri remains out. Kick-off is 21:00. Barça lead by two points.",
+  "stories": [
+    {
+      "kicker": "Squad",
+      "headline": "Flick confirms Eric García and Christensen will travel with the squad",
+      "summary": "Hansi Flick said on Saturday that Eric García and Andreas Christensen will be in the squad for the visit to Atlético Madrid. He added that Eric is ready to start. The pair completed Saturday’s session with the group at the Ciutat Esportiva. Jules Koundé stayed separate.",
+      "body": "The confirmation came after the final training ahead of the 21:00 kick-off at the Riyadh Air Metropolitano. Eric had been out since the Betis match on 17 October with a right rectus femoris strain. Christensen had been absent since 19 September against Sevilla. Both cleared Saturday’s work. Flick told reporters Eric could start but that the decision would wait until match day. The club published the quote on its site and on X. Rodri, Dani Olmo, Xavi Espart and Roony Bardghji remain unavailable. The squad list is expected around 11:00 on Sunday before the flight to Madrid.",
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news/4605960/hansi-flick-eric-and-christensen-will-be-in-the-squad"},
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261107/1004248209/eric-christensen-aceleran-atletico.html"}
+      ],
+      "tweets": [
+        {"id": "2119040098453065752", "handle": "FCBarcelona", "name": "FC Barcelona", "text": "🗣️ Flick: \"Eric Garcia is ready to start, but we'll see. Both Eric and Christensen will be included in the squad.\" #AtletiBarça"},
+        {"id": "2119097551815328178", "handle": "FCBarcelona_es", "name": "FC Barcelona", "text": "¡Eric entrena con el grupo! 👏"}
+      ]
+    },
+    {
+      "kicker": "Match",
+      "headline": "Barça visit Atlético at the Metropolitano with two points at stake",
+      "summary": "Atlético Madrid host Barcelona at 21:00 on Sunday in La Liga. Barça lead the table on 30 points. Atlético sit second on 28. A home win for the hosts would put them top before the international break. The Metropolitano holds a tribute to Jesús de Miguel before kick-off.",
+      "body": "Flick called the match important and said three or four strong teams sit close together in the table. He added that the side would give everything to win while acknowledging Atlético’s quality and coach. The past results against Simeone’s side were not a topic he wanted to dwell on. Raphinha arrives with 19 goals this season after his brace against Aston Villa. The viewing guide is on the club site. After the match the last international window of 2026 begins. Players report to their national teams from Monday. Barça next face Villarreal at home on 22 November.",
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news/4604218/when-and-where-to-watch-atletico-madrid-v-fc-barcelona"},
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news/4605960/hansi-flick-eric-and-christensen-will-be-in-the-squad"}
+      ],
+      "tweets": [
+        {"id": "2119142847731417261", "handle": "FCBarcelona", "name": "FC Barcelona", "text": "One mission. Atleti - Barça ⚔️"}
+      ]
+    },
+    {
+      "kicker": "Midfield",
+      "headline": "Rodri out; Flick yet to choose between Bernal and De Jong",
+      "summary": "Rodri misses the Metropolitano with a minor right hamstring tear sustained against Aston Villa. Flick has not decided between Marc Bernal and Frenkie de Jong to partner Pedri. He said both are similar and that De Jong is fully fit.",
+      "body": "The club confirmed the injury after tests earlier in the week. Spanish reports put the absence at three to four weeks, which would also rule Rodri out of Spain’s Nations League fixtures. Bernal started the second half against Villa. De Jong has returned from his own injury and has been managed carefully. Flick said he is happy with both players’ work on and off the ball. The midfield choice will be clearer when the squad list and then the starting XI are published. Olmo remains out with an adductor issue.",
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news/4605960/hansi-flick-eric-and-christensen-will-be-in-the-squad"}
+      ],
+      "tweets": []
+    },
+    {
+      "kicker": "Defence",
+      "headline": "Koundé remains out and is expected back after the break",
+      "summary": "Jules Koundé tested on Friday but stayed out of the main group on Saturday. He is still carrying the ankle sprain from the Betis match. Flick hopes to see him after the international window.",
+      "body": "The French full-back has already missed the Clásico, Alavés and Aston Villa. Brian Fariñas and João Cancelo have covered the right-back role in recent matches. Eric García’s return gives Flick another centre-back option if he starts. Christensen’s inclusion is being managed to avoid a setback after nearly two months out. The defensive absences also include Xavi Espart (syndesmosis) and Roony Bardghji. Saturday’s session included several Barça Atlètic players.",
+      "sources": [
+        {"label": "Barça Blaugranes", "url": "https://www.barcablaugranes.com/barcelona-la-liga/137324/eric-garcia-andreas-christensen-will-be-face-atletico-madrid"}
+      ],
+      "tweets": []
+    },
+    {
+      "kicker": "Referee",
+      "headline": "Javier Alberola Rojas takes charge of his first Atlético-Barça",
+      "summary": "The Ciudad Real referee will officiate Sunday’s match at the Metropolitano. It is his first Atlético-Barça in the top flight. He has directed Atlético 21 times and Barça 13 times previously.",
+      "body": "SPORT and Mundo Deportivo confirmed the appointment. Alberola Rojas averages 4.67 yellow cards per La Liga match this season. He recently made his Champions League debut. Javier Iglesias Villanueva is the VAR. Atlético’s record under him is 12 wins, 5 draws and 4 losses. Barça’s record is 10 wins, 2 draws and 1 loss. The match is the last La Liga fixture before the international break.",
+      "sources": [
+        {"label": "SPORT", "url": "https://www.sport.es/es/noticias/barca/alberola-rojas-arbitrara-partido-metropolitano-136202875"},
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261107/1004248256/alberola-rojas-estrenara-atletico-barca.html"}
+      ],
+      "tweets": [
+        {"id": "2119135643724894335", "handle": "sport", "name": "Diario SPORT", "text": "🚨 Alberola Rojas arbitrará el partido del Metropolitano"}
+      ]
+    },
+    {
+      "kicker": "Attack",
+      "headline": "Raphinha takes 19 goals to the Metropolitano after contract extension",
+      "summary": "The captain has 19 goals in 13 matches after scoring twice against Aston Villa. He signed a new deal until 30 June 2030 on Thursday. Flick expects him to start.",
+      "body": "Raphinha equalled Ronaldinho’s Champions League tally for the club with the two goals on Tuesday. He has 15 in La Liga and four in Europe. He told the media at the signing ceremony that he would like to finish his career at Barcelona if his body allows it. Flick has used him as the central striker in recent matches. Lamine Yamal and Anthony Gordon are also available in the attacking line. Fermín López has started as the number 10 in recent games. The Brazilian is expected to travel with Ancelotti’s Brazil squad after the match.",
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news/4604888/raphinha-staying-at-fc-barcelona-until-2030"}
+      ],
+      "tweets": []
+    },
+    {
+      "kicker": "Table",
+      "headline": "Two points separate the sides before the international break",
+      "summary": "Barcelona lead La Liga on 30 points from 11 matches. Atlético are second on 28. Real Madrid sit further back on 27. A win at the Metropolitano would open a five-point gap for the visitors.",
+      "body": "The match is the final La Liga fixture before the international window. Barça have scored 46 goals in the league. Atlético have 22 and arrive after a 2-0 home loss to Bayern Munich in midweek. Rodri’s absence removes the midfield anchor who has started most matches since arriving from Manchester City. Flick’s side still have several senior defenders unavailable or returning. The result will decide who goes into the break at the top of the table.",
+      "sources": [
+        {"label": "Sports Mole", "url": "https://www.sportsmole.co.uk/football/barcelona/"}
+      ],
+      "tweets": []
+    },
+    {
+      "kicker": "Training",
+      "headline": "Final session completed with Atlètic players involved",
+      "summary": "Saturday’s last training at the Ciutat Esportiva included Eric García and Andreas Christensen with the group. Several Barça Atlètic players also took part. Flick spoke at 13:00.",
+      "body": "Mundo Deportivo reported that Àlex Campos, Ebrima Tunkara and Max Bonfill joined the session. Guillem Víctor and Orian Goren did not train. The opening minutes of the session were available on official channels. The squad travels to Madrid on Sunday morning. They will stay at the Hilton Airport. The definitive squad list is expected around 11:00. After the match the international break begins and players report to national teams from Monday.",
+      "sources": [
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261107/1004248209/eric-christensen-aceleran-atletico.html"}
+      ],
+      "tweets": [
+        {"id": "2119041234840719794", "handle": "mundodeportivo", "name": "Mundo Deportivo", "text": "🧐 Flick, acerca de Eric Garcia: \"Puede ser titular\""}
+      ]
+    }
+  ]
+}
