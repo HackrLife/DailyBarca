@@ -1,0 +1,2162 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T12:56:49.258322+00:00",
+  "source_pool": 50,
+  "articles_kept": 259,
+  "clusters": 213,
+  "failed_sources": [
+    "UEFA – Barcelona",
+    "LaLiga – Barcelona",
+    "Reuters",
+    "Associated Press",
+    "ESPN",
+    "Sky Sports",
+    "FOX Sports",
+    "The Independent",
+    "Goal",
+    "Football España",
+    "Get Spanish Football News",
+    "Barça News Network",
+    "SPORT",
+    "Esport3",
+    "RAC1",
+    "Cadena SER",
+    "AS",
+    "Relevo",
+    "El Periódico",
+    "El Nacional",
+    "Món Esport",
+    "Onda Cero",
+    "COPE",
+    "FotMob",
+    "Sofascore",
+    "FBref",
+    "WhoScored",
+    "Transfermarkt",
+    "OneFootball",
+    "LiveScore",
+    "Opta Analyst"
+  ],
+  "stories": [
+    {
+      "headline": "Barcelona Player Ratings vs. Atletico Madrid: Fermin Magic Keeps Barca at La Liga Summit",
+      "summary": "Barcelona Player Ratings vs. Atletico Madrid: Fermin Magic Keeps Barca at La Liga Summit",
+      "source_count": 3,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Sports Illustrated",
+          "url": "https://www.si.com/soccer/barcelona-player-ratings-vs-atletico-madrid-11-8-26",
+          "tier": "major"
+        },
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/barcelona-player-ratings-vs-atletico-madrid-11-8-26",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Universal",
+          "url": "https://barcauniversal.com/yamal-9-5-fermin-9-5-atletico-madrid-1-2-barcelona-player-ratings/",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 10,
+          "source": "Sports Illustrated",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona Player Ratings vs. Atletico Madrid: Fermin Magic Keeps Barca at La Liga Summit",
+          "url": "https://www.si.com/soccer/barcelona-player-ratings-vs-atletico-madrid-11-8-26",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona Player Ratings vs. Atletico Madrid: Fermin Magic Keeps Barca at La Liga Summit",
+          "url": "https://www.si.com/soccer/barcelona-player-ratings-vs-atletico-madrid-11-8-26",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 20,
+          "source": "Barça Universal",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Yamal 9.5, Fermin 9.5 | Atletico Madrid 1-2 Barcelona: Player Ratings",
+          "url": "https://barcauniversal.com/yamal-9-5-fermin-9-5-atletico-madrid-1-2-barcelona-player-ratings/",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "‘Obviously’—JJ Gabriel Confirms Final Man Utd Exit Decision Amid Barcelona, Real Madrid Interest",
+      "summary": "‘Obviously’—JJ Gabriel Confirms Final Man Utd Exit Decision Amid Barcelona, Real Madrid Interest",
+      "source_count": 3,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Sports Illustrated",
+          "url": "https://www.si.com/soccer/jj-gabriel-final-man-utd-exit-decision-barcelona-real-madrid-interest",
+          "tier": "major"
+        },
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/jj-gabriel-final-man-utd-exit-decision-barcelona-real-madrid-interest",
+          "tier": "volume"
+        },
+        {
+          "name": "Football365",
+          "url": "https://www.football365.com/news/man-utd-sensation-jj-gabriel-reacts-new-improved-offer-chooses-real-madrid-barcelona",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 10,
+          "source": "Sports Illustrated",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "‘Obviously’—JJ Gabriel Confirms Final Man Utd Exit Decision Amid Barcelona, Real Madrid Interest",
+          "url": "https://www.si.com/soccer/jj-gabriel-final-man-utd-exit-decision-barcelona-real-madrid-interest",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "‘Obviously’—JJ Gabriel Confirms Final Man Utd Exit Decision Amid Barcelona, Real Madrid Interest",
+          "url": "https://www.si.com/soccer/jj-gabriel-final-man-utd-exit-decision-barcelona-real-madrid-interest",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 17,
+          "source": "Football365",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Man Utd sensation JJ Gabriel reacts to new ‘improved offer’ as he chooses between Real Madrid, Barcelona",
+          "url": "https://www.football365.com/news/man-utd-sensation-jj-gabriel-reacts-new-improved-offer-chooses-real-madrid-barcelona",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 11h Three talking points from Atletico Madrid 1-2 Barcelona as Fermin Lopez double seals win A vital win for Hansi Flick’s side.",
+      "summary": "www.barcablaugranes.com • 11h Three talking points from Atletico Madrid 1-2 Barcelona as Fermin Lopez double seals win A vital win for Hansi Flick’s side.",
+      "source_count": 3,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/cant-del-blog-barcelona-opinion/137415/three-talking-points-atletico-madrid-fermin-lopez-double?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Universal",
+          "url": "https://barcauniversal.com/three-talking-points-ahead-of-atletico-madrid-vs-barcelona-la-liga-md-12/",
+          "tier": "specialist"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/cant-del-blog-barcelona-opinion/137415/three-talking-points-atletico-madrid-fermin-lopez-double",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 11h Three talking points from Atletico Madrid 1-2 Barcelona as Fermin Lopez double seals win A vital win for Hansi Flick’s side.",
+          "url": "https://www.barcablaugranes.com/cant-del-blog-barcelona-opinion/137415/three-talking-points-atletico-madrid-fermin-lopez-double?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 20,
+          "source": "Barça Universal",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Three talking points ahead of Atletico Madrid vs Barcelona | La Liga MD 12",
+          "url": "https://barcauniversal.com/three-talking-points-ahead-of-atletico-madrid-vs-barcelona-la-liga-md-12/",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Three talking points from Atletico Madrid 1-2 Barcelona as Fermin Lopez double seals winThree talking points from Atletico Madrid 1-2 Barcelona as Fermin Lopez double seals win",
+          "url": "https://www.barcablaugranes.com/cant-del-blog-barcelona-opinion/137415/three-talking-points-atletico-madrid-fermin-lopez-double",
+          "summary": "Barcelona came from behind to beat Atletico Madrid 2-1 on Sunday in a huge game at the top of the table in La Liga. Fermin Lopez was the match-winner for the champions with a brace to ensure the Catalans stay top during the international break. Let’s take a look at three talking points from the […]Barcelona came from behind to beat Atletico Madrid 2-1 on Sunday in a huge game at the top of the tab",
+          "published": "2026-11-08T19:00:00-05:002026-11-08T19:00:00-05:00"
+        }
+      ]
+    },
+    {
+      "headline": "Transfer Rumors: Van Dijk Wants Barcelona Move; Man Utd to Offload Dalot",
+      "summary": "Transfer Rumors: Van Dijk Wants Barcelona Move; Man Utd to Offload Dalot",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Sports Illustrated",
+          "url": "https://www.si.com/soccer/transfer-rumors-van-dijk-barcelona-move-man-utd-dalot",
+          "tier": "major"
+        },
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/transfer-rumors-van-dijk-barcelona-move-man-utd-dalot",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 10,
+          "source": "Sports Illustrated",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Transfer Rumors: Van Dijk Wants Barcelona Move; Man Utd to Offload Dalot",
+          "url": "https://www.si.com/soccer/transfer-rumors-van-dijk-barcelona-move-man-utd-dalot",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Transfer Rumors: Van Dijk Wants Barcelona Move; Man Utd to Offload Dalot",
+          "url": "https://www.si.com/soccer/transfer-rumors-van-dijk-barcelona-move-man-utd-dalot",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Transfer Rumors: Man Utd in Fight for Endrick; Barcelona Consider Martinez",
+          "url": "https://www.si.com/soccer/transfer-rumors-man-utd-endrick-barcelona-martinez",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Atletico Madrid vs Barcelona",
+      "summary": "Atletico Madrid vs Barcelona",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "CBS Sports",
+          "url": "https://www.cbssports.com/watch/la-liga/video/atletico-madrid-vs-barcelona-la-liga-match-highlights-118-scoreline?ftag=CBS-16-10aci9g",
+          "tier": "major"
+        },
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/atletico-madrid-vs-barcelona-preview-predictions-lineups-11-8-26",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 11,
+          "source": "CBS Sports",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Atletico Madrid vs Barcelona",
+          "url": "https://www.cbssports.com/watch/la-liga/video/atletico-madrid-vs-barcelona-la-liga-match-highlights-118-scoreline?ftag=CBS-16-10aci9g",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Atletico Madrid vs. Barcelona: Preview, Predictions and Lineups",
+          "url": "https://www.si.com/soccer/atletico-madrid-vs-barcelona-preview-predictions-lineups-11-8-26",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Why Atletico Madrid vs. Barcelona Is at Risk of Suspension",
+          "url": "https://www.si.com/soccer/why-atletico-madrid-vs-barcelona-risk-suspension-11-26",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 9h Did Hansi Flick get it right in Barcelona’s victory over Atletico Madrid? It was a tense night as Barcelona came out on top at the Metropolitano",
+      "summary": "www.barcablaugranes.com • 9h Did Hansi Flick get it right in Barcelona’s victory over Atletico Madrid? It was a tense night as Barcelona came out on top at the Metropolitano",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/cant-del-blog-barcelona-opinion/137438/did-hansi-flick-get-it-right-in-barcelonas-victory-over-atletico-madrid?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/137439/hansi-flick-lack-of-intensity-frenkie-de-jong-right-back",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 9h Did Hansi Flick get it right in Barcelona’s victory over Atletico Madrid? It was a tense night as Barcelona came out on top at the Metropolitano",
+          "url": "https://www.barcablaugranes.com/cant-del-blog-barcelona-opinion/137438/did-hansi-flick-get-it-right-in-barcelonas-victory-over-atletico-madrid?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 12h Hansi Flick talks Barcelona’s ‘lack of intensity’ and Frenkie de Jong the right-back after Atletico win The German coach spoke after the victory.",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/137439/hansi-flick-lack-of-intensity-frenkie-de-jong-right-back?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Hansi Flick talks Barcelona’s ‘lack of intensity’ and Frenkie de Jong the right-back after Atletico winHansi Flick talks Barcelona’s ‘lack of intensity’ and Frenkie de Jong the right-back after Atletico win",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/137439/hansi-flick-lack-of-intensity-frenkie-de-jong-right-back",
+          "summary": "Hansi Flick oversaw a 2-1 win over Atletico Madrid on Sunday as Barcelona won a big game at the top of the table before the international break. Barcelona weren’t at their best and Flick admitted there was a lack of intensity from his team, particularly at the start of the game. “We have the quality […]Hansi Flick oversaw a 2-1 win over Atletico Madrid on Sunday as Barcelona won a big game at the ",
+          "published": "2026-11-08T18:08:17-05:002026-11-08T18:08:17-05:00"
+        }
+      ]
+    },
+    {
+      "headline": "Transfer Rumors: Man Utd Join Four-Team Race for Como Star; PSG Chase Gavi",
+      "summary": "Transfer Rumors: Man Utd Join Four-Team Race for Como Star; PSG Chase Gavi",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Sports Illustrated",
+          "url": "https://www.si.com/soccer/transfer-rumors-man-utd-join-race-for-como-star-psg-chase-gavi",
+          "tier": "major"
+        },
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/transfer-rumors-man-utd-join-race-for-como-star-psg-chase-gavi",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 10,
+          "source": "Sports Illustrated",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Transfer Rumors: Man Utd Join Four-Team Race for Como Star; PSG Chase Gavi",
+          "url": "https://www.si.com/soccer/transfer-rumors-man-utd-join-race-for-como-star-psg-chase-gavi",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Transfer Rumors: Man Utd Join Four-Team Race for Como Star; PSG Chase Gavi",
+          "url": "https://www.si.com/soccer/transfer-rumors-man-utd-join-race-for-como-star-psg-chase-gavi",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Six Center Backs Barcelona Could Sign in January Transfer Window",
+      "summary": "Six Center Backs Barcelona Could Sign in January Transfer Window",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Sports Illustrated",
+          "url": "https://www.si.com/soccer/center-backs-barcelona-sign-january-transfer-window",
+          "tier": "major"
+        },
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/center-backs-barcelona-sign-january-transfer-window",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 10,
+          "source": "Sports Illustrated",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Six Center Backs Barcelona Could Sign in January Transfer Window",
+          "url": "https://www.si.com/soccer/center-backs-barcelona-sign-january-transfer-window",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Six Center Backs Barcelona Could Sign in January Transfer Window",
+          "url": "https://www.si.com/soccer/center-backs-barcelona-sign-january-transfer-window",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 17m Lamine Yamal to miss Spain vs Czechia after sustaining injury during Barcelona’s win over Atletico The forward has a knock.",
+      "summary": "www.barcablaugranes.com • 17m Lamine Yamal to miss Spain vs Czechia after sustaining injury during Barcelona’s win over Atletico The forward has a knock.",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/barcelona-internationals/137500/lamine-yamal-spain-vs-czechia-injury-atletico?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-internationals/137500/lamine-yamal-spain-vs-czechia-injury-atletico",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 17m Lamine Yamal to miss Spain vs Czechia after sustaining injury during Barcelona’s win over Atletico The forward has a knock.",
+          "url": "https://www.barcablaugranes.com/barcelona-internationals/137500/lamine-yamal-spain-vs-czechia-injury-atletico?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Lamine Yamal to miss Spain vs Czechia after sustaining injury during Barcelona’s win over AtleticoLamine Yamal to miss Spain vs Czechia after sustaining injury during Barcelona’s win over Atletico",
+          "url": "https://www.barcablaugranes.com/barcelona-internationals/137500/lamine-yamal-spain-vs-czechia-injury-atletico",
+          "summary": "Barcelona star Lamine Yamal is set to miss Spain’s first game of the international break against Czechia due to a knee problem. Yamal reported discomfort in his knee after playing 90 minutes for Barcelona against Atletico on Sunday night and will delay meeting up with the national team, according to Mundo Deportivo. The teenager has […]Barcelona star Lamine Yamal is set to miss Spain’s first game ",
+          "published": "2026-11-09T06:40:33-05:002026-11-09T06:40:33-05:00"
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 7h Pau Cubarsi explains how Barcelona ‘fixed things’ at half-time against Atletico The champions came from behind to win.",
+      "summary": "www.barcablaugranes.com • 7h Pau Cubarsi explains how Barcelona ‘fixed things’ at half-time against Atletico The champions came from behind to win.",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/137472/pau-cubarsi-explains-how-fixed-things-atletico?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/137472/pau-cubarsi-explains-how-fixed-things-atletico",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 7h Pau Cubarsi explains how Barcelona ‘fixed things’ at half-time against Atletico The champions came from behind to win.",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/137472/pau-cubarsi-explains-how-fixed-things-atletico?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Pau Cubarsi explains how Barcelona ‘fixed things’ at half-time against AtleticoPau Cubarsi explains how Barcelona ‘fixed things’ at half-time against Atletico",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/137472/pau-cubarsi-explains-how-fixed-things-atletico",
+          "summary": "Pau Cubarsi spoke about how Barcelona turned things around against Atletico Madrid on Sunday after playing his part in a 2-1 win at the Metropolitano Stadium. Guiliano Simeone put the hosts ahead after just 10 minutes but Barcelona hit back through a Fermin Lopez double to seal an important win. Cubarsi revealed afterwards how Barca […]Pau Cubarsi spoke about how Barcelona turned things around aga",
+          "published": "2026-11-08T23:00:00-05:002026-11-08T23:00:00-05:00"
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 12h ‘Worth half a goal’ - Fermin Lopez hails Lamine Yamal’s assist as Barcelona beat Atletico The two combined for the winner.",
+      "summary": "www.barcablaugranes.com • 12h ‘Worth half a goal’ - Fermin Lopez hails Lamine Yamal’s assist as Barcelona beat Atletico The two combined for the winner.",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/137446/half-fermin-lopez-lamine-yamals-assist-atletico?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/137446/half-fermin-lopez-lamine-yamals-assist-atletico",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 12h ‘Worth half a goal’ - Fermin Lopez hails Lamine Yamal’s assist as Barcelona beat Atletico The two combined for the winner.",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/137446/half-fermin-lopez-lamine-yamals-assist-atletico?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "‘Worth half a goal’ – Fermin Lopez hails Lamine Yamal’s assist as Barcelona beat Atletico‘Worth half a goal’ – Fermin Lopez hails Lamine Yamal’s assist as Barcelona beat Atletico",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/137446/half-fermin-lopez-lamine-yamals-assist-atletico",
+          "summary": "Fermin Lopez hailed Lamine Yamal for his excellent pass that set up Barcelona’s winner in a 2-1 victory over Atletico Madrid on Sunday night in La Liga. Barcelona went behind in the match but hit back through Lopez. The Spain star then added a second, firing home after a brilliant pass by Yamal. Lopez says […]Fermin Lopez hailed Lamine Yamal for his excellent pass that set up Barcelona’s winner in",
+          "published": "2026-11-08T17:34:22-05:002026-11-08T17:34:22-05:00"
+        }
+      ]
+    },
+    {
+      "headline": "Barcelona v Aston Villa: Prediction, team news, lineups and odds",
+      "summary": "Barcelona v Aston Villa: Prediction, team news, lineups and odds",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Football365",
+          "url": "https://www.football365.com/match-preview/barcelona-v-aston-villa-prediction-preview",
+          "tier": "volume"
+        },
+        {
+          "name": "Everything Barça",
+          "url": "https://everythingbarca.com/barcelona-vs-aston-villa-champions-league-preview-predictions-team-news-and-tv-info",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 17,
+          "source": "Football365",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona v Aston Villa: Prediction, team news, lineups and odds",
+          "url": "https://www.football365.com/match-preview/barcelona-v-aston-villa-prediction-preview",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 24,
+          "source": "Everything Barça",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona vs Aston Villa: Champions League preview, predictions, team news and TV info",
+          "url": "https://everythingbarca.com/barcelona-vs-aston-villa-champions-league-preview-predictions-team-news-and-tv-info",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Understanding Hansi Flick’s tactical masterstroke that changed Barcelona’s game against Atletico Madrid",
+      "summary": "Understanding Hansi Flick’s tactical masterstroke that changed Barcelona’s game against Atletico Madrid",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Barça Universal",
+          "url": "https://barcauniversal.com/understanding-hansi-flicks-tactical-masterstroke-that-changed-barcelonas-game-against-atletico-madrid/",
+          "tier": "specialist"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/cant-del-blog-barcelona-opinion/137438/did-hansi-flick-get-it-right-in-barcelonas-victory-over-atletico-madrid",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 20,
+          "source": "Barça Universal",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Understanding Hansi Flick’s tactical masterstroke that changed Barcelona’s game against Atletico Madrid",
+          "url": "https://barcauniversal.com/understanding-hansi-flicks-tactical-masterstroke-that-changed-barcelonas-game-against-atletico-madrid/",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Did Hansi Flick get it right in Barcelona’s victory over Atletico Madrid?Did Hansi Flick get it right in Barcelona’s victory over Atletico Madrid?",
+          "url": "https://www.barcablaugranes.com/cant-del-blog-barcelona-opinion/137438/did-hansi-flick-get-it-right-in-barcelonas-victory-over-atletico-madrid",
+          "summary": "When you play Diego Simeone’s Atletico Madrid away from home, coming out of the lion’s den with a win is a plus no matter how you look at it. For Hansi Flick, there was also an opportunity to prove he learned his lessons against a team that had his number last season. Had Barcelona lost […]When you play Diego Simeone’s Atletico Madrid away from home, coming out of the lion’s den with a win is a pl",
+          "published": "2026-11-08T21:00:00-05:002026-11-08T21:00:00-05:00"
+        }
+      ]
+    },
+    {
+      "headline": "Eight in, many out – Rating Barcelona’s 2026 summer transfer window",
+      "summary": "Eight in, many out – Rating Barcelona’s 2026 summer transfer window",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Barça Universal",
+          "url": "https://barcauniversal.com/eight-in-many-out-rating-barcelonas-2026-summer-transfer-window/",
+          "tier": "specialist"
+        },
+        {
+          "name": "Everything Barça",
+          "url": "https://everythingbarca.com/barcelona-complete-2026-summer-transfer-window-recap",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 20,
+          "source": "Barça Universal",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Eight in, many out – Rating Barcelona’s 2026 summer transfer window",
+          "url": "https://barcauniversal.com/eight-in-many-out-rating-barcelonas-2026-summer-transfer-window/",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 24,
+          "source": "Everything Barça",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Complete recap of Barcelona's massive 2026 summer transfer window",
+          "url": "https://everythingbarca.com/barcelona-complete-2026-summer-transfer-window-recap",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Top Spot on the Line | Barcelona vs. Atlético Madrid Preview | Tactics, Line-ups, & PredictionsTop Spot on the Line | Barcelona vs. Atlético Madrid Preview | Tactics, Line-ups, & Predictions",
+      "summary": "On episode 870, Dan is joined by Jeremy Beren to preview the key players and line-ups of the big La Liga match-up with Atlético Madrid. They talk Julian Alvarez, Alejandro Grimaldo, and finish off with score predictions. New Store! – HERE Join the Discord server! The post Top Spot on the Line | Barcelona vs. Atlético Madrid Preview | Tactics, Line-ups, & Predictions appeared first on BarcaBlog . O",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "BarçaBlog",
+          "url": "https://barcablog.com/2026/11/top-spot-on-the-line-barcelona-vs-atletico-madrid-preview-tactics-line-ups-predictions.html?utm_source=rss&utm_medium=rss&utm_campaign=top-spot-on-the-line-barcelona-vs-atletico-madrid-preview-tactics-line-ups-predictionshttps://barcablog.com/2026/11/top-spot-on-the-line-barcelona-vs-atletico-madrid-preview-tactics-line-ups-predictions.html?utm_source=rss&utm_medium=rss&utm_campaign=top-spot-on-the-line-barcelona-vs-atletico-madrid-preview-tactics-line-ups-predictions",
+          "tier": "specialist"
+        },
+        {
+          "name": "Everything Barça",
+          "url": "https://everythingbarca.com/atletico-madrid-vs-barcelona-la-liga-preview-predictions-team-news-and-tv-info",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 23,
+          "source": "BarçaBlog",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Top Spot on the Line | Barcelona vs. Atlético Madrid Preview | Tactics, Line-ups, & PredictionsTop Spot on the Line | Barcelona vs. Atlético Madrid Preview | Tactics, Line-ups, & Predictions",
+          "url": "https://barcablog.com/2026/11/top-spot-on-the-line-barcelona-vs-atletico-madrid-preview-tactics-line-ups-predictions.html?utm_source=rss&utm_medium=rss&utm_campaign=top-spot-on-the-line-barcelona-vs-atletico-madrid-preview-tactics-line-ups-predictionshttps://barcablog.com/2026/11/top-spot-on-the-line-barcelona-vs-atletico-madrid-preview-tactics-line-ups-predictions.html?utm_source=rss&utm_medium=rss&utm_campaign=top-spot-on-the-line-barcelona-vs-atletico-madrid-preview-tactics-line-ups-predictions",
+          "summary": "On episode 870, Dan is joined by Jeremy Beren to preview the key players and line-ups of the big La Liga match-up with Atlético Madrid. They talk Julian Alvarez, Alejandro Grimaldo, and finish off with score predictions. New Store! – HERE Join the Discord server! The post Top Spot on the Line | Barcelona vs. Atlético Madrid Preview | Tactics, Line-ups, & Predictions appeared first on BarcaBlog . O",
+          "published": "Sat, 07 Nov 2026 04:03:04 +0000Sat, 07 Nov 2026 04:03:04 +0000"
+        },
+        {
+          "source_id": 24,
+          "source": "Everything Barça",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Atlético Madrid vs Barcelona: La Liga preview, predictions, team news and TV info",
+          "url": "https://everythingbarca.com/atletico-madrid-vs-barcelona-la-liga-preview-predictions-team-news-and-tv-info",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Golpe de autoridad del líder Barça: Fermín asalta el Metropolitano Golpe de autoridad del líder Barça: Fermín asalta el Metropolitano",
+      "summary": "El Metropolitano prometía una batalla en la jornada 12 de Liga y el Barça terminó convirtiéndola en una exhibición de autoridad. Empezó sufriendo, encajó un golpe tempranero y durante muchos minutos pareció estar a merced de un Atlético eléctrico. Pero este equipo tiene recursos, personalidad y un nombre propio que acabó eclipsándolo todo: Fermín López. El Metropolitano prometía una batalla en la ",
+      "source_count": 2,
+      "languages": [
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261109/1004248841/golpe-autoridad-lider-barca-fermin-asalta-metropolitano.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20261109/1004248841/golpe-autoridad-lider-barca-fermin-asalta-metropolitano.html",
+          "tier": "local"
+        },
+        {
+          "name": "El País",
+          "url": "https://elpais.com/deportes/futbol/2026-11-08/el-lider-del-metropolitano-fue-fermin-para-la-remontada-del-barca-ante-el-atletico.htmlhttps://elpais.com/deportes/futbol/2026-11-08/el-lider-del-metropolitano-fue-fermin-para-la-remontada-del-barca-ante-el-atletico.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 26,
+          "source": "Mundo Deportivo",
+          "tier": "local",
+          "lang": [
+            "es"
+          ],
+          "title": "Golpe de autoridad del líder Barça: Fermín asalta el Metropolitano Golpe de autoridad del líder Barça: Fermín asalta el Metropolitano",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261109/1004248841/golpe-autoridad-lider-barca-fermin-asalta-metropolitano.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20261109/1004248841/golpe-autoridad-lider-barca-fermin-asalta-metropolitano.html",
+          "summary": "El Metropolitano prometía una batalla en la jornada 12 de Liga y el Barça terminó convirtiéndola en una exhibición de autoridad. Empezó sufriendo, encajó un golpe tempranero y durante muchos minutos pareció estar a merced de un Atlético eléctrico. Pero este equipo tiene recursos, personalidad y un nombre propio que acabó eclipsándolo todo: Fermín López. El Metropolitano prometía una batalla en la ",
+          "published": "09 Nov 2026 00:47:16 +010009 Nov 2026 00:47:16 +0100"
+        },
+        {
+          "source_id": 30,
+          "source": "El País",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "El líder del Metropolitano fue Fermín para la remontada del Barça ante el AtléticoEl líder del Metropolitano fue Fermín para la remontada del Barça ante el Atlético",
+          "url": "https://elpais.com/deportes/futbol/2026-11-08/el-lider-del-metropolitano-fue-fermin-para-la-remontada-del-barca-ante-el-atletico.htmlhttps://elpais.com/deportes/futbol/2026-11-08/el-lider-del-metropolitano-fue-fermin-para-la-remontada-del-barca-ante-el-atletico.html",
+          "summary": "El Barcelona reaccionó con los dos goles del azulgrana después de un inicio fulgurante de equipo de SimeoneEl Barcelona reaccionó con los dos goles del azulgrana después de un inicio fulgurante de equipo de Simeone",
+          "published": "Sun, 08 Nov 2026 22:27:28 GMTSun, 08 Nov 2026 22:27:28 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Flick: \"Una victoria de 'diez'\" Flick: \"Una victoria de 'diez'\"",
+      "summary": "Hansi Flick se mostró muy contento después de un triunfo muy valioso y calificó el triunfo como un triunfo “de diez”. Con esta puntuación calificó el 1-2 en el Metropolitano, haciendo distinción entre la primera segunda y la segunda, pero dejando claro que “hay que creer en este equipo”. Hansi Flick se mostró muy contento después de un triunfo muy valioso y calificó el triunfo como un triunfo “de ",
+      "source_count": 2,
+      "languages": [
+        "ca",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261108/1004248838/flick-victoria-diez.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20261108/1004248838/flick-victoria-diez.html",
+          "tier": "local"
+        },
+        {
+          "name": "La Vanguardia",
+          "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20261109/11679402/flick-simeone-reacciones-barcelona-atletico-de-madrid.htmlhttps://www.lavanguardia.com/deportes/fc-barcelona/20261109/11679402/flick-simeone-reacciones-barcelona-atletico-de-madrid.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 26,
+          "source": "Mundo Deportivo",
+          "tier": "local",
+          "lang": [
+            "es"
+          ],
+          "title": "Flick: \"Una victoria de 'diez'\" Flick: \"Una victoria de 'diez'\"",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261108/1004248838/flick-victoria-diez.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20261108/1004248838/flick-victoria-diez.html",
+          "summary": "Hansi Flick se mostró muy contento después de un triunfo muy valioso y calificó el triunfo como un triunfo “de diez”. Con esta puntuación calificó el 1-2 en el Metropolitano, haciendo distinción entre la primera segunda y la segunda, pero dejando claro que “hay que creer en este equipo”. Hansi Flick se mostró muy contento después de un triunfo muy valioso y calificó el triunfo como un triunfo “de ",
+          "published": "08 Nov 2026 23:28:37 +010008 Nov 2026 23:28:37 +0100"
+        },
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "Flick: “Ser líderes tiene una importancia de diez” Flick: “Ser líderes tiene una importancia de diez”",
+          "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20261109/11679402/flick-simeone-reacciones-barcelona-atletico-de-madrid.htmlhttps://www.lavanguardia.com/deportes/fc-barcelona/20261109/11679402/flick-simeone-reacciones-barcelona-atletico-de-madrid.html",
+          "summary": "El entrenador alemán reconoció que a su equipo le faltó intensidad en el primer tiempo El entrenador alemán reconoció que a su equipo le faltó intensidad en el primer tiempo",
+          "published": "09 Nov 2026 00:08:12 +010009 Nov 2026 00:08:12 +0100"
+        }
+      ]
+    },
+    {
+      "headline": "Fermín acaba con el fantasma del Metropolitano Fermín acaba con el fantasma del Metropolitano",
+      "summary": "Dos goles del andaluz ante un Atlético que fue de más a menos consolidan al Barça como líder de la Liga, con el Real Madrid ya por detrás a tres puntos Dos goles del andaluz ante un Atlético que fue de más a menos consolidan al Barça como líder de la Liga, con el Real Madrid ya por detrás a tres puntos",
+      "source_count": 2,
+      "languages": [
+        "ca",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "La Vanguardia",
+          "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20261108/11679385/fermin-acaba-fantasma-metropolitano.htmlhttps://www.lavanguardia.com/deportes/fc-barcelona/20261108/11679385/fermin-acaba-fantasma-metropolitano.html",
+          "tier": "national"
+        },
+        {
+          "name": "ARA",
+          "url": "https://www.ara.cat/esports/barca/atletic-madrid-barca-lliga-2026-2027_1_5900816.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "Fermín acaba con el fantasma del Metropolitano Fermín acaba con el fantasma del Metropolitano",
+          "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20261108/11679385/fermin-acaba-fantasma-metropolitano.htmlhttps://www.lavanguardia.com/deportes/fc-barcelona/20261108/11679385/fermin-acaba-fantasma-metropolitano.html",
+          "summary": "Dos goles del andaluz ante un Atlético que fue de más a menos consolidan al Barça como líder de la Liga, con el Real Madrid ya por detrás a tres puntos Dos goles del andaluz ante un Atlético que fue de más a menos consolidan al Barça como líder de la Liga, con el Real Madrid ya por detrás a tres puntos",
+          "published": "08 Nov 2026 22:58:24 +010008 Nov 2026 22:58:24 +0100"
+        },
+        {
+          "source_id": 32,
+          "source": "ARA",
+          "tier": "national",
+          "lang": [
+            "ca"
+          ],
+          "title": "Fermín signa una remuntada colossal al Metropolitano",
+          "url": "https://www.ara.cat/esports/barca/atletic-madrid-barca-lliga-2026-2027_1_5900816.html",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "BARÇABARÇA",
+      "summary": "No encadenaba dos suplencias con la selección desde 2022 y en el Barça ha perdido pesoNo encadenaba dos suplencias con la selección desde 2022 y en el Barça ha perdido peso",
+      "source_count": 1,
+      "languages": [
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "MARCA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/10/06/kounde-nuevo-escenario.htmlhttps://www.marca.com/futbol/barcelona/2026/10/06/kounde-nuevo-escenario.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/10/06/kounde-nuevo-escenario.htmlhttps://www.marca.com/futbol/barcelona/2026/10/06/kounde-nuevo-escenario.html",
+          "summary": "No encadenaba dos suplencias con la selección desde 2022 y en el Barça ha perdido pesoNo encadenaba dos suplencias con la selección desde 2022 y en el Barça ha perdido peso",
+          "published": "Tue, 06 Oct 2026 11:11:22 +0200Tue, 06 Oct 2026 11:11:22 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/10/05/cancelo-revienta-paron-vuelve-barca-pletorico-exhibicion-portugal.htmlhttps://www.marca.com/futbol/barcelona/2026/10/05/cancelo-revienta-paron-vuelve-barca-pletorico-exhibicion-portugal.html",
+          "summary": "Ha jugado los cuatro partidos y ha marcado dos golazosHa jugado los cuatro partidos y ha marcado dos golazos",
+          "published": "Mon, 05 Oct 2026 19:42:58 +0200Mon, 05 Oct 2026 19:42:58 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/10/05/creador-oliver-benji-recrea-boceto-figura-lamine-yamal.htmlhttps://www.marca.com/futbol/barcelona/2026/10/05/creador-oliver-benji-recrea-boceto-figura-lamine-yamal.html",
+          "summary": "El artista japonés Yoichi Takahashi ha estado de visita en el Spotify Camp NouEl artista japonés Yoichi Takahashi ha estado de visita en el Spotify Camp Nou",
+          "published": "Mon, 05 Oct 2026 17:43:42 +0200Mon, 05 Oct 2026 17:43:42 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/10/05/lamine-yamal-aun-cuenta-pendiente-barca.htmlhttps://www.marca.com/futbol/barcelona/2026/10/05/lamine-yamal-aun-cuenta-pendiente-barca.html",
+          "summary": "Tiene un aumento de ficha pactado, pero deberá esperar aún unos meses para su ejecuciónTiene un aumento de ficha pactado, pero deberá esperar aún unos meses para su ejecución",
+          "published": "Mon, 05 Oct 2026 16:00:31 +0200Mon, 05 Oct 2026 16:00:31 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/10/05/hugo-galdeano-talento-gigante-barca.htmlhttps://www.marca.com/futbol/barcelona/2026/10/05/hugo-galdeano-talento-gigante-barca.html",
+          "summary": "El menudo atacante de La Masía brilla por su nivel de juego y su garra… siendo el más chiquito de toda la categoríaEl menudo atacante de La Masía brilla por su nivel de juego y su garra… siendo el más chiquito de toda la categoría",
+          "published": "Mon, 05 Oct 2026 14:22:20 +0200Mon, 05 Oct 2026 14:22:20 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/10/05/barca-vuelve-trabajo-unica-novedad-eric-garcia.htmlhttps://www.marca.com/futbol/barcelona/2026/10/05/barca-vuelve-trabajo-unica-novedad-eric-garcia.html",
+          "summary": "Los no internacionales han tenido nueve días de descansoLos no internacionales han tenido nueve días de descanso",
+          "published": "Mon, 05 Oct 2026 11:48:13 +0200Mon, 05 Oct 2026 11:48:13 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/10/04/barca-regresa-lunes-trabajo-mini-vacaciones.htmlhttps://www.marca.com/futbol/barcelona/2026/10/04/barca-regresa-lunes-trabajo-mini-vacaciones.html",
+          "summary": "Los jugadores no internacionales disfrutaron de nueve días de descansoLos jugadores no internacionales disfrutaron de nueve días de descanso",
+          "published": "Sun, 04 Oct 2026 17:46:34 +0200Sun, 04 Oct 2026 17:46:34 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/10/04/barca-domina-europa-ritmo-gol.htmlhttps://www.marca.com/futbol/barcelona/2026/10/04/barca-domina-europa-ritmo-gol.html",
+          "summary": "Los culés, el equipo con mejor porcentaje realizador de las grandes ligasLos culés, el equipo con mejor porcentaje realizador de las grandes ligas",
+          "published": "Sun, 04 Oct 2026 16:48:34 +0200Sun, 04 Oct 2026 16:48:34 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "FC BARCELONAFC BARCELONA",
+      "summary": "El portero está a la espera de que el club le comunique cómo queda su situaciónEl portero está a la espera de que el club le comunique cómo queda su situación",
+      "source_count": 1,
+      "languages": [
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "MARCA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/barcelona-ter-stegen-maxima-tension.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/barcelona-ter-stegen-maxima-tension.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "FC BARCELONAFC BARCELONA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/barcelona-ter-stegen-maxima-tension.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/barcelona-ter-stegen-maxima-tension.html",
+          "summary": "El portero está a la espera de que el club le comunique cómo queda su situaciónEl portero está a la espera de que el club le comunique cómo queda su situación",
+          "published": "Mon, 09 Jun 2025 20:07:06 +0200Mon, 09 Jun 2025 20:07:06 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "FC BARCELONAFC BARCELONA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/lewandowski-me-dijeron-me-quitaban-brazalete-acostando-mis-hijos.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/lewandowski-me-dijeron-me-quitaban-brazalete-acostando-mis-hijos.html",
+          "summary": "El delantero afirma que&nbsp; Michal Probierz \"ha traicionado mi confianza\"El delantero afirma que&nbsp; Michal Probierz \"ha traicionado mi confianza\"",
+          "published": "Mon, 09 Jun 2025 18:51:43 +0200Mon, 09 Jun 2025 18:51:43 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "FC BARCELONAFC BARCELONA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/laporta-tira-diplomacia-evitar-sancion-uefa.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/laporta-tira-diplomacia-evitar-sancion-uefa.html",
+          "summary": "Se reunió con Ceferin para intentar mitigar el castigo por irregularidades financierasSe reunió con Ceferin para intentar mitigar el castigo por irregularidades financieras",
+          "published": "Mon, 09 Jun 2025 12:34:03 +0200Mon, 09 Jun 2025 12:34:03 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "FC BARCELONAFC BARCELONA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/lenglet-deja-barca.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/lenglet-deja-barca.html",
+          "summary": "Principio de acuerdo para la rescisión del contrato del futbolistaPrincipio de acuerdo para la rescisión del contrato del futbolista",
+          "published": "Mon, 09 Jun 2025 13:47:01 +0200Mon, 09 Jun 2025 13:47:01 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "ESPN FC 15h @ESPNFC A BRACE FOR FERMÍN! TWO FIRST TIME STRIKES 🔥 When Barca needs him most, Fermín López comes through! View on X",
+      "summary": "ESPN FC 15h @ESPNFC A BRACE FOR FERMÍN! TWO FIRST TIME STRIKES 🔥 When Barca needs him most, Fermín López comes through! View on X",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://twitter.com/ESPNFC/status/2119543402605744322",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "ESPN FC 15h @ESPNFC A BRACE FOR FERMÍN! TWO FIRST TIME STRIKES 🔥 When Barca needs him most, Fermín López comes through! View on X",
+          "url": "https://twitter.com/ESPNFC/status/2119543402605744322",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "ESPN FC 16h @ESPNFC FERMÍN LÓPEZ WITH A FIRST-TIME FINISH! 🤯 BARCA HAS SILENCED THE METROPOLITANO! View on X",
+          "url": "https://twitter.com/ESPNFC/status/2119533690367705500",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 2h FC Barcelona News: 9 November 2026 A round-up of the latest Barcelona news and rumors",
+      "summary": "www.barcablaugranes.com • 2h FC Barcelona News: 9 November 2026 A round-up of the latest Barcelona news and rumors",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/barcelona-news/137475/fc-barcelona-news-9-november-2026-fermin-lopez-leads-second-half-comeback-as-barca-beat-atletico-madrid?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 2h FC Barcelona News: 9 November 2026 A round-up of the latest Barcelona news and rumors",
+          "url": "https://www.barcablaugranes.com/barcelona-news/137475/fc-barcelona-news-9-november-2026-fermin-lopez-leads-second-half-comeback-as-barca-beat-atletico-madrid?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 1d FC Barcelona News: 8 November 2026 A round-up of the latest Barcelona news and rumors",
+          "url": "https://www.barcablaugranes.com/barcelona-news/137365/fc-barcelona-news-8-november-2026-all-set-monster-la-liga-clash-atletico-madrid?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Farinas, Gordon start in a 4-2-3-1: How Barcelona can line up against Aston Villa",
+      "summary": "Farinas, Gordon start in a 4-2-3-1: How Barcelona can line up against Aston Villa",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Barça Universal",
+          "url": "https://barcauniversal.com/farinas-gordon-start-in-a-4-2-3-1-how-barcelona-can-line-up-against-aston-villa/",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 20,
+          "source": "Barça Universal",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Farinas, Gordon start in a 4-2-3-1: How Barcelona can line up against Aston Villa",
+          "url": "https://barcauniversal.com/farinas-gordon-start-in-a-4-2-3-1-how-barcelona-can-line-up-against-aston-villa/",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 20,
+          "source": "Barça Universal",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "De Jong, Adeyemi start in a 4-2-3-1: How Barcelona can line up against Alaves",
+          "url": "https://barcauniversal.com/de-jong-adeyemi-start-in-a-4-2-3-1-how-barcelona-can-line-up-against-alaves/",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "FC Barcelona News: 9 November 2026; Fermín López leads second half comeback as Barça beat Atlético MadridFC Barcelona News: 9 November 2026; Fermín López leads second half comeback as Barça beat Atlético Madrid",
+      "summary": "Atlético Madrid 1-2 FC Barcelona: Comeback to stay top – FC BarcelonaFermin brace turns a potential two-point deficit into a five-point advantage over one of the biggest contenders in the Liga title race. HIGHLIGHTS | LA LIGA | Atlético Madrid v FC Barcelona – FC BarcelonaAll the action from the La Liga clash in the […]Atlético Madrid 1-2 FC Barcelona: Comeback to stay top – FC BarcelonaFermin bra",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-news/137475/fc-barcelona-news-9-november-2026-fermin-lopez-leads-second-half-comeback-as-barca-beat-atletico-madrid",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "FC Barcelona News: 9 November 2026; Fermín López leads second half comeback as Barça beat Atlético MadridFC Barcelona News: 9 November 2026; Fermín López leads second half comeback as Barça beat Atlético Madrid",
+          "url": "https://www.barcablaugranes.com/barcelona-news/137475/fc-barcelona-news-9-november-2026-fermin-lopez-leads-second-half-comeback-as-barca-beat-atletico-madrid",
+          "summary": "Atlético Madrid 1-2 FC Barcelona: Comeback to stay top – FC BarcelonaFermin brace turns a potential two-point deficit into a five-point advantage over one of the biggest contenders in the Liga title race. HIGHLIGHTS | LA LIGA | Atlético Madrid v FC Barcelona – FC BarcelonaAll the action from the La Liga clash in the […]Atlético Madrid 1-2 FC Barcelona: Comeback to stay top – FC BarcelonaFermin bra",
+          "published": "2026-11-09T05:00:00-05:002026-11-09T05:00:00-05:00"
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Atlético Madrid 1-2 Barcelona: Fermín López shines as La Liga leaders complete comebackAtlético Madrid 1-2 Barcelona: Fermín López shines as La Liga leaders complete comeback",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/137416/atletico-madrid-barcelona-la-liga-final-score-match-report-recap-reactions",
+          "summary": "Barcelona will head into the final international break of 2026 with a three-point lead at the top of the La Liga table thanks to a hard-fought 2-1 comeback victory away to Atlético Madrid at the Metropolitano on Sunday night. After a very poor first half the Blaugrana came to life in the final period thanks […]Barcelona will head into the final international break of 2026 with a three-point lead a",
+          "published": "2026-11-08T17:02:35-05:002026-11-08T17:02:35-05:00"
+        }
+      ]
+    },
+    {
+      "headline": "Fermín nos marca el camino Fermín nos marca el camino",
+      "summary": "Fermín nos marca el camino Fermín nos marca el camino",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "La Vanguardia",
+          "url": "https://www.lavanguardia.com/deportes/20261109/11679408/fermin-marca-camino.htmlhttps://www.lavanguardia.com/deportes/20261109/11679408/fermin-marca-camino.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "Fermín nos marca el camino Fermín nos marca el camino",
+          "url": "https://www.lavanguardia.com/deportes/20261109/11679408/fermin-marca-camino.htmlhttps://www.lavanguardia.com/deportes/20261109/11679408/fermin-marca-camino.html",
+          "summary": "",
+          "published": "09 Nov 2026 00:05:00 +010009 Nov 2026 00:05:00 +0100"
+        },
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "Fermín: “Con el gol nos hemos liberado” Fermín: “Con el gol nos hemos liberado”",
+          "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20261108/11679391/fermin-barca-gol-liberado.htmlhttps://www.lavanguardia.com/deportes/fc-barcelona/20261108/11679391/fermin-barca-gol-liberado.html",
+          "summary": "El centrocampista del Barça fue clave en el triunfo de los blaugrana El centrocampista del Barça fue clave en el triunfo de los blaugrana",
+          "published": "08 Nov 2026 23:12:37 +010008 Nov 2026 23:12:37 +0100"
+        }
+      ]
+    },
+    {
+      "headline": "Atlético de Madrid 1-2 Barcelona | Resultado, declaraciones y la última hora del partido en el Metropolitano de LaLiga EA Sports Atlético de Madrid 1-2 Barcelona | Resultado, declaraciones y la última hora del partido en el Metropolitano de LaLiga EA Sports",
+      "summary": "Revive el directo del Atlético de Madrid 1-2 Barcelona, correspondiente a la 12ª jornada de La Liga Revive el directo del Atlético de Madrid 1-2 Barcelona, correspondiente a la 12ª jornada de La Liga",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "La Vanguardia",
+          "url": "https://www.lavanguardia.com/deportes/futbol/20261108/11679150/atletico-de-madrid-barcelona-laliga-ea-sports-partido-futbol-hoy-en-directo.htmlhttps://www.lavanguardia.com/deportes/futbol/20261108/11679150/atletico-de-madrid-barcelona-laliga-ea-sports-partido-futbol-hoy-en-directo.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "Atlético de Madrid 1-2 Barcelona | Resultado, declaraciones y la última hora del partido en el Metropolitano de LaLiga EA Sports Atlético de Madrid 1-2 Barcelona | Resultado, declaraciones y la última hora del partido en el Metropolitano de LaLiga EA Sports",
+          "url": "https://www.lavanguardia.com/deportes/futbol/20261108/11679150/atletico-de-madrid-barcelona-laliga-ea-sports-partido-futbol-hoy-en-directo.htmlhttps://www.lavanguardia.com/deportes/futbol/20261108/11679150/atletico-de-madrid-barcelona-laliga-ea-sports-partido-futbol-hoy-en-directo.html",
+          "summary": "Revive el directo del Atlético de Madrid 1-2 Barcelona, correspondiente a la 12ª jornada de La Liga Revive el directo del Atlético de Madrid 1-2 Barcelona, correspondiente a la 12ª jornada de La Liga",
+          "published": "08 Nov 2026 19:29:50 +010008 Nov 2026 19:29:50 +0100"
+        },
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "Atlético de Madrid – FC Barcelona el partido de fútbol de Jornada 12 de LaLiga EA Sports, en directo Atlético de Madrid – FC Barcelona el partido de fútbol de Jornada 12 de LaLiga EA Sports, en directo",
+          "url": "https://www.lavanguardia.com/deportes/futbol/20261107/24643/atletico-de-madrid-fc-barcelona-laliga-primera-division-ca-en-directo-ctx.htmlhttps://www.lavanguardia.com/deportes/futbol/20261107/24643/atletico-de-madrid-fc-barcelona-laliga-primera-division-ca-en-directo-ctx.html",
+          "summary": "Sigue en directo el partido de fútbol de LaLiga EA Sports entre Atlético de Madrid y FC Barcelona Sigue en directo el partido de fútbol de LaLiga EA Sports entre Atlético de Madrid y FC Barcelona",
+          "published": "07 Nov 2026 23:30:00 +010007 Nov 2026 23:30:00 +0100"
+        }
+      ]
+    },
+    {
+      "headline": "Barcelona 2-0 Athletic Club: el proyecto de Hansi Flick firma un triunfo contundente en el Camp Nou",
+      "summary": "Barcelona 2-0 Athletic Club: el proyecto de Hansi Flick firma un triunfo contundente en el Camp Nou",
+      "source_count": 1,
+      "languages": [
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona Noticias",
+          "url": "https://www.fcbarcelonanoticias.com/barcelona-2-0-athletic-club-el-proyecto-de-hansi-flick-firma-un-triunfo-contundente-en-el-camp-nou/",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 40,
+          "source": "FC Barcelona Noticias",
+          "tier": "specialist",
+          "lang": [
+            "es",
+            "en"
+          ],
+          "title": "Barcelona 2-0 Athletic Club: el proyecto de Hansi Flick firma un triunfo contundente en el Camp Nou",
+          "url": "https://www.fcbarcelonanoticias.com/barcelona-2-0-athletic-club-el-proyecto-de-hansi-flick-firma-un-triunfo-contundente-en-el-camp-nou/",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 40,
+          "source": "FC Barcelona Noticias",
+          "tier": "specialist",
+          "lang": [
+            "es",
+            "en"
+          ],
+          "title": "FC Barcelona – Athletic Club: Todo listo en el Camp Nou para un choque de altura",
+          "url": "https://www.fcbarcelonanoticias.com/fc-barcelona-athletic-club-todo-listo-en-el-camp-nou-para-un-choque-de-altura/",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "ticket-vip BARÇA BUSINESS External link",
+      "summary": "ticket-vip BARÇA BUSINESS External link",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://www.fcbarcelona.com/en/tickets/hospitality?int=WB_26-27_K0-272&btm_source=WebBarca&btm_medium=SliderMenu&btm_campaign=barcabusiness_EN_TKT_B2B_WW",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "ticket-vip BARÇA BUSINESS External link",
+          "url": "https://www.fcbarcelona.com/en/tickets/hospitality?int=WB_26-27_K0-272&btm_source=WebBarca&btm_medium=SliderMenu&btm_campaign=barcabusiness_EN_TKT_B2B_WW",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Academy The flagship Barça school. Teaching Barça values to boys and girls",
+      "summary": "Barça Academy The flagship Barça school. Teaching Barça values to boys and girls",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://barcaacademy.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=BarcaAcademy_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Academy The flagship Barça school. Teaching Barça values to boys and girls",
+          "url": "https://barcaacademy.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=BarcaAcademy_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Foundation The Official site of the Barça Foundation.",
+      "summary": "Barça Foundation The Official site of the Barça Foundation.",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://foundation.fcbarcelona.com/home?ext=OCM_880&utm_source=WebBarca&utm_medium=BarcaSites&utm_campaign=Fundacio_ORG_DIG_WEB_TXT_WW_EN&utm_term=BarcaSitesFundacio",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Foundation The Official site of the Barça Foundation.",
+          "url": "https://foundation.fcbarcelona.com/home?ext=OCM_880&utm_source=WebBarca&utm_medium=BarcaSites&utm_campaign=Fundacio_ORG_DIG_WEB_TXT_WW_EN&utm_term=BarcaSitesFundacio",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Innovation Hub The center for sports knowledge and innovation.",
+      "summary": "Barça Innovation Hub The center for sports knowledge and innovation.",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://barcainnovationhub.fcbarcelona.com/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Bihub_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Innovation Hub The center for sports knowledge and innovation.",
+          "url": "https://barcainnovationhub.fcbarcelona.com/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Bihub_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Mobile The virtual mobile network operator of FC Barcelona",
+      "summary": "Barça Mobile The virtual mobile network operator of FC Barcelona",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://barcamobile.com/en",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Mobile The virtual mobile network operator of FC Barcelona",
+          "url": "https://barcamobile.com/en",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Espai Barça The largest and most innovative sports and entertainment space",
+      "summary": "Espai Barça The largest and most innovative sports and entertainment space",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://espaibarca.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=EspaiBarca_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Espai Barça The largest and most innovative sports and entertainment space",
+          "url": "https://espaibarca.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=EspaiBarca_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Memorial FC Barcelona FC Barcelona Memorial Official Website",
+      "summary": "Memorial FC Barcelona FC Barcelona Memorial Official Website",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://memorialfcbarcelona.com/en",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Memorial FC Barcelona FC Barcelona Memorial Official Website",
+          "url": "https://memorialfcbarcelona.com/en",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Vision Barça Vision is an innovative platform that uses emerging technologies like Web3 and Artificial intelligence to revolutionise the fan experience.",
+      "summary": "Barça Vision Barça Vision is an innovative platform that uses emerging technologies like Web3 and Artificial intelligence to revolutionise the fan experience.",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://barcavision.fcbarcelona.com/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Barca-Vision_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Vision Barça Vision is an innovative platform that uses emerging technologies like Web3 and Artificial intelligence to revolutionise the fan experience.",
+          "url": "https://barcavision.fcbarcelona.com/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Barca-Vision_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Official Store Camp Nou Shop now at Barça's Official Store Camp Nou",
+      "summary": "Barça Official Store Camp Nou Shop now at Barça's Official Store Camp Nou",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://store.fcbarcelona.com/en/?ext=OCM_2913&utm_source=WebBarca&utm_medium=BarcaSites&utm_campaign=BLM_ORG_BLM_HOME_OCM_webBarca_TXT_WW_EN&utm_content=&utm_term=BarcaSitesBLM",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Official Store Camp Nou Shop now at Barça's Official Store Camp Nou",
+          "url": "https://store.fcbarcelona.com/en/?ext=OCM_2913&utm_source=WebBarca&utm_medium=BarcaSites&utm_campaign=BLM_ORG_BLM_HOME_OCM_webBarca_TXT_WW_EN&utm_content=&utm_term=BarcaSitesBLM",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Penyes All the official information of the FC Barcelona Supporters' Clubs",
+      "summary": "Barça Penyes All the official information of the FC Barcelona Supporters' Clubs",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://penyes.fcbarcelona.com/en/",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Penyes All the official information of the FC Barcelona Supporters' Clubs",
+          "url": "https://penyes.fcbarcelona.com/en/",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Agrupació Jugadors The organisation that unites ex-players from all FC Barcelona football teams.",
+      "summary": "Agrupació Jugadors The organisation that unites ex-players from all FC Barcelona football teams.",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://agrupaciojugadors.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=ABJ_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Agrupació Jugadors The organisation that unites ex-players from all FC Barcelona football teams.",
+          "url": "https://agrupaciojugadors.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=ABJ_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Players Find all the players that have played for Barça!",
+      "summary": "Barça Players Find all the players that have played for Barça!",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://players.fcbarcelona.com/en?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Players_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Players Find all the players that have played for Barça!",
+          "url": "https://players.fcbarcelona.com/en?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Players_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Rookies Barça's most special fans!",
+      "summary": "Barça Rookies Barça's most special fans!",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://www.fcbrookies.cat/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Rookies_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Rookies Barça's most special fans!",
+          "url": "https://www.fcbrookies.cat/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Rookies_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "FC Barcelona club badge All you need to know about Atético Madrid v Barça Stats and more from the La Liga clash at the Metropolitano First Team Published date 16 hrs ago",
+      "summary": "FC Barcelona club badge All you need to know about Atético Madrid v Barça Stats and more from the La Liga clash at the Metropolitano First Team Published date 16 hrs ago",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://www.fcbarcelona.com/en/matches/141501/fc-barcelona-aston-villa-uefa-champions-league-2026-2027",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "FC Barcelona club badge All you need to know about Atético Madrid v Barça Stats and more from the La Liga clash at the Metropolitano First Team Published date 16 hrs ago",
+          "url": "https://www.fcbarcelona.com/en/matches/141501/fc-barcelona-aston-villa-uefa-champions-league-2026-2027",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "FC Barcelona club badge LIVE | Raphinha renews contract Brazilian extends his ties to FC Barcelona until 30 June 2030 First Team Published date 05 Nov 26",
+      "summary": "FC Barcelona club badge LIVE | Raphinha renews contract Brazilian extends his ties to FC Barcelona until 30 June 2030 First Team Published date 05 Nov 26",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://www.youtube.com/watch?v=88o3mnwwV3I",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "FC Barcelona club badge LIVE | Raphinha renews contract Brazilian extends his ties to FC Barcelona until 30 June 2030 First Team Published date 05 Nov 26",
+          "url": "https://www.youtube.com/watch?v=88o3mnwwV3I",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barcelona fight back to beat Atleti as Fermin scores twiceBarcelona fight back to beat Atleti as Fermin scores twice",
+      "summary": "Fermin Lopez scores twice as Barcelona come from behind to claim a gritty win over Atletico Madrid and maintain their advantage at the top of La Liga.Fermin Lopez scores twice as Barcelona come from behind to claim a gritty win over Atletico Madrid and maintain their advantage at the top of La Liga.",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cx1l30319580o?at_medium=RSS&at_campaign=rsshttps://www.bbc.co.uk/sport/football/videos/cx1l30319580o?at_medium=RSS&at_campaign=rss",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 6,
+          "source": "BBC Sport",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona fight back to beat Atleti as Fermin scores twiceBarcelona fight back to beat Atleti as Fermin scores twice",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cx1l30319580o?at_medium=RSS&at_campaign=rsshttps://www.bbc.co.uk/sport/football/videos/cx1l30319580o?at_medium=RSS&at_campaign=rss",
+          "summary": "Fermin Lopez scores twice as Barcelona come from behind to claim a gritty win over Atletico Madrid and maintain their advantage at the top of La Liga.Fermin Lopez scores twice as Barcelona come from behind to claim a gritty win over Atletico Madrid and maintain their advantage at the top of La Liga.",
+          "published": "Sun, 08 Nov 2026 23:41:30 GMTSun, 08 Nov 2026 23:41:30 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Last season difficult with injury and miscarriage - MunizLast season difficult with injury and miscarriage - Muniz",
+      "summary": "Fulham striker Rodrigo Muniz, who scored for his side in a 1-1 draw against Newcastle United, speaks of the struggles he endured last season.Fulham striker Rodrigo Muniz, who scored for his side in a 1-1 draw against Newcastle United, speaks of the struggles he endured last season.",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmq8nl4w3e8eo?at_medium=RSS&at_campaign=rsshttps://www.bbc.co.uk/sport/football/articles/cmq8nl4w3e8eo?at_medium=RSS&at_campaign=rss",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 6,
+          "source": "BBC Sport",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Last season difficult with injury and miscarriage - MunizLast season difficult with injury and miscarriage - Muniz",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmq8nl4w3e8eo?at_medium=RSS&at_campaign=rsshttps://www.bbc.co.uk/sport/football/articles/cmq8nl4w3e8eo?at_medium=RSS&at_campaign=rss",
+          "summary": "Fulham striker Rodrigo Muniz, who scored for his side in a 1-1 draw against Newcastle United, speaks of the struggles he endured last season.Fulham striker Rodrigo Muniz, who scored for his side in a 1-1 draw against Newcastle United, speaks of the struggles he endured last season.",
+          "published": "Sun, 08 Nov 2026 11:56:01 GMTSun, 08 Nov 2026 11:56:01 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Muniz rescues late point for Fulham against Newcastle after Murphy stunnerMuniz rescues late point for Fulham against Newcastle after Murphy stunner",
+      "summary": "Questions over whether Álvaro Arbeloa and Matthias Jaissle have what it takes to succeed in the Premier League remain unanswered after these two young foreign managers watched their sides grind out a 1-1 draw at Craven Cottage. Arbeloa’s Fulham lacked fizz, physicality and personality before rescuing a point thanks to a late equaliser from Rodrigo Muniz, while Newcastle displayed little of Jaissle",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/nov/07/fulham-newcastle-premier-league-match-reporthttps://www.theguardian.com/football/2026/nov/07/fulham-newcastle-premier-league-match-report",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Muniz rescues late point for Fulham against Newcastle after Murphy stunnerMuniz rescues late point for Fulham against Newcastle after Murphy stunner",
+          "url": "https://www.theguardian.com/football/2026/nov/07/fulham-newcastle-premier-league-match-reporthttps://www.theguardian.com/football/2026/nov/07/fulham-newcastle-premier-league-match-report",
+          "summary": "Questions over whether Álvaro Arbeloa and Matthias Jaissle have what it takes to succeed in the Premier League remain unanswered after these two young foreign managers watched their sides grind out a 1-1 draw at Craven Cottage. Arbeloa’s Fulham lacked fizz, physicality and personality before rescuing a point thanks to a late equaliser from Rodrigo Muniz, while Newcastle displayed little of Jaissle",
+          "published": "Sat, 07 Nov 2026 17:00:54 GMTSat, 07 Nov 2026 17:00:54 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Barcelona move clear at the top after Fermín López’s double stuns Atlético MadridBarcelona move clear at the top after Fermín López’s double stuns Atlético Madrid",
+      "summary": "They had been in a battle, they had been behind and they had been on edge, but Barcelona found a way through, holding on to their place at the top of the table and holding the doubts at bay for another day. A fortnight in which they were defeated by Paris Saint-Germain and Real Madrid , in which they might have wondered if something was not right, ended with a 2-1 win at Atlético Madrid. This was ",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/nov/08/atletico-madrid-barcelona-la-liga-match-reporthttps://www.theguardian.com/football/2026/nov/08/atletico-madrid-barcelona-la-liga-match-report",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona move clear at the top after Fermín López’s double stuns Atlético MadridBarcelona move clear at the top after Fermín López’s double stuns Atlético Madrid",
+          "url": "https://www.theguardian.com/football/2026/nov/08/atletico-madrid-barcelona-la-liga-match-reporthttps://www.theguardian.com/football/2026/nov/08/atletico-madrid-barcelona-la-liga-match-report",
+          "summary": "They had been in a battle, they had been behind and they had been on edge, but Barcelona found a way through, holding on to their place at the top of the table and holding the doubts at bay for another day. A fortnight in which they were defeated by Paris Saint-Germain and Real Madrid , in which they might have wondered if something was not right, ended with a 2-1 win at Atlético Madrid. This was ",
+          "published": "Sun, 08 Nov 2026 22:27:50 GMTSun, 08 Nov 2026 22:27:50 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Mourinho’s plan comes together as Real Madrid relaunch with clásico statement | Sid LoweMourinho’s plan comes together as Real Madrid relaunch with clásico statement | Sid Lowe",
+      "summary": "It was just like old times as José Mourinho ended a night at Camp Nou with a knee slide and three points José Mourinho had already done the por qu é? , the printout and the press conference no-show in under 100 days. Now he’s done a knee slide too, and in the perfect place: back where it all began and where it can all begin again. When Kylian Mbappé scored the first in the clásico on Sunday night,",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/oct/26/mourinhos-plan-comes-together-as-real-madrid-relaunch-with-clasico-statementhttps://www.theguardian.com/football/2026/oct/26/mourinhos-plan-comes-together-as-real-madrid-relaunch-with-clasico-statement",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Mourinho’s plan comes together as Real Madrid relaunch with clásico statement | Sid LoweMourinho’s plan comes together as Real Madrid relaunch with clásico statement | Sid Lowe",
+          "url": "https://www.theguardian.com/football/2026/oct/26/mourinhos-plan-comes-together-as-real-madrid-relaunch-with-clasico-statementhttps://www.theguardian.com/football/2026/oct/26/mourinhos-plan-comes-together-as-real-madrid-relaunch-with-clasico-statement",
+          "summary": "It was just like old times as José Mourinho ended a night at Camp Nou with a knee slide and three points José Mourinho had already done the por qu é? , the printout and the press conference no-show in under 100 days. Now he’s done a knee slide too, and in the perfect place: back where it all began and where it can all begin again. When Kylian Mbappé scored the first in the clásico on Sunday night,",
+          "published": "Mon, 26 Oct 2026 16:35:26 GMTMon, 26 Oct 2026 16:35:26 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "‘An absolute afterthought’: the story of the Nigeria women’s team’s fall from grace‘An absolute afterthought’: the story of the Nigeria women’s team’s fall from grace",
+      "summary": "The Super Falcons won’t be at the World Cup and with the prize money going up, they risk being left even further behind It was a historic result in Casablanca – but not in a good way. Nigeria’s 2-1 defeat against South Africa in a playoff in August meant that the Super Falcons are missing out on the World Cup for the first time. It is a crushing blow for the most decorated national side in Africa ",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/nov/03/womens-world-cup-2027-missing-out-nigeria-moving-the-goalpostshttps://www.theguardian.com/football/2026/nov/03/womens-world-cup-2027-missing-out-nigeria-moving-the-goalposts",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "‘An absolute afterthought’: the story of the Nigeria women’s team’s fall from grace‘An absolute afterthought’: the story of the Nigeria women’s team’s fall from grace",
+          "url": "https://www.theguardian.com/football/2026/nov/03/womens-world-cup-2027-missing-out-nigeria-moving-the-goalpostshttps://www.theguardian.com/football/2026/nov/03/womens-world-cup-2027-missing-out-nigeria-moving-the-goalposts",
+          "summary": "The Super Falcons won’t be at the World Cup and with the prize money going up, they risk being left even further behind It was a historic result in Casablanca – but not in a good way. Nigeria’s 2-1 defeat against South Africa in a playoff in August meant that the Super Falcons are missing out on the World Cup for the first time. It is a crushing blow for the most decorated national side in Africa ",
+          "published": "Tue, 03 Nov 2026 11:33:56 GMTTue, 03 Nov 2026 11:33:56 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Meet Clara Serrajordi: Barcelona’s midfield hope filling the void left by Alexia Putellas | Moving the GoalpostsMeet Clara Serrajordi: Barcelona’s midfield hope filling the void left by Alexia Putellas | Moving the Goalposts",
+      "summary": "The 18-year-old on being thrown in at the deep end with the first team, playing with her idols and replacing a legend The next move on the chess board could not have been clearer for Barcelona and their coach, Pere Romeu: a new queen has broken into the Blaugrana midfield. Clara Serrajordi has made substantial moves already: she made her first-team debut at the age of 17, started ahead of Aitana B",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/nov/05/clara-serrajordi-barcelona-midfielder-alexia-putellas-moving-the-goalpostshttps://www.theguardian.com/football/2026/nov/05/clara-serrajordi-barcelona-midfielder-alexia-putellas-moving-the-goalposts",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Meet Clara Serrajordi: Barcelona’s midfield hope filling the void left by Alexia Putellas | Moving the GoalpostsMeet Clara Serrajordi: Barcelona’s midfield hope filling the void left by Alexia Putellas | Moving the Goalposts",
+          "url": "https://www.theguardian.com/football/2026/nov/05/clara-serrajordi-barcelona-midfielder-alexia-putellas-moving-the-goalpostshttps://www.theguardian.com/football/2026/nov/05/clara-serrajordi-barcelona-midfielder-alexia-putellas-moving-the-goalposts",
+          "summary": "The 18-year-old on being thrown in at the deep end with the first team, playing with her idols and replacing a legend The next move on the chess board could not have been clearer for Barcelona and their coach, Pere Romeu: a new queen has broken into the Blaugrana midfield. Clara Serrajordi has made substantial moves already: she made her first-team debut at the age of 17, started ahead of Aitana B",
+          "published": "Thu, 05 Nov 2026 11:52:22 GMTThu, 05 Nov 2026 11:52:22 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "The 100 best male footballers in the world 2025The 100 best male footballers in the world 2025",
+      "summary": "Ousmane Dembélé becomes our seventh winner as he beats Lamine Yamal into second and Vitinha into third on our list of the best players on the planet Premier League dominates list | How every judge voted | Our methodology | The top 100 female players for 2025 2024 edition | 2023 | 2022 | 2021 | 2020 | 2019 | 2018 | 2017 | 2016 | 2015 | 2014 | 2013 | 2012 Continue reading... Ousmane Dembélé becomes ",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/ng-interactive/2025/dec/16/the-100-best-male-footballers-in-the-world-2025https://www.theguardian.com/football/ng-interactive/2025/dec/16/the-100-best-male-footballers-in-the-world-2025",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "The 100 best male footballers in the world 2025The 100 best male footballers in the world 2025",
+          "url": "https://www.theguardian.com/football/ng-interactive/2025/dec/16/the-100-best-male-footballers-in-the-world-2025https://www.theguardian.com/football/ng-interactive/2025/dec/16/the-100-best-male-footballers-in-the-world-2025",
+          "summary": "Ousmane Dembélé becomes our seventh winner as he beats Lamine Yamal into second and Vitinha into third on our list of the best players on the planet Premier League dominates list | How every judge voted | Our methodology | The top 100 female players for 2025 2024 edition | 2023 | 2022 | 2021 | 2020 | 2019 | 2018 | 2017 | 2016 | 2015 | 2014 | 2013 | 2012 Continue reading... Ousmane Dembélé becomes ",
+          "published": "Fri, 19 Dec 2025 10:04:51 GMTFri, 19 Dec 2025 10:04:51 GMT"
+        }
+      ]
+    }
+  ]
+}
