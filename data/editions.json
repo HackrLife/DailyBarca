@@ -1,6 +1,14 @@
 {
   "editions": [
     {
+      "number": 306,
+      "date": "2026-11-10",
+      "label": "10 November 2026",
+      "file": "2026-11-10.json",
+      "lead": "Cubarsí wins Golden Boy; Yamal misses Spain vs Czechia with knee discomfort",
+      "tweets": 8
+    },
+    {
       "number": 305,
       "date": "2026-11-09",
       "label": "9 November 2026",
