@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-12",
+  "number": 307,
+  "label": "12 November 2026",
+  "title": "Yamal joins Spain Friday; Ter Stegen opens door to return",
+  "deck": "Lamine Yamal will travel to Las Rozas on Friday after knee work in Barcelona. Marc-André ter Stegen says he has not spoken to Hansi Flick and leaves the door open for a return after his Ajax loan. Dani Olmo is expected for Villarreal on 22 November.",
+  "stories": [
+    {
+      "kicker": "Spain",
+      "headline": "De la Fuente expects Yamal for England after knee work",
+      "summary": "Luis de la Fuente said Lamine Yamal has inflammation in his right knee and stayed in Barcelona by agreement. The Spain coach expects the forward to join the squad on Friday and to be available for the Nations League match against England at the Metropolitano on Sunday.",
+      "body": "De la Fuente told reporters that the medical staff examined Yamal after the Metropolitano match and decided against the trip to Prague. The same approach was taken with Mikel Oyarzabal. Yamal has followed a specific programme at the Ciutat Esportiva this week. The RFEF has said the evolution is good and that the England game remains the target. Last year the federation complained that Barcelona treated Yamal without informing it. De la Fuente rejected suggestions of special treatment, saying the decision would have been the same for any other player. Spain face Czechia in Prague on Thursday without him and have already qualified for the quarter-finals.",
+      "sources": [
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261110/1004249478/mimos-lamine-kounde-sigue-margen-ultimo-entreno-semana.html"},
+        {"label": "AS", "url": "https://en.as.com/soccer/lamine-yamal-ruled-out-of-spains-game-against-czechia-is-the-barcelona-star-injured-f202611-n/"}
+      ],
+      "tweets": [
+        {"id": "2120576315145195717", "handle": "sport", "name": "Diario SPORT", "text": "Luis de la Fuente, contundente, sobre la ausencia de Lamine Yamal"},
+        {"id": "2119744968780837298", "handle": "samuelmarsden", "name": "Samuel Marsden", "text": "Lamine delays meet up with Spain due to some knee pain. Won’t face Czechia on Thursday but will join up with squad ahead of England match next weekend"}
+      ]
+    },
+    {
+      "kicker": "Goalkeeping",
+      "headline": "Ter Stegen says no recent contact with Flick, leaves return open",
+      "summary": "Marc-André ter Stegen told Sport Bild he has not spoken to Hansi Flick recently. The Germany goalkeeper, on loan at Ajax until the end of the season, said he still follows Barcelona closely and has a close connection with the club after 12 years.",
+      "body": "Ter Stegen spoke from the Germany camp ahead of Friday’s Nations League game against Serbia. He said some former teammates still contact him, but he has had no recent conversation with Flick. On his future he was clear: he played 12 years at Barcelona and the relationship is strong, but it is only November and he cannot say what will happen next summer. Barcelona currently have Joan García, Wojciech Szczęsny and Dominik Livaković. Szczesny’s contract ends in June. Jordi Cruyff later defended Ter Stegen, saying he can play where he wants. The German is expected to start for Germany in the coming games.",
+      "sources": [
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261111/1004249904/ter-stegen-habla-relacion-flick-futuro-barca.html"},
+        {"label": "SPORT", "url": "https://www.sport.es/es/noticias/barca/ter-stegen-rompe-silencio-sin-contacto-136311000"}
+      ],
+      "tweets": [
+        {"id": "2120519866885276142", "handle": "mundodeportivo", "name": "Mundo Deportivo", "text": "Ter Stegen habla de su relación con Flick y su futuro en el Barça"},
+        {"id": "2120469082139172899", "handle": "sport", "name": "Diario SPORT", "text": "Ter Stegen rompe su silencio: sin contacto con Flick y abre la puerta a volver al Barça"}
+      ]
+    },
+    {
+      "kicker": "Squad",
+      "headline": "Olmo expected for Villarreal after adductor recovery",
+      "summary": "Dani Olmo is progressing well after the left adductor injury that forced him off against Paris Saint-Germain on 20 October. Mundo Deportivo reported that the staff believe he will be available for Villarreal at home on 22 November.",
+      "body": "Olmo has missed the Clásico, Aston Villa and Atlético matches. The 28-year-old has done specific work during the break and the medical staff are positive. If there had been a midweek fixture before Villarreal he could already have been in contention. Koundé, who has trained separately, is also expected to be ready for the same game. Rodri, Espart and Bardghji remain further behind. Villarreal visit Spotify Camp Nou on Sunday 22 November at 14:00. The next Champions League match is against Sabah on 25 November.",
+      "sources": [
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261110/1004249228/dani-olmo-podra-villarreal.html"}
+      ],
+      "tweets": []
+    },
+    {
+      "kicker": "Brazil",
+      "headline": "Raphinha had ear surgery after Clásico; Barça preferred the break",
+      "summary": "Raphinha underwent surgery on his left ear on 26 October, the day after the Clásico. SPORT reported, citing Globo Esporte, that the club would have preferred the procedure during the international break so he did not miss training.",
+      "body": "The injury began in early October when a blow to the head caused a wound and inflammation in the left ear. Medication was limited during competition, so the options were repeated drainage or surgery. Raphinha chose to operate immediately after the Madrid match so he would be available for Brazil. He has since played with head protection and scored twice against Alavés and twice against Aston Villa. Ancelotti has named him captain for the friendlies. Barcelona have contacted the Brazilian federation about managing his minutes on the long trip to Asia. He is expected back in Barcelona next week.",
+      "sources": [
+        {"label": "SPORT", "url": "https://www.sport.es/es/noticias/barca/operacion-raphinha-incomodo-barca-136312150"},
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261111/1004249852/raphinha-sube-estatus-brasil-lucira-brazalete.html"}
+      ],
+      "tweets": [
+        {"id": "2120443916650475972", "handle": "sport", "name": "Diario SPORT", "text": "La operación de Raphinha que incomodó al Barça"},
+        {"id": "2120488749154836483", "handle": "mundodeportivo", "name": "Mundo Deportivo", "text": "Raphinha sube su estatus con Brasil y también lucirá brazalete"}
+      ]
+    },
+    {
+      "kicker": "Training",
+      "headline": "Non-internationals given rest until Monday",
+      "summary": "Hansi Flick led the last group session of the week on Tuesday with a reduced squad. Players not on international duty will not return until Monday. Yamal continued individual work on his knee; Koundé trained separately.",
+      "body": "The Tuesday group included Szczęsny, Balde, Eric García, Gerard Martín, Gabriel Jesus, Brian, Gavi and Adeyemi, plus two from the B team. Yamal stayed for specific recovery ahead of Friday’s travel to the Spain camp. Koundé remains outside the main group but is on course for Villarreal. The rest of the injured players need more time. UGT secretary Pepe Álvarez said Laporta confirmed there would be no training on Wednesday, the day of the general strike. El Confidencial reported that the absence was the scheduled rest Flick had already given the squad after the Atlético match. The Femení trained because they host Arsenal on Thursday.",
+      "sources": [
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261110/1004249478/mimos-lamine-kounde-sigue-margen-ultimo-entreno-semana.html"},
+        {"label": "El Confidencial", "url": "https://www.elconfidencial.com/deportes/2026-11-11/huelga-general-pepe-alvarez-ugt-barca-laporta_4462880/"}
+      ],
+      "tweets": [
+        {"id": "2120215099717644370", "handle": "FCBarcelona", "name": "FC Barcelona", "text": "A few goals from today's training"}
+      ]
+    },
+    {
+      "kicker": "Awards",
+      "headline": "Cubarsí collects Golden Boy recognition after Metropolitano display",
+      "summary": "Pau Cubarsí was named Golden Boy 2026 by Tuttosport on Monday. Mundo Deportivo published a longer piece on Wednesday examining the centre-back’s role in the 2-1 win at Atlético.",
+      "body": "Cubarsí scored 475 points out of 500 in the journalists’ vote. He is the fifth Barcelona player to win the award after Messi, Pedri, Gavi and Yamal, and the first defender since de Ligt in 2018. The ceremony is in Turin on 14 December. In the Metropolitano he started and helped keep the side organised after the early goal. Toni Kroos later praised the performance of Yamal and Cubarsí while questioning whether the current style can win the Champions League. Cubarsí is with the Spain squad for the Nations League matches.",
+      "sources": [
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261111/1004249496/golden-boy-cum-laude.html"},
+        {"label": "AS", "url": "https://as.com/futbol/internacional/cubarsi-se-viste-de-oro-y-se-lleva-el-golden-boy-f202611-n/"}
+      ],
+      "tweets": []
+    },
+    {
+      "kicker": "Brazil",
+      "headline": "Ancelotti names Raphinha captain for friendlies",
+      "summary": "Carlo Ancelotti has given Raphinha the captain’s armband for Brazil’s friendlies in Asia. Mundo Deportivo reported that the decision reflects the forward’s status inside the group.",
+      "body": "Raphinha signed a new contract until 2030 last week. He has scored 15 league goals this season and leads the Pichichi race. Brazil face Japan and Singapore on the current trip. Ancelotti has agreed with Barcelona on limiting his minutes after the long travel. Gabriel Magalhães has defended Raphinha publicly, calling him exemplary. The forward is expected to return to Barcelona after the friendlies and to be available for Villarreal.",
+      "sources": [
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261111/1004249852/raphinha-sube-estatus-brasil-lucira-brazalete.html"}
+      ],
+      "tweets": [
+        {"id": "2120488749154836483", "handle": "mundodeportivo", "name": "Mundo Deportivo", "text": "Raphinha sube su estatus con Brasil y también lucirá brazalete"}
+      ]
+    },
+    {
+      "kicker": "Club",
+      "headline": "Álvarez says Laporta confirmed no training on strike day",
+      "summary": "UGT secretary Pepe Álvarez said Joan Laporta confirmed there would be no first-team training on Wednesday, the day of the general strike. El Confidencial reported that the rest day had already been scheduled by Flick after the Atlético match.",
+      "body": "Álvarez posted that he met some Barcelona players at the El Nacional anniversary and they told him they were not training on Wednesday. He then asked Laporta, who confirmed the absence. The Femení did train because they host Arsenal in the Champions League on Thursday. Most first-team players are away with national teams. The general strike was called by CCOO and UGT over housing, wages and public services. Training for the players who remain in Barcelona resumes on Monday.",
+      "sources": [
+        {"label": "El Confidencial", "url": "https://www.elconfidencial.com/deportes/2026-11-11/huelga-general-pepe-alvarez-ugt-barca-laporta_4462880/"},
+        {"label": "El Español", "url": "https://www.elespanol.com/deportes/futbol/20261111/pepe-alvarez-ugt-asegura-barca-sumado-huelga-general-laporta-confirmo-no-entreno/1003744453669_0.html"}
+      ],
+      "tweets": []
+    }
+  ]
+}

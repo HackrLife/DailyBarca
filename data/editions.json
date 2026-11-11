@@ -1,6 +1,14 @@
 {
   "editions": [
     {
+      "number": 307,
+      "date": "2026-11-12",
+      "label": "12 November 2026",
+      "file": "2026-11-12.json",
+      "lead": "Yamal joins Spain Friday; Ter Stegen opens door to return",
+      "tweets": 7
+    },
+    {
       "number": 306,
       "date": "2026-11-10",
       "label": "10 November 2026",
