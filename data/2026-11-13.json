@@ -1,1 +1,107 @@
-PLACEHOLDER
+{
+  "date": "2026-11-13",
+  "number": 308,
+  "label": "13 November 2026",
+  "title": "Femení draw 1-1 with Arsenal; Yamal joins Spain Friday",
+  "deck": "Caroline Graham Hansen equalised as Barça Femení shared the points with Arsenal at Spotify Camp Nou. Lamine Yamal is expected in Las Rozas on Friday after knee work and should be available for England on Sunday.",
+  "stories": [
+    {
+      "kicker": "Femení",
+      "headline": "Graham Hansen equalises as Femení draw 1-1 with Arsenal",
+      "summary": "Caroline Graham Hansen scored on 59 minutes to cancel out Frida Maanum’s first-half opener as Barça Femení drew 1-1 with Arsenal at Spotify Camp Nou. Pere Romeu’s side controlled possession but finished with one point and lost the lead in the Women’s Champions League league phase.",
+      "body": "Maanum put Arsenal ahead on 22 minutes after a move involving Caitlin Foord. Barça responded with pressure but found Misa Rodríguez in form in the Arsenal goal. Graham Hansen finished after a cut inside from Esmee Brugts to level before the hour. Aitana Bonmatí came on at half-time and helped drive the second-half push. Attendance was reported at 26,171. The draw means Barça drop off the top of the league phase after three straight wins. Arsenal, who beat Barça in the 2025 final in Lisbon, defended deep after the equaliser. Cata Coll made important saves. The next league-phase fixture is away. Official posts from the club confirmed the final score and highlighted the Graham Hansen goal.",
+      "sources": [
+        {"label": "MARCA", "url": "https://www.marca.com/futbol/futbol-femenino/champions-league/cronica/2026/11/12/arsenal-frena-barca.html"},
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261112/1004250370/1-1-arsenal-combativo-deja-barca-revancha.html"}
+      ],
+      "tweets": [
+        {"id": "2120964694718742944", "handle": "FCBfemeni", "name": "FC Barcelona Femení", "text": "Empat a l'Spotify Camp Nou."},
+        {"id": "2120956784420823206", "handle": "FCBfemeni", "name": "FC Barcelona Femení", "text": "GOOOOOOL DE GRAHAAAAAAAM!!! ⚽️ 1-1 | ⏱️ 59’"}
+      ]
+    },
+    {
+      "kicker": "Spain",
+      "headline": "Yamal expected in Spain camp on Friday for England",
+      "summary": "Luis de la Fuente expects Lamine Yamal to join the Spain squad on Friday after individual work on his right knee in Barcelona. The forward missed the Nations League match against Czechia in Prague and is targeted for Sunday’s game against England at the Metropolitano.",
+      "body": "Yamal finished the 2-1 win at Atlético Madrid with discomfort in his right knee. Medical checks showed inflammation and fluid. De la Fuente said the decision to keep him in Barcelona was taken with the club’s medical staff and that the same approach would have applied to any player. The Spain coach described the recovery as positive and said Yamal had been doing specific exercises. Spain have already qualified for the quarter-finals. England visit the Metropolitano on 15 November. Last season the federation complained about communication over Yamal’s treatment; de la Fuente rejected suggestions of special treatment this time. The RFEF has confirmed the England match remains the objective.",
+      "sources": [
+        {"label": "EFE", "url": "https://efe.com/deportes/2026-11-10/de-la-fuente-lamine-yamal-partido-inglaterra/"},
+        {"label": "AS", "url": "https://en.as.com/soccer/lamine-yamal-ruled-out-of-spains-game-against-czechia-is-the-barcelona-star-injured-f202611-n/"}
+      ],
+      "tweets": [
+        {"id": "2120576315145195717", "handle": "sport", "name": "Diario SPORT", "text": "Luis de la Fuente, contundente, sobre la ausencia de Lamine Yamal"}
+      ]
+    },
+    {
+      "kicker": "Brazil",
+      "headline": "Raphinha named Brazil captain for Asia friendlies",
+      "summary": "Carlo Ancelotti has given Raphinha the captain’s armband for Brazil’s friendlies in Asia. Mundo Deportivo reported the decision after the forward signed a new contract until 2030 and scored twice against Alavés and Aston Villa.",
+      "body": "Raphinha underwent surgery on his left ear the day after the Clásico so he would be available for the national team. He has played with head protection since. Ancelotti chose him ahead of other senior players after Marquinhos was unavailable. Barcelona and the Brazilian federation have discussed managing his minutes after the long trip. The forward leads the Pichichi race with 15 league goals. He is expected back in Barcelona next week and available for Villarreal on 22 November. Gabriel Magalhães has defended his teammate’s attitude publicly.",
+      "sources": [
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261111/1004249852/raphinha-sube-estatus-brasil-lucira-brazalete.html"},
+        {"label": "SPORT", "url": "https://www.sport.es/es/noticias/barca/operacion-raphinha-incomodo-barca-136312150"}
+      ],
+      "tweets": [
+        {"id": "2120488749154836483", "handle": "mundodeportivo", "name": "Mundo Deportivo", "text": "Raphinha sube su estatus con Brasil y también lucirá brazalete"}
+      ]
+    },
+    {
+      "kicker": "Goalkeeping",
+      "headline": "Ter Stegen leaves door open for return after Ajax loan",
+      "summary": "Marc-André ter Stegen told Sport Bild he has not spoken to Hansi Flick recently. The Germany goalkeeper, on loan at Ajax until the end of the season, said he still follows Barcelona closely after 12 years at the club.",
+      "body": "Ter Stegen spoke from the Germany camp ahead of the Nations League game against Serbia. He said some former teammates still contact him. On his future he was clear that it is only November and he cannot say what will happen next summer. Barcelona currently have Joan García, Wojciech Szczęsny and Dominik Livaković. Szczęsny’s contract ends in June. Jordi Cruyff later defended Ter Stegen, saying he can play where he wants. The German is expected to start for Germany in the coming games.",
+      "sources": [
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261111/1004249904/ter-stegen-habla-relacion-flick-futuro-barca.html"},
+        {"label": "SPORT", "url": "https://www.sport.es/es/noticias/barca/ter-stegen-rompe-silencio-sin-contacto-136311000"}
+      ],
+      "tweets": [
+        {"id": "2120519866885276142", "handle": "mundodeportivo", "name": "Mundo Deportivo", "text": "Ter Stegen habla de su relación con Flick y su futuro en el Barça"}
+      ]
+    },
+    {
+      "kicker": "Squad",
+      "headline": "Olmo on course for Villarreal on 22 November",
+      "summary": "Dani Olmo is progressing after the left adductor injury that forced him off against Paris Saint-Germain on 20 October. Staff believe he will be available for Villarreal at home on 22 November.",
+      "body": "Olmo has missed the Clásico, Aston Villa and Atlético matches. He has done specific work during the break. If there had been a midweek fixture before Villarreal he could already have been in contention. Koundé is also expected to be ready for the same game after separate training. Rodri, Espart and Bardghji remain further behind. Villarreal visit Spotify Camp Nou on Sunday 22 November at 14:00. The next Champions League match is against Sabah on 25 November.",
+      "sources": [
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261110/1004249228/dani-olmo-podra-villarreal.html"}
+      ],
+      "tweets": []
+    },
+    {
+      "kicker": "Training",
+      "headline": "Flick managing Pedri minutes differently this season",
+      "summary": "Hansi Flick is handling Pedri’s workload differently from the previous two seasons. SPORT reported the change after the midfielder’s recent appearances and the busy schedule around the international break.",
+      "body": "Pedri has started most matches but Flick has been more careful with consecutive starts. The Canary Islands midfielder is with the Spain squad for the Nations League games. Barcelona sit top of La Liga on 33 points after the 2-1 win at Atlético. The next domestic fixture is Villarreal on 22 November. Non-internationals have been given rest until Monday. The staff want Pedri fresh for the run of games after the break.",
+      "sources": [
+        {"label": "SPORT", "url": "https://www.sport.es/es/noticias/barca/flick-cambia-estrategia-pedri-136353752"}
+      ],
+      "tweets": [
+        {"id": "2120846570711126155", "handle": "sport", "name": "Diario SPORT", "text": "Flick cambia de estrategia con Pedri"}
+      ]
+    },
+    {
+      "kicker": "Awards",
+      "headline": "Cubarsí’s Golden Boy win still the main talking point",
+      "summary": "Pau Cubarsí was named Golden Boy 2026 by Tuttosport on Monday. He is the fifth Barcelona player to win the award and the first defender since de Ligt in 2018.",
+      "body": "Cubarsí scored 475 points out of 500 in the journalists’ vote. The ceremony is in Turin on 14 December. He started in the 2-1 win at the Metropolitano and helped keep the side organised after the early goal. Toni Kroos later praised the performance of Yamal and Cubarsí. Cubarsí is with the Spain squad. The award follows his place in the FIFPRO World XI alongside Yamal and Rodri.",
+      "sources": [
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261111/1004249496/golden-boy-cum-laude.html"},
+        {"label": "AS", "url": "https://as.com/futbol/internacional/cubarsi-se-viste-de-oro-y-se-lleva-el-golden-boy-f202611-n/"}
+      ],
+      "tweets": []
+    },
+    {
+      "kicker": "Internationals",
+      "headline": "Six Barça players in action on Thursday",
+      "summary": "Six Barcelona internationals were scheduled to play on Thursday while the focus remained on Raphinha with Brazil. Mundo Deportivo listed the group heading into the Nations League and friendlies.",
+      "body": "Players from Spain, Brazil, Germany and other countries are involved in the final international window of 2026. Yamal stayed in Barcelona for knee work while the rest of the Spain group travelled to Prague. Raphinha is in Asia with the armband. Non-internationals remain in Barcelona until Monday. The next club session is expected after the weekend fixtures. Flick has the full group available for Villarreal preparation once the break ends.",
+      "sources": [
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261112/1004249971/seis-internacionales-barca-juegan-hoy-ojos-puestos-raphinha.html"}
+      ],
+      "tweets": [
+        {"id": "2120774847152447557", "handle": "mundodeportivo", "name": "Mundo Deportivo", "text": "Seis internacionales del Barça ya juegan hoy, pero los ojos están puestos en Raphinha"}
+      ]
+    }
+  ]
+}
