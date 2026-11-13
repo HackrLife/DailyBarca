@@ -1,9 +1,9 @@
 {
   "date": "2026-11-13",
-  "generated_at": "2026-11-13T12:16:56.011343+00:00",
+  "generated_at": "2026-11-13T20:09:54.310447+00:00",
   "source_pool": 50,
-  "articles_kept": 249,
-  "clusters": 201,
+  "articles_kept": 252,
+  "clusters": 206,
   "failed_sources": [
     "UEFA – Barcelona",
     "LaLiga – Barcelona",
@@ -40,65 +40,202 @@
   ],
   "stories": [
     {
-      "headline": "Atletico Madrid vs. Barcelona: Preview, Predictions and Lineups",
-      "summary": "Atletico Madrid vs. Barcelona: Preview, Predictions and Lineups",
+      "headline": "Gerard López declara en el juzgado que utilizó los informes de Negreira con el Barça B Gerard López declara en el juzgado que utilizó los informes de Negreira con el Barça B",
+      "summary": "Gerard López , entrenador del Barça B entre 2015 y 2018, y Toni Alonso , exdelegado del filial azulgrana, defendieron este viernes en sede judicial la utilidad de los informes sobre videoarbitraje elaborados para el club azulgrana por el exvicepresidente del Comité Técnico de Árbitros (CTA) José María Enríquez Negreira. Gerard López , entrenador del Barça B entre 2015 y 2018, y Toni Alonso , exdel",
       "source_count": 3,
       "languages": [
-        "en"
+        "ca",
+        "es"
       ],
       "sources": [
         {
-          "name": "90min",
-          "url": "https://www.si.com/soccer/atletico-madrid-vs-barcelona-preview-predictions-lineups-11-8-26",
-          "tier": "volume"
+          "name": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261113/1004250614/gerard-lopez-declara-juzgado-utilizo-informes-negreira-barca-b.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20261113/1004250614/gerard-lopez-declara-juzgado-utilizo-informes-negreira-barca-b.html",
+          "tier": "local"
         },
         {
-          "name": "BarçaBlog",
-          "url": "https://barcablog.com/2026/11/top-spot-on-the-line-barcelona-vs-atletico-madrid-preview-tactics-line-ups-predictions.html?utm_source=rss&utm_medium=rss&utm_campaign=top-spot-on-the-line-barcelona-vs-atletico-madrid-preview-tactics-line-ups-predictionshttps://barcablog.com/2026/11/top-spot-on-the-line-barcelona-vs-atletico-madrid-preview-tactics-line-ups-predictions.html?utm_source=rss&utm_medium=rss&utm_campaign=top-spot-on-the-line-barcelona-vs-atletico-madrid-preview-tactics-line-ups-predictions",
-          "tier": "specialist"
+          "name": "La Vanguardia",
+          "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20261113/11683505/gerard-lopez-ratifica-juez-utilizaba-informes-negreira.htmlhttps://www.lavanguardia.com/deportes/fc-barcelona/20261113/11683505/gerard-lopez-ratifica-juez-utilizaba-informes-negreira.html",
+          "tier": "national"
         },
         {
-          "name": "Everything Barça",
-          "url": "https://everythingbarca.com/atletico-madrid-vs-barcelona-la-liga-preview-predictions-team-news-and-tv-info",
+          "name": "Culemanía",
+          "url": "https://cronicaglobal.elespanol.com/culemania/palco/20261113/gerard-lopez-enrique-ernesto-valverde-negreira-barca/1003742811970_0.html",
           "tier": "specialist"
         }
       ],
       "articles": [
         {
-          "source_id": 15,
-          "source": "90min",
+          "source_id": 26,
+          "source": "Mundo Deportivo",
+          "tier": "local",
+          "lang": [
+            "es"
+          ],
+          "title": "Gerard López declara en el juzgado que utilizó los informes de Negreira con el Barça B Gerard López declara en el juzgado que utilizó los informes de Negreira con el Barça B",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261113/1004250614/gerard-lopez-declara-juzgado-utilizo-informes-negreira-barca-b.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20261113/1004250614/gerard-lopez-declara-juzgado-utilizo-informes-negreira-barca-b.html",
+          "summary": "Gerard López , entrenador del Barça B entre 2015 y 2018, y Toni Alonso , exdelegado del filial azulgrana, defendieron este viernes en sede judicial la utilidad de los informes sobre videoarbitraje elaborados para el club azulgrana por el exvicepresidente del Comité Técnico de Árbitros (CTA) José María Enríquez Negreira. Gerard López , entrenador del Barça B entre 2015 y 2018, y Toni Alonso , exdel",
+          "published": "13 Nov 2026 13:37:34 +010013 Nov 2026 13:37:34 +0100"
+        },
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "Gerard López ratifica ante la juez que sí utilizaba los informes de Negreira Gerard López ratifica ante la juez que sí utilizaba los informes de Negreira",
+          "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20261113/11683505/gerard-lopez-ratifica-juez-utilizaba-informes-negreira.htmlhttps://www.lavanguardia.com/deportes/fc-barcelona/20261113/11683505/gerard-lopez-ratifica-juez-utilizaba-informes-negreira.html",
+          "summary": "El extécnico del Barça B y el exdelegado del filial declaran en el juzgado que los dossieres eran buenos para conocer los criterios arbitrales El extécnico del Barça B y el exdelegado del filial declaran en el juzgado que los dossieres eran buenos para conocer los criterios arbitrales",
+          "published": "13 Nov 2026 13:32:31 +010013 Nov 2026 13:32:31 +0100"
+        },
+        {
+          "source_id": 39,
+          "source": "Culemanía",
+          "tier": "specialist",
+          "lang": [
+            "es"
+          ],
+          "title": "Gerard López se desmarca de Luis Enrique y Ernesto Valverde en el 'caso Negreira': el Barça B utilizaba los informes",
+          "url": "https://cronicaglobal.elespanol.com/culemania/palco/20261113/gerard-lopez-enrique-ernesto-valverde-negreira-barca/1003742811970_0.html",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "El Barça completa una emisión de 300 millones para acabar las obras del Spotify Camp Nou El Barça completa una emisión de 300 millones para acabar las obras del Spotify Camp Nou",
+      "summary": "El FC Barcelona ya ha completado una emisión de bonos por importe de 300 millones de euros para financiar la finalización de las obras de remodelación del Spotify Camp Nou , después de haber recibido las autorizaciones pertinentes de la Comisión Nacional del Mercado de Valores (CNMV) .El FC Barcelona ya ha completado una emisión de bonos por importe de 300 millones de euros para financiar la final",
+      "source_count": 3,
+      "languages": [
+        "ca",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261113/1004250571/barca-completa-emision-300-millones-acabar-obras-spotify-camp-nou.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20261113/1004250571/barca-completa-emision-300-millones-acabar-obras-spotify-camp-nou.html",
+          "tier": "local"
+        },
+        {
+          "name": "La Vanguardia",
+          "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20261113/11683441/barca-completa-emision-300-millones-acabar-obras-spotify-camp-nou.htmlhttps://www.lavanguardia.com/deportes/fc-barcelona/20261113/11683441/barca-completa-emision-300-millones-acabar-obras-spotify-camp-nou.html",
+          "tier": "national"
+        },
+        {
+          "name": "Culemanía",
+          "url": "https://cronicaglobal.elespanol.com/culemania/palco/20261113/barca-completa-millones-compromisarios-spotify-camp-nou/1003742811869_0.html",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 26,
+          "source": "Mundo Deportivo",
+          "tier": "local",
+          "lang": [
+            "es"
+          ],
+          "title": "El Barça completa una emisión de 300 millones para acabar las obras del Spotify Camp Nou El Barça completa una emisión de 300 millones para acabar las obras del Spotify Camp Nou",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261113/1004250571/barca-completa-emision-300-millones-acabar-obras-spotify-camp-nou.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20261113/1004250571/barca-completa-emision-300-millones-acabar-obras-spotify-camp-nou.html",
+          "summary": "El FC Barcelona ya ha completado una emisión de bonos por importe de 300 millones de euros para financiar la finalización de las obras de remodelación del Spotify Camp Nou , después de haber recibido las autorizaciones pertinentes de la Comisión Nacional del Mercado de Valores (CNMV) .El FC Barcelona ya ha completado una emisión de bonos por importe de 300 millones de euros para financiar la final",
+          "published": "13 Nov 2026 12:06:02 +010013 Nov 2026 12:06:02 +0100"
+        },
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "El Barça completa una emisión de 300 millones para acabar las obras del Spotify Camp Nou El Barça completa una emisión de 300 millones para acabar las obras del Spotify Camp Nou",
+          "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20261113/11683441/barca-completa-emision-300-millones-acabar-obras-spotify-camp-nou.htmlhttps://www.lavanguardia.com/deportes/fc-barcelona/20261113/11683441/barca-completa-emision-300-millones-acabar-obras-spotify-camp-nou.html",
+          "summary": "El club ha recibido el plácet de la Comisión Nacional del Mercado de Valores El club ha recibido el plácet de la Comisión Nacional del Mercado de Valores",
+          "published": "13 Nov 2026 12:37:35 +010013 Nov 2026 12:37:35 +0100"
+        },
+        {
+          "source_id": 39,
+          "source": "Culemanía",
+          "tier": "specialist",
+          "lang": [
+            "es"
+          ],
+          "title": "El Barça completa la emisión de 300 millones que aprobó la asamblea de compromisarios: vía libre para terminar el Spotify Camp Nou",
+          "url": "https://cronicaglobal.elespanol.com/culemania/palco/20261113/barca-completa-millones-compromisarios-spotify-camp-nou/1003742811869_0.html",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Bleacher Report Should Barcelona superstar Lamine Yamal play for Spain against England? www.barcablaugranes.com 9m",
+      "summary": "Bleacher Report Should Barcelona superstar Lamine Yamal play for Spain against England? www.barcablaugranes.com 9m",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/cant-del-blog-barcelona-opinion/137864/should-barcelona-superstar-lamine-yamal-play-spain-england?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/cant-del-blog-barcelona-opinion/137864/should-barcelona-superstar-lamine-yamal-play-spain-england",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
           "tier": "volume",
           "lang": [
             "en"
           ],
-          "title": "Atletico Madrid vs. Barcelona: Preview, Predictions and Lineups",
-          "url": "https://www.si.com/soccer/atletico-madrid-vs-barcelona-preview-predictions-lineups-11-8-26",
+          "title": "Bleacher Report Should Barcelona superstar Lamine Yamal play for Spain against England? www.barcablaugranes.com 9m",
+          "url": "https://www.barcablaugranes.com/cant-del-blog-barcelona-opinion/137864/should-barcelona-superstar-lamine-yamal-play-spain-england?utm_source=bleacherreport&amp;utm_medium=referral",
           "summary": "",
           "published": ""
         },
         {
-          "source_id": 23,
-          "source": "BarçaBlog",
-          "tier": "specialist",
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
           "lang": [
             "en"
           ],
-          "title": "Top Spot on the Line | Barcelona vs. Atlético Madrid Preview | Tactics, Line-ups, & PredictionsTop Spot on the Line | Barcelona vs. Atlético Madrid Preview | Tactics, Line-ups, & Predictions",
-          "url": "https://barcablog.com/2026/11/top-spot-on-the-line-barcelona-vs-atletico-madrid-preview-tactics-line-ups-predictions.html?utm_source=rss&utm_medium=rss&utm_campaign=top-spot-on-the-line-barcelona-vs-atletico-madrid-preview-tactics-line-ups-predictionshttps://barcablog.com/2026/11/top-spot-on-the-line-barcelona-vs-atletico-madrid-preview-tactics-line-ups-predictions.html?utm_source=rss&utm_medium=rss&utm_campaign=top-spot-on-the-line-barcelona-vs-atletico-madrid-preview-tactics-line-ups-predictions",
-          "summary": "On episode 870, Dan is joined by Jeremy Beren to preview the key players and line-ups of the big La Liga match-up with Atlético Madrid. They talk Julian Alvarez, Alejandro Grimaldo, and finish off with score predictions. New Store! – HERE Join the Discord server! The post Top Spot on the Line | Barcelona vs. Atlético Madrid Preview | Tactics, Line-ups, & Predictions appeared first on BarcaBlog . O",
-          "published": "Sat, 07 Nov 2026 04:03:04 +0000Sat, 07 Nov 2026 04:03:04 +0000"
-        },
-        {
-          "source_id": 24,
-          "source": "Everything Barça",
-          "tier": "specialist",
-          "lang": [
-            "en"
-          ],
-          "title": "Atlético Madrid vs Barcelona: La Liga preview, predictions, team news and TV info",
-          "url": "https://everythingbarca.com/atletico-madrid-vs-barcelona-la-liga-preview-predictions-team-news-and-tv-info",
+          "title": "www.barcablaugranes.com • 10h ‘In perfect condition’ - Lamine Yamal ready to play ‘90 minutes’ against England The Barcelona star is expected to play on Sunday.",
+          "url": "https://www.barcablaugranes.com/barcelona-internationals/137887/perfect-condition-lamine-yamal-ready-to-play-90-minutes-against-england?utm_source=bleacherreport&amp;utm_medium=referral",
           "summary": "",
           "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Should Barcelona superstar Lamine Yamal play for Spain against England?Should Barcelona superstar Lamine Yamal play for Spain against England?",
+          "url": "https://www.barcablaugranes.com/cant-del-blog-barcelona-opinion/137864/should-barcelona-superstar-lamine-yamal-play-spain-england",
+          "summary": "Spain took a giant step towards clinching top spot in their Nations League group with a fifth win in five games as they beat Czechia 2-0 on Thursday with a much-changed side thanks to a few injury absences, including that of Barcelona superstar Lamine Yamal. The teenager was ruled out for the Czechia game as […]Spain took a giant step towards clinching top spot in their Nations League group with a",
+          "published": "2026-11-13T14:00:00-05:002026-11-13T14:00:00-05:00"
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "‘In perfect condition’ – Lamine Yamal ready to play ‘90 minutes’ against England‘In perfect condition’ – Lamine Yamal ready to play ‘90 minutes’ against England",
+          "url": "https://www.barcablaugranes.com/barcelona-internationals/137887/perfect-condition-lamine-yamal-ready-to-play-90-minutes-against-england",
+          "summary": "Spain boss Luis de la Fuente says Lamine Yamal is in “perfect condition” and ready to play the whole game against England in the Nations League on Sunday. Yamal missed Spain’s first game of the break with Czechia due to a knee issue but will now link up with the squad for their second match […]Spain boss Luis de la Fuente says Lamine Yamal is in “perfect condition” and ready to play the whole game",
+          "published": "2026-11-13T04:30:00-05:002026-11-13T04:30:00-05:00"
         }
       ]
     },
@@ -212,8 +349,8 @@
       ]
     },
     {
-      "headline": "Transfer Rumors: Endrick’s Premier League Offer; Ronaldo Thwarts Barcelona Plan",
-      "summary": "Transfer Rumors: Endrick’s Premier League Offer; Ronaldo Thwarts Barcelona Plan",
+      "headline": "‘No Question’—Barcelona Adamant on Gavi Amid Bayern Munich, Napoli Links",
+      "summary": "‘No Question’—Barcelona Adamant on Gavi Amid Bayern Munich, Napoli Links",
       "source_count": 2,
       "languages": [
         "en"
@@ -221,12 +358,12 @@
       "sources": [
         {
           "name": "Sports Illustrated",
-          "url": "https://www.si.com/soccer/transfer-rumors-endrick-premier-league-offer-ronaldo-thwarts-barcelona-plan",
+          "url": "https://www.si.com/soccer/barcelona-adamant-gavi-bayern-munich-napoli-links",
           "tier": "major"
         },
         {
           "name": "90min",
-          "url": "https://www.si.com/soccer/transfer-rumors-endrick-premier-league-offer-ronaldo-thwarts-barcelona-plan",
+          "url": "https://www.si.com/soccer/barcelona-adamant-gavi-bayern-munich-napoli-links",
           "tier": "volume"
         }
       ],
@@ -238,8 +375,8 @@
           "lang": [
             "en"
           ],
-          "title": "Transfer Rumors: Endrick’s Premier League Offer; Ronaldo Thwarts Barcelona Plan",
-          "url": "https://www.si.com/soccer/transfer-rumors-endrick-premier-league-offer-ronaldo-thwarts-barcelona-plan",
+          "title": "‘No Question’—Barcelona Adamant on Gavi Amid Bayern Munich, Napoli Links",
+          "url": "https://www.si.com/soccer/barcelona-adamant-gavi-bayern-munich-napoli-links",
           "summary": "",
           "published": ""
         },
@@ -250,8 +387,8 @@
           "lang": [
             "en"
           ],
-          "title": "Transfer Rumors: Endrick’s Premier League Offer; Ronaldo Thwarts Barcelona Plan",
-          "url": "https://www.si.com/soccer/transfer-rumors-endrick-premier-league-offer-ronaldo-thwarts-barcelona-plan",
+          "title": "‘No Question’—Barcelona Adamant on Gavi Amid Bayern Munich, Napoli Links",
+          "url": "https://www.si.com/soccer/barcelona-adamant-gavi-bayern-munich-napoli-links",
           "summary": "",
           "published": ""
         }
@@ -304,8 +441,8 @@
       ]
     },
     {
-      "headline": "‘Obviously’—JJ Gabriel Confirms Final Man Utd Exit Decision Amid Barcelona, Real Madrid Interest",
-      "summary": "‘Obviously’—JJ Gabriel Confirms Final Man Utd Exit Decision Amid Barcelona, Real Madrid Interest",
+      "headline": "Atletico Madrid vs. Barcelona: Preview, Predictions and Lineups",
+      "summary": "Atletico Madrid vs. Barcelona: Preview, Predictions and Lineups",
       "source_count": 2,
       "languages": [
         "en"
@@ -313,13 +450,13 @@
       "sources": [
         {
           "name": "90min",
-          "url": "https://www.si.com/soccer/jj-gabriel-final-man-utd-exit-decision-barcelona-real-madrid-interest",
+          "url": "https://www.si.com/soccer/atletico-madrid-vs-barcelona-preview-predictions-lineups-11-8-26",
           "tier": "volume"
         },
         {
-          "name": "Football365",
-          "url": "https://www.football365.com/news/man-utd-sensation-jj-gabriel-reacts-new-improved-offer-chooses-real-madrid-barcelona",
-          "tier": "volume"
+          "name": "BarçaBlog",
+          "url": "https://barcablog.com/2026/11/top-spot-on-the-line-barcelona-vs-atletico-madrid-preview-tactics-line-ups-predictions.html?utm_source=rss&utm_medium=rss&utm_campaign=top-spot-on-the-line-barcelona-vs-atletico-madrid-preview-tactics-line-ups-predictionshttps://barcablog.com/2026/11/top-spot-on-the-line-barcelona-vs-atletico-madrid-preview-tactics-line-ups-predictions.html?utm_source=rss&utm_medium=rss&utm_campaign=top-spot-on-the-line-barcelona-vs-atletico-madrid-preview-tactics-line-ups-predictions",
+          "tier": "specialist"
         }
       ],
       "articles": [
@@ -330,28 +467,28 @@
           "lang": [
             "en"
           ],
-          "title": "‘Obviously’—JJ Gabriel Confirms Final Man Utd Exit Decision Amid Barcelona, Real Madrid Interest",
-          "url": "https://www.si.com/soccer/jj-gabriel-final-man-utd-exit-decision-barcelona-real-madrid-interest",
+          "title": "Atletico Madrid vs. Barcelona: Preview, Predictions and Lineups",
+          "url": "https://www.si.com/soccer/atletico-madrid-vs-barcelona-preview-predictions-lineups-11-8-26",
           "summary": "",
           "published": ""
         },
         {
-          "source_id": 17,
-          "source": "Football365",
-          "tier": "volume",
+          "source_id": 23,
+          "source": "BarçaBlog",
+          "tier": "specialist",
           "lang": [
             "en"
           ],
-          "title": "Man Utd sensation JJ Gabriel reacts to new ‘improved offer’ as he chooses between Real Madrid, Barcelona",
-          "url": "https://www.football365.com/news/man-utd-sensation-jj-gabriel-reacts-new-improved-offer-chooses-real-madrid-barcelona",
-          "summary": "",
-          "published": ""
+          "title": "Top Spot on the Line | Barcelona vs. Atlético Madrid Preview | Tactics, Line-ups, & PredictionsTop Spot on the Line | Barcelona vs. Atlético Madrid Preview | Tactics, Line-ups, & Predictions",
+          "url": "https://barcablog.com/2026/11/top-spot-on-the-line-barcelona-vs-atletico-madrid-preview-tactics-line-ups-predictions.html?utm_source=rss&utm_medium=rss&utm_campaign=top-spot-on-the-line-barcelona-vs-atletico-madrid-preview-tactics-line-ups-predictionshttps://barcablog.com/2026/11/top-spot-on-the-line-barcelona-vs-atletico-madrid-preview-tactics-line-ups-predictions.html?utm_source=rss&utm_medium=rss&utm_campaign=top-spot-on-the-line-barcelona-vs-atletico-madrid-preview-tactics-line-ups-predictions",
+          "summary": "On episode 870, Dan is joined by Jeremy Beren to preview the key players and line-ups of the big La Liga match-up with Atlético Madrid. They talk Julian Alvarez, Alejandro Grimaldo, and finish off with score predictions. New Store! – HERE Join the Discord server! The post Top Spot on the Line | Barcelona vs. Atlético Madrid Preview | Tactics, Line-ups, & Predictions appeared first on BarcaBlog . O",
+          "published": "Sat, 07 Nov 2026 04:03:04 +0000Sat, 07 Nov 2026 04:03:04 +0000"
         }
       ]
     },
     {
-      "headline": "Bleacher Report Ronald Koeman defends Frenkie de Jong amid Barcelona criticism: ‘He is mentally strong’ barcauniversal.com 43m",
-      "summary": "Bleacher Report Ronald Koeman defends Frenkie de Jong amid Barcelona criticism: ‘He is mentally strong’ barcauniversal.com 43m",
+      "headline": "Bleacher Report Barcelona set sights on 18-year-old Brazilian centre-back who could cost €14 million – report barcauniversal.com 13m",
+      "summary": "Bleacher Report Barcelona set sights on 18-year-old Brazilian centre-back who could cost €14 million – report barcauniversal.com 13m",
       "source_count": 2,
       "languages": [
         "en"
@@ -359,12 +496,12 @@
       "sources": [
         {
           "name": "Bleacher Report",
-          "url": "https://barcauniversal.com/ronald-koeman-defends-frenkie-de-jong-amid-barcelona-criticism-he-is-mentally-strong/?utm_source=bleacherreport&amp;utm_medium=referral",
+          "url": "https://barcauniversal.com/barcelona-set-sights-on-18-year-old-brazilian-centre-back-who-could-cost-e14-million-report/?utm_source=bleacherreport&amp;utm_medium=referral",
           "tier": "volume"
         },
         {
           "name": "Barça Universal",
-          "url": "https://barcauniversal.com/ronald-koeman-defends-frenkie-de-jong-amid-barcelona-criticism-he-is-mentally-strong/",
+          "url": "https://barcauniversal.com/barcelona-set-sights-on-18-year-old-brazilian-centre-back-who-could-cost-e14-million-report/",
           "tier": "specialist"
         }
       ],
@@ -376,8 +513,8 @@
           "lang": [
             "en"
           ],
-          "title": "Bleacher Report Ronald Koeman defends Frenkie de Jong amid Barcelona criticism: ‘He is mentally strong’ barcauniversal.com 43m",
-          "url": "https://barcauniversal.com/ronald-koeman-defends-frenkie-de-jong-amid-barcelona-criticism-he-is-mentally-strong/?utm_source=bleacherreport&amp;utm_medium=referral",
+          "title": "Bleacher Report Barcelona set sights on 18-year-old Brazilian centre-back who could cost €14 million – report barcauniversal.com 13m",
+          "url": "https://barcauniversal.com/barcelona-set-sights-on-18-year-old-brazilian-centre-back-who-could-cost-e14-million-report/?utm_source=bleacherreport&amp;utm_medium=referral",
           "summary": "",
           "published": ""
         },
@@ -388,16 +525,16 @@
           "lang": [
             "en"
           ],
-          "title": "Ronald Koeman defends Frenkie de Jong amid Barcelona criticism: ‘He is mentally strong’",
-          "url": "https://barcauniversal.com/ronald-koeman-defends-frenkie-de-jong-amid-barcelona-criticism-he-is-mentally-strong/",
+          "title": "Barcelona set sights on 18-year-old Brazilian centre-back who could cost €14 million – report",
+          "url": "https://barcauniversal.com/barcelona-set-sights-on-18-year-old-brazilian-centre-back-who-could-cost-e14-million-report/",
           "summary": "",
           "published": ""
         }
       ]
     },
     {
-      "headline": "Bleacher Report Former Barcelona winger reveals how Lionel Messi tried to stop his 2019 departure: ‘He came to me and said…’ barcauniversal.com 1h",
-      "summary": "Bleacher Report Former Barcelona winger reveals how Lionel Messi tried to stop his 2019 departure: ‘He came to me and said…’ barcauniversal.com 1h",
+      "headline": "Bleacher Report Barcelona summer arrival yet to convince fully as fellow new signing pushes for starting place barcauniversal.com 13m",
+      "summary": "Bleacher Report Barcelona summer arrival yet to convince fully as fellow new signing pushes for starting place barcauniversal.com 13m",
       "source_count": 2,
       "languages": [
         "en"
@@ -405,12 +542,12 @@
       "sources": [
         {
           "name": "Bleacher Report",
-          "url": "https://barcauniversal.com/former-barcelona-winger-reveals-how-lionel-messi-tried-to-stop-his-2019-departure-he-came-to-me-and-said/?utm_source=bleacherreport&amp;utm_medium=referral",
+          "url": "https://barcauniversal.com/barcelona-summer-arrival-yet-to-convince-fully-as-fellow-new-signing-pushes-for-starting-place/?utm_source=bleacherreport&amp;utm_medium=referral",
           "tier": "volume"
         },
         {
           "name": "Barça Universal",
-          "url": "https://barcauniversal.com/former-barcelona-winger-reveals-how-lionel-messi-tried-to-stop-his-2019-departure-he-came-to-me-and-said/",
+          "url": "https://barcauniversal.com/barcelona-summer-arrival-yet-to-convince-fully-as-fellow-new-signing-pushes-for-starting-place/",
           "tier": "specialist"
         }
       ],
@@ -422,8 +559,8 @@
           "lang": [
             "en"
           ],
-          "title": "Bleacher Report Former Barcelona winger reveals how Lionel Messi tried to stop his 2019 departure: ‘He came to me and said…’ barcauniversal.com 1h",
-          "url": "https://barcauniversal.com/former-barcelona-winger-reveals-how-lionel-messi-tried-to-stop-his-2019-departure-he-came-to-me-and-said/?utm_source=bleacherreport&amp;utm_medium=referral",
+          "title": "Bleacher Report Barcelona summer arrival yet to convince fully as fellow new signing pushes for starting place barcauniversal.com 13m",
+          "url": "https://barcauniversal.com/barcelona-summer-arrival-yet-to-convince-fully-as-fellow-new-signing-pushes-for-starting-place/?utm_source=bleacherreport&amp;utm_medium=referral",
           "summary": "",
           "published": ""
         },
@@ -434,16 +571,16 @@
           "lang": [
             "en"
           ],
-          "title": "Former Barcelona winger reveals how Lionel Messi tried to stop his 2019 departure: ‘He came to me and said…’",
-          "url": "https://barcauniversal.com/former-barcelona-winger-reveals-how-lionel-messi-tried-to-stop-his-2019-departure-he-came-to-me-and-said/",
+          "title": "Barcelona summer arrival yet to convince fully as fellow new signing pushes for starting place",
+          "url": "https://barcauniversal.com/barcelona-summer-arrival-yet-to-convince-fully-as-fellow-new-signing-pushes-for-starting-place/",
           "summary": "",
           "published": ""
         }
       ]
     },
     {
-      "headline": "Bleacher Report ‘In perfect condition’ - Lamine Yamal ready to play ‘90 minutes’ against England www.barcablaugranes.com 2h",
-      "summary": "Bleacher Report ‘In perfect condition’ - Lamine Yamal ready to play ‘90 minutes’ against England www.barcablaugranes.com 2h",
+      "headline": "www.barcablaugranes.com • 2h Hamza Abdelkarim’s father responds to talk of January transfer from Barcelona to Como The rumor mill has been getting overexcited again.",
+      "summary": "www.barcablaugranes.com • 2h Hamza Abdelkarim’s father responds to talk of January transfer from Barcelona to Como The rumor mill has been getting overexcited again.",
       "source_count": 2,
       "languages": [
         "en"
@@ -451,12 +588,12 @@
       "sources": [
         {
           "name": "Bleacher Report",
-          "url": "https://www.barcablaugranes.com/barcelona-internationals/137887/perfect-condition-lamine-yamal-ready-to-play-90-minutes-against-england?utm_source=bleacherreport&amp;utm_medium=referral",
+          "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/137925/hamza-abdelkarims-father-como-transfer-talk?utm_source=bleacherreport&amp;utm_medium=referral",
           "tier": "volume"
         },
         {
           "name": "Barça Blaugranes",
-          "url": "https://www.barcablaugranes.com/barcelona-internationals/137887/perfect-condition-lamine-yamal-ready-to-play-90-minutes-against-england",
+          "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/137925/hamza-abdelkarims-father-como-transfer-talk",
           "tier": "specialist"
         }
       ],
@@ -468,8 +605,8 @@
           "lang": [
             "en"
           ],
-          "title": "Bleacher Report ‘In perfect condition’ - Lamine Yamal ready to play ‘90 minutes’ against England www.barcablaugranes.com 2h",
-          "url": "https://www.barcablaugranes.com/barcelona-internationals/137887/perfect-condition-lamine-yamal-ready-to-play-90-minutes-against-england?utm_source=bleacherreport&amp;utm_medium=referral",
+          "title": "www.barcablaugranes.com • 2h Hamza Abdelkarim’s father responds to talk of January transfer from Barcelona to Como The rumor mill has been getting overexcited again.",
+          "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/137925/hamza-abdelkarims-father-como-transfer-talk?utm_source=bleacherreport&amp;utm_medium=referral",
           "summary": "",
           "published": ""
         },
@@ -480,16 +617,16 @@
           "lang": [
             "en"
           ],
-          "title": "‘In perfect condition’ – Lamine Yamal ready to play ‘90 minutes’ against England‘In perfect condition’ – Lamine Yamal ready to play ‘90 minutes’ against England",
-          "url": "https://www.barcablaugranes.com/barcelona-internationals/137887/perfect-condition-lamine-yamal-ready-to-play-90-minutes-against-england",
-          "summary": "Spain boss Luis de la Fuente says Lamine Yamal is in “perfect condition” and ready to play the whole game against England in the Nations League on Sunday. Yamal missed Spain’s first game of the break with Czechia due to a knee issue but will now link up with the squad for their second match […]Spain boss Luis de la Fuente says Lamine Yamal is in “perfect condition” and ready to play the whole game",
-          "published": "2026-11-13T04:30:00-05:002026-11-13T04:30:00-05:00"
+          "title": "Hamza Abdelkarim’s father responds to talk of January transfer from Barcelona to ComoHamza Abdelkarim’s father responds to talk of January transfer from Barcelona to Como",
+          "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/137925/hamza-abdelkarims-father-como-transfer-talk",
+          "summary": "Hamza Abdelkarim’s father as rubbished talk that the striker could leave Barcelona in the January transfer window and head to Serie A side Como. The Egypt international has been with the first-team squad this season but is finding game time hard to come by due to the competition for places. His situation had led to […]Hamza Abdelkarim’s father as rubbished talk that the striker could leave Barcelo",
+          "published": "2026-11-13T12:00:00-05:002026-11-13T12:00:00-05:00"
         }
       ]
     },
     {
-      "headline": "FC Barcelona 58m ℹ️ FC Barcelona finalises 300 million euro issue for completing Spotify Camp Nou works https://t.co/sFRe2ZYByw View on X",
-      "summary": "FC Barcelona 58m ℹ️ FC Barcelona finalises 300 million euro issue for completing Spotify Camp Nou works https://t.co/sFRe2ZYByw View on X",
+      "headline": "www.barcablaugranes.com • 4h Aymeric Laporte talks Barcelona interest and ‘special connection’ with Pau Cubarsi The defender was linked with the club last summer.",
+      "summary": "www.barcablaugranes.com • 4h Aymeric Laporte talks Barcelona interest and ‘special connection’ with Pau Cubarsi The defender was linked with the club last summer.",
       "source_count": 2,
       "languages": [
         "en"
@@ -497,12 +634,12 @@
       "sources": [
         {
           "name": "Bleacher Report",
-          "url": "https://twitter.com/FCBarcelona/status/2121200921564807206",
+          "url": "https://www.barcablaugranes.com/barcelona-internationals/137907/aymeric-laporte-talks-interest-pau-cubarsi?utm_source=bleacherreport&amp;utm_medium=referral",
           "tier": "volume"
         },
         {
-          "name": "Barça Universal",
-          "url": "https://barcauniversal.com/confirmed-barcelona-complete-e300-million-financing-deal-to-accelerate-spotify-camp-nou-redevelopment/",
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-internationals/137907/aymeric-laporte-talks-interest-pau-cubarsi",
           "tier": "specialist"
         }
       ],
@@ -514,28 +651,74 @@
           "lang": [
             "en"
           ],
-          "title": "FC Barcelona 58m ℹ️ FC Barcelona finalises 300 million euro issue for completing Spotify Camp Nou works https://t.co/sFRe2ZYByw View on X",
-          "url": "https://twitter.com/FCBarcelona/status/2121200921564807206",
+          "title": "www.barcablaugranes.com • 4h Aymeric Laporte talks Barcelona interest and ‘special connection’ with Pau Cubarsi The defender was linked with the club last summer.",
+          "url": "https://www.barcablaugranes.com/barcelona-internationals/137907/aymeric-laporte-talks-interest-pau-cubarsi?utm_source=bleacherreport&amp;utm_medium=referral",
           "summary": "",
           "published": ""
         },
         {
-          "source_id": 20,
-          "source": "Barça Universal",
+          "source_id": 21,
+          "source": "Barça Blaugranes",
           "tier": "specialist",
           "lang": [
             "en"
           ],
-          "title": "Confirmed: Barcelona complete €300 million financing deal to accelerate Spotify Camp Nou redevelopment",
-          "url": "https://barcauniversal.com/confirmed-barcelona-complete-e300-million-financing-deal-to-accelerate-spotify-camp-nou-redevelopment/",
-          "summary": "",
-          "published": ""
+          "title": "Aymeric Laporte talks Barcelona interest and ‘special connection’ with Pau CubarsiAymeric Laporte talks Barcelona interest and ‘special connection’ with Pau Cubarsi",
+          "url": "https://www.barcablaugranes.com/barcelona-internationals/137907/aymeric-laporte-talks-interest-pau-cubarsi",
+          "summary": "Aymeric Laporte has been chatting about interest from Barcelona after a summer where the Catalans were linked with the Spain star but ultimately did not make a move. There was speculation that the Catalans wanted Laporte to partner Pau Cubarsi in the heart of their backline, but the defender says the transfer failed to materialize […]Aymeric Laporte has been chatting about interest from Barcelona ",
+          "published": "2026-11-13T10:00:00-05:002026-11-13T10:00:00-05:00"
         }
       ]
     },
     {
-      "headline": "www.barcablaugranes.com • 6h ‘Still a lot more to come’ - Barcelona loanee Ronald Araujo makes promise to Liverpool fans The defender says he can get even better.",
-      "summary": "www.barcablaugranes.com • 6h ‘Still a lot more to come’ - Barcelona loanee Ronald Araujo makes promise to Liverpool fans The defender says he can get even better.",
+      "headline": "www.barcablaugranes.com • 7h Carlo Ancelotti sends Raphinha message to Barcelona ahead of Singapore, Japan friendlies The coach says the players’ minutes will be monitored.",
+      "summary": "www.barcablaugranes.com • 7h Carlo Ancelotti sends Raphinha message to Barcelona ahead of Singapore, Japan friendlies The coach says the players’ minutes will be monitored.",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/barcelona-internationals/137897/carlo-ancelotti-raphinha-brazil-friendlies?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-internationals/137897/carlo-ancelotti-raphinha-brazil-friendlies",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 7h Carlo Ancelotti sends Raphinha message to Barcelona ahead of Singapore, Japan friendlies The coach says the players’ minutes will be monitored.",
+          "url": "https://www.barcablaugranes.com/barcelona-internationals/137897/carlo-ancelotti-raphinha-brazil-friendlies?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Carlo Ancelotti sends Raphinha message to Barcelona ahead of Singapore, Japan friendliesCarlo Ancelotti sends Raphinha message to Barcelona ahead of Singapore, Japan friendlies",
+          "url": "https://www.barcablaugranes.com/barcelona-internationals/137897/carlo-ancelotti-raphinha-brazil-friendlies",
+          "summary": "Brazil boss Carlo Ancelotti has praised captain Raphinha and told Barcelona that all of his players will be carefully managed over the international break. Barcelona have seen Raphinha pick up injuries on international duty and will be crossing their fingers the forward returns home unscathed from the latest call-up. Speaking ahead of Saturday’s friendly against […]Brazil boss Carlo Ancelotti has ",
+          "published": "2026-11-13T07:00:00-05:002026-11-13T07:00:00-05:00"
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 14h ‘Still a lot more to come’ - Barcelona loanee Ronald Araujo makes promise to Liverpool fans The defender says he can get even better.",
+      "summary": "www.barcablaugranes.com • 14h ‘Still a lot more to come’ - Barcelona loanee Ronald Araujo makes promise to Liverpool fans The defender says he can get even better.",
       "source_count": 2,
       "languages": [
         "en"
@@ -560,7 +743,7 @@
           "lang": [
             "en"
           ],
-          "title": "www.barcablaugranes.com • 6h ‘Still a lot more to come’ - Barcelona loanee Ronald Araujo makes promise to Liverpool fans The defender says he can get even better.",
+          "title": "www.barcablaugranes.com • 14h ‘Still a lot more to come’ - Barcelona loanee Ronald Araujo makes promise to Liverpool fans The defender says he can get even better.",
           "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/137773/loanee-ronald-araujo-promise-liverpool-loan-fans?utm_source=bleacherreport&amp;utm_medium=referral",
           "summary": "",
           "published": ""
@@ -576,190 +759,6 @@
           "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/137773/loanee-ronald-araujo-promise-liverpool-loan-fans",
           "summary": "Ronald Araujo has told Liverpool fans there’s “a lot more still to come” from him after making a bright start to life at Anfield. The defender moved to the club on a season-long loan from Barcelona and has been a big hit, becoming a regular in the side and a fan favorite. Araujo says he’s […]Ronald Araujo has told Liverpool fans there’s “a lot more still to come” from him after making a bright sta",
           "published": "2026-11-12T23:00:00-05:002026-11-12T23:00:00-05:00"
-        }
-      ]
-    },
-    {
-      "headline": "www.barcablaugranes.com • 13h Czechia 0-2 Spain, Nations League: Álex Baena and Marc Pubill on target as La Roja escape with hard-fought win A tough test",
-      "summary": "www.barcablaugranes.com • 13h Czechia 0-2 Spain, Nations League: Álex Baena and Marc Pubill on target as La Roja escape with hard-fought win A tough test",
-      "source_count": 2,
-      "languages": [
-        "en"
-      ],
-      "sources": [
-        {
-          "name": "Bleacher Report",
-          "url": "https://www.barcablaugranes.com/barcelona-internationals/137836/czechia-spain-nations-league-final-score-match-report-recap-reactions?utm_source=bleacherreport&amp;utm_medium=referral",
-          "tier": "volume"
-        },
-        {
-          "name": "Barça Blaugranes",
-          "url": "https://www.barcablaugranes.com/barcelona-internationals/137836/czechia-spain-nations-league-final-score-match-report-recap-reactions",
-          "tier": "specialist"
-        }
-      ],
-      "articles": [
-        {
-          "source_id": 16,
-          "source": "Bleacher Report",
-          "tier": "volume",
-          "lang": [
-            "en"
-          ],
-          "title": "www.barcablaugranes.com • 13h Czechia 0-2 Spain, Nations League: Álex Baena and Marc Pubill on target as La Roja escape with hard-fought win A tough test",
-          "url": "https://www.barcablaugranes.com/barcelona-internationals/137836/czechia-spain-nations-league-final-score-match-report-recap-reactions?utm_source=bleacherreport&amp;utm_medium=referral",
-          "summary": "",
-          "published": ""
-        },
-        {
-          "source_id": 21,
-          "source": "Barça Blaugranes",
-          "tier": "specialist",
-          "lang": [
-            "en"
-          ],
-          "title": "Czechia 0-2 Spain, Nations League: Álex Baena and Marc Pubill on target as La Roja escape with hard-fought winCzechia 0-2 Spain, Nations League: Álex Baena and Marc Pubill on target as La Roja escape with hard-fought win",
-          "url": "https://www.barcablaugranes.com/barcelona-internationals/137836/czechia-spain-nations-league-final-score-match-report-recap-reactions",
-          "summary": "Spain have taken a big step towards finishing top of their group in the Nations League thanks to a hard-fought 1-0 victory away to Czechia on Thursday night. Barcelona stars Pau Cubarsí, Fermín López and Pedri featured on the night as La Roja did not play very well without several of their best players, including […]Spain have taken a big step towards finishing top of their group in the Nations Le",
-          "published": "2026-11-12T16:43:33-05:002026-11-12T16:43:33-05:00"
-        }
-      ]
-    },
-    {
-      "headline": "www.barcablaugranes.com • 16h Xavi explains why he’s named Barcelona star Frenkie de Jong as Netherlands captain A proud moment for the midfielder.",
-      "summary": "www.barcablaugranes.com • 16h Xavi explains why he’s named Barcelona star Frenkie de Jong as Netherlands captain A proud moment for the midfielder.",
-      "source_count": 2,
-      "languages": [
-        "en"
-      ],
-      "sources": [
-        {
-          "name": "Bleacher Report",
-          "url": "https://www.barcablaugranes.com/barcelona-internationals/137799/xavi-frenkie-de-jong-netherlands-captain?utm_source=bleacherreport&amp;utm_medium=referral",
-          "tier": "volume"
-        },
-        {
-          "name": "Barça Blaugranes",
-          "url": "https://www.barcablaugranes.com/barcelona-internationals/137799/xavi-frenkie-de-jong-netherlands-captain",
-          "tier": "specialist"
-        }
-      ],
-      "articles": [
-        {
-          "source_id": 16,
-          "source": "Bleacher Report",
-          "tier": "volume",
-          "lang": [
-            "en"
-          ],
-          "title": "www.barcablaugranes.com • 16h Xavi explains why he’s named Barcelona star Frenkie de Jong as Netherlands captain A proud moment for the midfielder.",
-          "url": "https://www.barcablaugranes.com/barcelona-internationals/137799/xavi-frenkie-de-jong-netherlands-captain?utm_source=bleacherreport&amp;utm_medium=referral",
-          "summary": "",
-          "published": ""
-        },
-        {
-          "source_id": 21,
-          "source": "Barça Blaugranes",
-          "tier": "specialist",
-          "lang": [
-            "en"
-          ],
-          "title": "Xavi explains why he’s named Barcelona star Frenkie de Jong as Netherlands captainXavi explains why he’s named Barcelona star Frenkie de Jong as Netherlands captain",
-          "url": "https://www.barcablaugranes.com/barcelona-internationals/137799/xavi-frenkie-de-jong-netherlands-captain",
-          "summary": "Netherlands boss Xavi Hernandez has confirmed Barcelona midfielder Frenkie de Jong will be his captain for two Nations League fixtures over the international break. Regular skipper Virgil van Dijk has dropped out due to injury, meaning De Jong has been handed the armband for the national team. Xavi explained why he went for De Jong […]Netherlands boss Xavi Hernandez has confirmed Barcelona midfiel",
-          "published": "2026-11-12T14:00:00-05:002026-11-12T14:00:00-05:00"
-        }
-      ]
-    },
-    {
-      "headline": "www.barcablaugranes.com • 16h Barcelona 1-1 Arsenal, Women’s Champions League: Caroline Graham Hansen rescues point at Camp Nou Barça somehow didn’t win this one",
-      "summary": "www.barcablaugranes.com • 16h Barcelona 1-1 Arsenal, Women’s Champions League: Caroline Graham Hansen rescues point at Camp Nou Barça somehow didn’t win this one",
-      "source_count": 2,
-      "languages": [
-        "en"
-      ],
-      "sources": [
-        {
-          "name": "Bleacher Report",
-          "url": "https://www.barcablaugranes.com/barcelona-women/137814/barcelona-arsenal-womens-champions-league-final-score-match-report-recap-reactions?utm_source=bleacherreport&amp;utm_medium=referral",
-          "tier": "volume"
-        },
-        {
-          "name": "Barça Blaugranes",
-          "url": "https://www.barcablaugranes.com/barcelona-women/137814/barcelona-arsenal-womens-champions-league-final-score-match-report-recap-reactions",
-          "tier": "specialist"
-        }
-      ],
-      "articles": [
-        {
-          "source_id": 16,
-          "source": "Bleacher Report",
-          "tier": "volume",
-          "lang": [
-            "en"
-          ],
-          "title": "www.barcablaugranes.com • 16h Barcelona 1-1 Arsenal, Women’s Champions League: Caroline Graham Hansen rescues point at Camp Nou Barça somehow didn’t win this one",
-          "url": "https://www.barcablaugranes.com/barcelona-women/137814/barcelona-arsenal-womens-champions-league-final-score-match-report-recap-reactions?utm_source=bleacherreport&amp;utm_medium=referral",
-          "summary": "",
-          "published": ""
-        },
-        {
-          "source_id": 21,
-          "source": "Barça Blaugranes",
-          "tier": "specialist",
-          "lang": [
-            "en"
-          ],
-          "title": "Barcelona 1-1 Arsenal, Women’s Champions League: Caroline Graham Hansen rescues point at Camp NouBarcelona 1-1 Arsenal, Women’s Champions League: Caroline Graham Hansen rescues point at Camp Nou",
-          "url": "https://www.barcablaugranes.com/barcelona-women/137814/barcelona-arsenal-womens-champions-league-final-score-match-report-recap-reactions",
-          "summary": "Barcelona Femení have dropped points for the first time in the Women’s Champions League this season and are now in second place in the League Phase standings thanks to a 1-1 draw against Arsenal at Camp Nou on Thursday night. The Blaugrana were hungry for revenge in this rematch of the 2025 UWCL Final and […]Barcelona Femení have dropped points for the first time in the Women’s Champions League th",
-          "published": "2026-11-12T14:44:01-05:002026-11-12T14:44:01-05:00"
-        }
-      ]
-    },
-    {
-      "headline": "www.barcablaugranes.com • 18h Should Barcelona sign Pedro Porro? Time to talk the Spanish full-back",
-      "summary": "www.barcablaugranes.com • 18h Should Barcelona sign Pedro Porro? Time to talk the Spanish full-back",
-      "source_count": 2,
-      "languages": [
-        "en"
-      ],
-      "sources": [
-        {
-          "name": "Bleacher Report",
-          "url": "https://www.barcablaugranes.com/cant-del-blog-barcelona-opinion/137738/should-barcelona-sign-pedro-porro?utm_source=bleacherreport&amp;utm_medium=referral",
-          "tier": "volume"
-        },
-        {
-          "name": "Barça Blaugranes",
-          "url": "https://www.barcablaugranes.com/cant-del-blog-barcelona-opinion/137738/should-barcelona-sign-pedro-porro",
-          "tier": "specialist"
-        }
-      ],
-      "articles": [
-        {
-          "source_id": 16,
-          "source": "Bleacher Report",
-          "tier": "volume",
-          "lang": [
-            "en"
-          ],
-          "title": "www.barcablaugranes.com • 18h Should Barcelona sign Pedro Porro? Time to talk the Spanish full-back",
-          "url": "https://www.barcablaugranes.com/cant-del-blog-barcelona-opinion/137738/should-barcelona-sign-pedro-porro?utm_source=bleacherreport&amp;utm_medium=referral",
-          "summary": "",
-          "published": ""
-        },
-        {
-          "source_id": 21,
-          "source": "Barça Blaugranes",
-          "tier": "specialist",
-          "lang": [
-            "en"
-          ],
-          "title": "Should Barcelona sign Pedro Porro?Should Barcelona sign Pedro Porro?",
-          "url": "https://www.barcablaugranes.com/cant-del-blog-barcelona-opinion/137738/should-barcelona-sign-pedro-porro",
-          "summary": "Spain and Tottenham Hotspur’s Pedro Porro is back in the Barcelona news this week as the full-back spoke about the reported interest from the Blaugrana as we approach the January transfer window. Porro had a very good World Cup for Spain and is seen as a “dream signing” by president Joan Laporta, who thinks he’d […]Spain and Tottenham Hotspur’s Pedro Porro is back in the Barcelona news this week a",
-          "published": "2026-11-12T12:00:00-05:002026-11-12T12:00:00-05:00"
         }
       ]
     },
@@ -898,102 +897,6 @@
           "url": "https://everythingbarca.com/barca-femeni-vs-arsenal-womens-champions-league-preview-predictions-team-news-and-tv-info",
           "summary": "",
           "published": ""
-        }
-      ]
-    },
-    {
-      "headline": "El Barça completa una emisión de 300 millones para acabar las obras del Spotify Camp Nou El Barça completa una emisión de 300 millones para acabar las obras del Spotify Camp Nou",
-      "summary": "El FC Barcelona ya ha completado una emisión de bonos por importe de 300 millones de euros para financiar la finalización de las obras de remodelación del Spotify Camp Nou , después de haber recibido las autorizaciones pertinentes de la Comisión Nacional del Mercado de Valores (CNMV) .El FC Barcelona ya ha completado una emisión de bonos por importe de 300 millones de euros para financiar la final",
-      "source_count": 2,
-      "languages": [
-        "ca",
-        "es"
-      ],
-      "sources": [
-        {
-          "name": "Mundo Deportivo",
-          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261113/1004250571/barca-completa-emision-300-millones-acabar-obras-spotify-camp-nou.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20261113/1004250571/barca-completa-emision-300-millones-acabar-obras-spotify-camp-nou.html",
-          "tier": "local"
-        },
-        {
-          "name": "La Vanguardia",
-          "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20261113/11683441/barca-completa-emision-300-millones-acabar-obras-spotify-camp-nou.htmlhttps://www.lavanguardia.com/deportes/fc-barcelona/20261113/11683441/barca-completa-emision-300-millones-acabar-obras-spotify-camp-nou.html",
-          "tier": "national"
-        }
-      ],
-      "articles": [
-        {
-          "source_id": 26,
-          "source": "Mundo Deportivo",
-          "tier": "local",
-          "lang": [
-            "es"
-          ],
-          "title": "El Barça completa una emisión de 300 millones para acabar las obras del Spotify Camp Nou El Barça completa una emisión de 300 millones para acabar las obras del Spotify Camp Nou",
-          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261113/1004250571/barca-completa-emision-300-millones-acabar-obras-spotify-camp-nou.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20261113/1004250571/barca-completa-emision-300-millones-acabar-obras-spotify-camp-nou.html",
-          "summary": "El FC Barcelona ya ha completado una emisión de bonos por importe de 300 millones de euros para financiar la finalización de las obras de remodelación del Spotify Camp Nou , después de haber recibido las autorizaciones pertinentes de la Comisión Nacional del Mercado de Valores (CNMV) .El FC Barcelona ya ha completado una emisión de bonos por importe de 300 millones de euros para financiar la final",
-          "published": "13 Nov 2026 12:06:02 +010013 Nov 2026 12:06:02 +0100"
-        },
-        {
-          "source_id": 31,
-          "source": "La Vanguardia",
-          "tier": "national",
-          "lang": [
-            "es",
-            "ca"
-          ],
-          "title": "El Barça completa una emisión de 300 millones para acabar las obras del Spotify Camp Nou El Barça completa una emisión de 300 millones para acabar las obras del Spotify Camp Nou",
-          "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20261113/11683441/barca-completa-emision-300-millones-acabar-obras-spotify-camp-nou.htmlhttps://www.lavanguardia.com/deportes/fc-barcelona/20261113/11683441/barca-completa-emision-300-millones-acabar-obras-spotify-camp-nou.html",
-          "summary": "El club ha recibido el plácet de la Comisión Nacional del Mercado de Valores El club ha recibido el plácet de la Comisión Nacional del Mercado de Valores",
-          "published": "13 Nov 2026 12:37:35 +010013 Nov 2026 12:37:35 +0100"
-        }
-      ]
-    },
-    {
-      "headline": "1-1: Un Arsenal combativo deja al Barça sin revancha 1-1: Un Arsenal combativo deja al Barça sin revancha",
-      "summary": "Empate sufrido del Barça femenino en el Spotify Camp Nou que deja a las azulgrana sin poder tomarse la revancha con el Arsenal (1-1). El esperado duelo entre los dos últimos campeones de la Champions League con las inglesas, verdugos de las azulgrana en la final de Lisboa en 2025, no defraudó pero el conjunto catalán no pudo quitarse la espina. El empate también deja al Barça con 10 puntos y sin e",
-      "source_count": 2,
-      "languages": [
-        "ca",
-        "es"
-      ],
-      "sources": [
-        {
-          "name": "Mundo Deportivo",
-          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261112/1004250370/1-1-arsenal-combativo-deja-barca-revancha.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20261112/1004250370/1-1-arsenal-combativo-deja-barca-revancha.html",
-          "tier": "local"
-        },
-        {
-          "name": "La Vanguardia",
-          "url": "https://www.lavanguardia.com/deportes/futbol-femenino/20261112/11681575/barca-arsenal-reencuentro-sabor-revancha.htmlhttps://www.lavanguardia.com/deportes/futbol-femenino/20261112/11681575/barca-arsenal-reencuentro-sabor-revancha.html",
-          "tier": "national"
-        }
-      ],
-      "articles": [
-        {
-          "source_id": 26,
-          "source": "Mundo Deportivo",
-          "tier": "local",
-          "lang": [
-            "es"
-          ],
-          "title": "1-1: Un Arsenal combativo deja al Barça sin revancha 1-1: Un Arsenal combativo deja al Barça sin revancha",
-          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261112/1004250370/1-1-arsenal-combativo-deja-barca-revancha.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20261112/1004250370/1-1-arsenal-combativo-deja-barca-revancha.html",
-          "summary": "Empate sufrido del Barça femenino en el Spotify Camp Nou que deja a las azulgrana sin poder tomarse la revancha con el Arsenal (1-1). El esperado duelo entre los dos últimos campeones de la Champions League con las inglesas, verdugos de las azulgrana en la final de Lisboa en 2025, no defraudó pero el conjunto catalán no pudo quitarse la espina. El empate también deja al Barça con 10 puntos y sin e",
-          "published": "12 Nov 2026 20:46:22 +010012 Nov 2026 20:46:22 +0100"
-        },
-        {
-          "source_id": 31,
-          "source": "La Vanguardia",
-          "tier": "national",
-          "lang": [
-            "es",
-            "ca"
-          ],
-          "title": "Barça-Arsenal: un reencuentro con sabor a revancha Barça-Arsenal: un reencuentro con sabor a revancha",
-          "url": "https://www.lavanguardia.com/deportes/futbol-femenino/20261112/11681575/barca-arsenal-reencuentro-sabor-revancha.htmlhttps://www.lavanguardia.com/deportes/futbol-femenino/20261112/11681575/barca-arsenal-reencuentro-sabor-revancha.html",
-          "summary": "Las blaugrana se miden a su verdugo en la final de la Champions de 2025 en el regreso de Ona Batlle al Camp Nou Las blaugrana se miden a su verdugo en la final de la Champions de 2025 en el regreso de Ona Batlle al Camp Nou",
-          "published": "12 Nov 2026 07:00:00 +010012 Nov 2026 07:00:00 +0100"
         }
       ]
     },
@@ -1313,90 +1216,8 @@
       ]
     },
     {
-      "headline": "How 'Barca way' continues despite big-name exitsHow 'Barca way' continues despite big-name exits",
-      "summary": "Arsenal face a much-changed Barcelona in the Women's Champions League on Thursday - but how have the Spanish giants coped so well with losing key players?Arsenal face a much-changed Barcelona in the Women's Champions League on Thursday - but how have the Spanish giants coped so well with losing key players?",
-      "source_count": 1,
-      "languages": [
-        "en"
-      ],
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c5vg23nmgp2yo?at_medium=RSS&at_campaign=rsshttps://www.bbc.co.uk/sport/football/articles/c5vg23nmgp2yo?at_medium=RSS&at_campaign=rss",
-          "tier": "major"
-        }
-      ],
-      "articles": [
-        {
-          "source_id": 6,
-          "source": "BBC Sport",
-          "tier": "major",
-          "lang": [
-            "en"
-          ],
-          "title": "How 'Barca way' continues despite big-name exitsHow 'Barca way' continues despite big-name exits",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c5vg23nmgp2yo?at_medium=RSS&at_campaign=rsshttps://www.bbc.co.uk/sport/football/articles/c5vg23nmgp2yo?at_medium=RSS&at_campaign=rss",
-          "summary": "Arsenal face a much-changed Barcelona in the Women's Champions League on Thursday - but how have the Spanish giants coped so well with losing key players?Arsenal face a much-changed Barcelona in the Women's Champions League on Thursday - but how have the Spanish giants coped so well with losing key players?",
-          "published": "Thu, 12 Nov 2026 06:41:09 GMTThu, 12 Nov 2026 06:41:09 GMT"
-        },
-        {
-          "source_id": 6,
-          "source": "BBC Sport",
-          "tier": "major",
-          "lang": [
-            "en"
-          ],
-          "title": "How 'Barca way' continues despite big-name exitsHow 'Barca way' continues despite big-name exits",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c5vg23nmgp2yo?at_medium=RSS&at_campaign=rsshttps://www.bbc.co.uk/sport/football/articles/c5vg23nmgp2yo?at_medium=RSS&at_campaign=rss",
-          "summary": "Arsenal face a much-changed Barcelona in the Women's Champions League on Thursday - but how have the Spanish giants coped so well with losing key players?Arsenal face a much-changed Barcelona in the Women's Champions League on Thursday - but how have the Spanish giants coped so well with losing key players?",
-          "published": "Thu, 12 Nov 2026 06:41:09 GMTThu, 12 Nov 2026 06:41:09 GMT"
-        }
-      ]
-    },
-    {
-      "headline": "Transfer Rumors: Van Dijk Wants Barcelona Move; Man Utd to Offload Dalot",
-      "summary": "Transfer Rumors: Van Dijk Wants Barcelona Move; Man Utd to Offload Dalot",
-      "source_count": 1,
-      "languages": [
-        "en"
-      ],
-      "sources": [
-        {
-          "name": "90min",
-          "url": "https://www.si.com/soccer/transfer-rumors-van-dijk-barcelona-move-man-utd-dalot",
-          "tier": "volume"
-        }
-      ],
-      "articles": [
-        {
-          "source_id": 15,
-          "source": "90min",
-          "tier": "volume",
-          "lang": [
-            "en"
-          ],
-          "title": "Transfer Rumors: Van Dijk Wants Barcelona Move; Man Utd to Offload Dalot",
-          "url": "https://www.si.com/soccer/transfer-rumors-van-dijk-barcelona-move-man-utd-dalot",
-          "summary": "",
-          "published": ""
-        },
-        {
-          "source_id": 15,
-          "source": "90min",
-          "tier": "volume",
-          "lang": [
-            "en"
-          ],
-          "title": "Transfer Rumors: Man Utd in Fight for Endrick; Barcelona Consider Martinez",
-          "url": "https://www.si.com/soccer/transfer-rumors-man-utd-endrick-barcelona-martinez",
-          "summary": "",
-          "published": ""
-        }
-      ]
-    },
-    {
-      "headline": "Bleacher Report FC Barcelona News: 13 November 2026 www.barcablaugranes.com 1h",
-      "summary": "Bleacher Report FC Barcelona News: 13 November 2026 www.barcablaugranes.com 1h",
+      "headline": "total Barça 58m 𝗠𝗮𝗿𝘁𝗮 𝗧𝗼𝗿𝗿𝗲𝗷𝗼́𝗻 celebrates 500 matches with Barca! View on X",
+      "summary": "total Barça 58m 𝗠𝗮𝗿𝘁𝗮 𝗧𝗼𝗿𝗿𝗲𝗷𝗼́𝗻 celebrates 500 matches with Barca! View on X",
       "source_count": 1,
       "languages": [
         "en"
@@ -1404,7 +1225,7 @@
       "sources": [
         {
           "name": "Bleacher Report",
-          "url": "https://www.barcablaugranes.com/barcelona-news/137859/fc-barcelona-news-13-november-2026-barca-femeni-frustrated-arsenal-champions-league-camp-nou?utm_source=bleacherreport&amp;utm_medium=referral",
+          "url": "https://twitter.com/totalBarca/status/2121319854557053209",
           "tier": "volume"
         }
       ],
@@ -1416,8 +1237,8 @@
           "lang": [
             "en"
           ],
-          "title": "Bleacher Report FC Barcelona News: 13 November 2026 www.barcablaugranes.com 1h",
-          "url": "https://www.barcablaugranes.com/barcelona-news/137859/fc-barcelona-news-13-november-2026-barca-femeni-frustrated-arsenal-champions-league-camp-nou?utm_source=bleacherreport&amp;utm_medium=referral",
+          "title": "total Barça 58m 𝗠𝗮𝗿𝘁𝗮 𝗧𝗼𝗿𝗿𝗲𝗷𝗼́𝗻 celebrates 500 matches with Barca! View on X",
+          "url": "https://twitter.com/totalBarca/status/2121319854557053209",
           "summary": "",
           "published": ""
         },
@@ -1428,8 +1249,8 @@
           "lang": [
             "en"
           ],
-          "title": "www.barcablaugranes.com • 1d FC Barcelona News: 12 November 2026 A round-up of the latest Barcelona news and rumors",
-          "url": "https://www.barcablaugranes.com/barcelona-news/137732/fc-barcelona-news-12-november-2026-barca-femeni-champions-league-arsenal-camp-nou?utm_source=bleacherreport&amp;utm_medium=referral",
+          "title": "total Barça 1h Frenkie starting. 😔 View on X",
+          "url": "https://twitter.com/totalBarca/status/2121319134210461923",
           "summary": "",
           "published": ""
         }
@@ -2106,6 +1927,64 @@
       ]
     },
     {
+      "headline": "How 'Barca way' continues despite big-name exitsHow 'Barca way' continues despite big-name exits",
+      "summary": "Arsenal face a much-changed Barcelona in the Women's Champions League on Thursday - but how have the Spanish giants coped so well with losing key players?Arsenal face a much-changed Barcelona in the Women's Champions League on Thursday - but how have the Spanish giants coped so well with losing key players?",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c5vg23nmgp2yo?at_medium=RSS&at_campaign=rsshttps://www.bbc.co.uk/sport/football/articles/c5vg23nmgp2yo?at_medium=RSS&at_campaign=rss",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 6,
+          "source": "BBC Sport",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "How 'Barca way' continues despite big-name exitsHow 'Barca way' continues despite big-name exits",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c5vg23nmgp2yo?at_medium=RSS&at_campaign=rsshttps://www.bbc.co.uk/sport/football/articles/c5vg23nmgp2yo?at_medium=RSS&at_campaign=rss",
+          "summary": "Arsenal face a much-changed Barcelona in the Women's Champions League on Thursday - but how have the Spanish giants coped so well with losing key players?Arsenal face a much-changed Barcelona in the Women's Champions League on Thursday - but how have the Spanish giants coped so well with losing key players?",
+          "published": "Thu, 12 Nov 2026 06:41:09 GMTThu, 12 Nov 2026 06:41:09 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "That’s a Mora: Rodrigo and Roma rise with Lazio to give Eternal City new life | Nicky BandiniThat’s a Mora: Rodrigo and Roma rise with Lazio to give Eternal City new life | Nicky Bandini",
+      "summary": "Roma and Lazio have both made unbeaten starts to the Serie A season, giving those in the Italian capital dreams of a Scudetto After nine games in 28 days, Gian Piero Gasperini finally got a moment to pause and reflect on Sunday night. The Roma manager was back in Liguria, where he worked for the best part of a decade across two stints at Genoa, to collect an award from Stelle Nello Sport – an asso",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/nov/09/rodrigo-mora-roma-lazio-rome-serie-ahttps://www.theguardian.com/football/2026/nov/09/rodrigo-mora-roma-lazio-rome-serie-a",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "That’s a Mora: Rodrigo and Roma rise with Lazio to give Eternal City new life | Nicky BandiniThat’s a Mora: Rodrigo and Roma rise with Lazio to give Eternal City new life | Nicky Bandini",
+          "url": "https://www.theguardian.com/football/2026/nov/09/rodrigo-mora-roma-lazio-rome-serie-ahttps://www.theguardian.com/football/2026/nov/09/rodrigo-mora-roma-lazio-rome-serie-a",
+          "summary": "Roma and Lazio have both made unbeaten starts to the Serie A season, giving those in the Italian capital dreams of a Scudetto After nine games in 28 days, Gian Piero Gasperini finally got a moment to pause and reflect on Sunday night. The Roma manager was back in Liguria, where he worked for the best part of a decade across two stints at Genoa, to collect an award from Stelle Nello Sport – an asso",
+          "published": "Mon, 09 Nov 2026 14:18:45 GMTMon, 09 Nov 2026 14:18:45 GMT"
+        }
+      ]
+    },
+    {
       "headline": "Mourinho’s plan comes together as Real Madrid relaunch with clásico statement | Sid LoweMourinho’s plan comes together as Real Madrid relaunch with clásico statement | Sid Lowe",
       "summary": "It was just like old times as José Mourinho ended a night at Camp Nou with a knee slide and three points José Mourinho had already done the por qu é? , the printout and the press conference no-show in under 100 days. Now he’s done a knee slide too, and in the perfect place: back where it all began and where it can all begin again. When Kylian Mbappé scored the first in the clásico on Sunday night,",
       "source_count": 1,
@@ -2189,6 +2068,93 @@
           "url": "https://www.theguardian.com/football/2025/dec/05/aitana-bonmati-guardian-top-100-history-third-straight-titlehttps://www.theguardian.com/football/2025/dec/05/aitana-bonmati-guardian-top-100-history-third-straight-title",
           "summary": "The margin may have got smaller but the brilliant Spanish midfielder makes it a hat-trick of No 1 finishes They say the best things come in threes, and Aitana Bonmatí has written herself into the Guardian’s top 100 history as the first player to finish at the top of the tree for a third consecutive year. Last year the majestic midfielder emulated her Barcelona and Spain teammate Alexia Putellas by",
           "published": "Fri, 05 Dec 2025 08:00:42 GMTFri, 05 Dec 2025 08:00:42 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "‘Sad and Regrettable’—Spain Manager Delivers Angry Lamine Yamal Injury Update",
+      "summary": "‘Sad and Regrettable’—Spain Manager Delivers Angry Lamine Yamal Injury Update",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/spain-manager-delivers-angry-lamine-yamal-injury-update",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "‘Sad and Regrettable’—Spain Manager Delivers Angry Lamine Yamal Injury Update",
+          "url": "https://www.si.com/soccer/spain-manager-delivers-angry-lamine-yamal-injury-update",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "The ‘Mysterious’ Surgery Raphinha Underwent That Prioritized Brazil Over Barcelona",
+      "summary": "The ‘Mysterious’ Surgery Raphinha Underwent That Prioritized Brazil Over Barcelona",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/surgery-raphinha-underwent-prioritized-brazil-over-barcelona",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "The ‘Mysterious’ Surgery Raphinha Underwent That Prioritized Brazil Over Barcelona",
+          "url": "https://www.si.com/soccer/surgery-raphinha-underwent-prioritized-brazil-over-barcelona",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Transfer Rumors: Endrick’s Premier League Offer; Ronaldo Thwarts Barcelona Plan",
+      "summary": "Transfer Rumors: Endrick’s Premier League Offer; Ronaldo Thwarts Barcelona Plan",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/transfer-rumors-endrick-premier-league-offer-ronaldo-thwarts-barcelona-plan",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Transfer Rumors: Endrick’s Premier League Offer; Ronaldo Thwarts Barcelona Plan",
+          "url": "https://www.si.com/soccer/transfer-rumors-endrick-premier-league-offer-ronaldo-thwarts-barcelona-plan",
+          "summary": "",
+          "published": ""
         }
       ]
     }
