@@ -1,1 +1,150 @@
-PLACEHOLDER_EDITION
+{
+  "date": "2026-11-15",
+  "number": 310,
+  "label": "15 November 2026",
+  "title": "Raphinha sees red with Ancelotti; De Jong misses Germany; Yamal fit for England",
+  "deck": "Raphinha was sent off alongside Carlo Ancelotti as Brazil lost 3-2 to Japan. Frenkie de Jong will miss Netherlands’ match against Germany with minor back discomfort. Lamine Yamal is in perfect condition for Spain’s clash with England today.",
+  "stories": [
+    {
+      "kicker": "Brazil",
+      "headline": "Raphinha sees red as Brazil lose 3-2 to Japan",
+      "summary": "Raphinha was shown a straight red card alongside Carlo Ancelotti after Japan scored a stoppage-time winner in Singapore. Brazil had fought back from 2-0 down through two goals from Vinícius Júnior. The Barcelona captain apologised for the dismissal but criticised the referee.",
+      "body": "Japan led 2-0 after 19 minutes through Kubo and Nakamura. Vinícius scored in the 34th and 75th minutes to level the friendly at the National Stadium. Sakamoto scored in the 91st minute. Brazil protested a possible foul on João Gomes in the build-up. Ancelotti entered the pitch and both he and Raphinha, who had been substituted, were dismissed. Raphinha told Brazilian media he wanted to apologise for the sending-off but said the referee made unacceptable mistakes, including on the first goal and a possible penalty. He will miss the Singapore match on Tuesday. Brazil lost by the same scoreline to Japan in 2025.",
+      "sources": [
+        {
+          "label": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261114/1004250923/raphinha-expulsado-amistoso-japon.html"
+        },
+        {
+          "label": "Ge Globo",
+          "url": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2026/11/14/raphinha-e-ancelotti-sao-expulsos-por-reclamacao-em-brasil-x-japao-veja.ghtml"
+        }
+      ],
+      "tweets": [
+        {
+          "id": "2121685660931411981",
+          "handle": "TTendenciasESP",
+          "name": "TTendencias España",
+          "text": "Raphinha vuelve a ser tendencia tras ser expulsado desde el banquillo al final del Japón-Brasil (3-2)"
+        }
+      ]
+    },
+    {
+      "kicker": "Netherlands",
+      "headline": "De Jong ruled out of Germany with minor back discomfort",
+      "summary": "Frenkie de Jong will miss the Netherlands’ Nations League match against Germany on Monday. The Dutch FA said he is suffering minor physical discomfort after going off at half-time in the 7-0 win over Greece. The decision is precautionary and he will not travel to Berlin.",
+      "body": "De Jong captained the side against Greece in the absence of Virgil van Dijk and was withdrawn at the break with back pain. Xavi Hernández had said after the match that he expected him to be available for Germany. The KNVB confirmed on Saturday that he will stay behind as a precaution because Monday’s game comes too soon. No replacement has been called up. Netherlands top Group A2 with 11 points. De Jong made his return for the national team after a knee injury sustained at the World Cup. Barcelona will monitor his condition ahead of the Villarreal match on 22 November.",
+      "sources": [
+        {
+          "label": "Barca Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-internationals/137993/netherlands-confirm-de-jong-ruled-out-of-germany-clash"
+        },
+        {
+          "label": "NOS",
+          "url": "https://nos.nl/artikel/2639482-niet-fitte-de-jong-mist-nations-league-duel-oranje-met-duitsland"
+        }
+      ],
+      "tweets": [
+        {
+          "id": "2121650290671927333",
+          "handle": "FlashscoreES",
+          "name": "Flashscore.esp",
+          "text": "De Jong abandona la concentración de la Oranje y será baja ante Alemania"
+        }
+      ]
+    },
+    {
+      "kicker": "Spain",
+      "headline": "De la Fuente: Yamal in perfect condition for England",
+      "summary": "Luis de la Fuente said Lamine Yamal is in perfect condition and ready to play against England today at the Metropolitano. The forward missed Thursday’s 2-0 win over Czechia after knee discomfort and joined the Spain camp on Friday. The coach said if he starts, it is because he is fully fit.",
+      "body": "Yamal finished the 2-1 win at Atlético Madrid with inflammation and fluid in his right knee. Medical staff kept him in Barcelona rather than send him to Prague. De la Fuente told reporters on Saturday that Yamal recovered extremely well, got more rest by avoiding two journeys, and arrived in ideal condition. He dismissed talk of special treatment. Spain have already qualified for the quarter-finals and lead the group. England are three points behind. The match is the final group game of the Nations League.",
+      "sources": [
+        {
+          "label": "Barca Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-internationals/138018/luis-de-la-fuente-discusses-whether-lamine-yamal-start-fspain-vs-england"
+        },
+        {
+          "label": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/nov/14/lamine-yamal-luis-de-la-fuente-spain-england-club-country"
+        }
+      ],
+      "tweets": [
+        {
+          "id": "2121692146533318842",
+          "handle": "Eurosport_ES",
+          "name": "Eurosport.es",
+          "text": "Luis de la Fuente despeja dudas sobre el estado físico de Lamine Yamal para el duelo ante Inglaterra. Está en perfectas condiciones"
+        }
+      ]
+    },
+    {
+      "kicker": "Brazil",
+      "headline": "Brazil keep Raphinha in camp despite red card",
+      "summary": "Brazil will not allow Raphinha to leave the training camp early and return to Barcelona. Rodrigo Caetano, the national team’s executive director, said the captain remains an important leader even though he is suspended for the Singapore friendly.",
+      "body": "Raphinha received the red card from the substitutes’ bench after the stoppage-time goal. The suspension rules him out of Tuesday’s match against Singapore. Caetano told Spanish media that his presence is needed in the group. Raphinha had recently signed a new contract at Barcelona until 2030 and spoke about managing his minutes with Ancelotti. He is expected back in Barcelona next week and available for Villarreal on 22 November if the discomfort from the international programme is managed.",
+      "sources": [
+        {
+          "label": "AfricaSoccer",
+          "url": "https://africasoccer.com/brazil-keep-raphinha-with-squad-despite-japan-red-card/"
+        }
+      ],
+      "tweets": []
+    },
+    {
+      "kicker": "Squad",
+      "headline": "De Jong returns to Barcelona early after precautionary decision",
+      "summary": "Frenkie de Jong has left the Netherlands camp and is travelling back to Barcelona. The midfielder will not feature against Germany and the club will assess his back discomfort before the squad returns to training after the international break.",
+      "body": "The Dutch federation released him so he can receive treatment at the Ciutat Esportiva rather than remain with the group. He played 45 minutes against Greece as captain and was replaced at half-time. Hansi Flick’s medical staff will examine him on Monday. De Jong has already missed the early part of the season with a knee injury. His availability for Villarreal will depend on the results of the checks. Netherlands face Germany in Berlin on Monday evening.",
+      "sources": [
+        {
+          "label": "DSports",
+          "url": "https://www.directvsports.com/futbol/por-molestias-en-su-espalda-frenkie-de-jong-fue-desafectado-en-paises-bajos-y-regresa-a-barcelona-20261114-0021.html"
+        }
+      ],
+      "tweets": []
+    },
+    {
+      "kicker": "Contract",
+      "headline": "Barça agree principle of deal to extend Fariñas until 2031",
+      "summary": "Barcelona have reached an agreement in principle to extend Brian Fariñas’s contract until 2031. Deco has been in talks with the player’s representatives. The current deal runs until 2028 and the release clause will be raised from €15 million.",
+      "body": "Fariñas made his first-team debut under Hansi Flick and has been used at right-back and in midfield during the injury crisis. The sporting department moved quickly after his positive performances. The final details will be completed after the international break. MARCA and SPORT both reported the agreement. The club has already extended Raphinha until 2030 and is working on other young players including Bernal.",
+      "sources": [
+        {
+          "label": "MARCA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/11/14/barca-ata-farinas.html"
+        },
+        {
+          "label": "SPORT",
+          "url": "https://www.sport.es/es/noticias/barca/barca-mueve-ficha-brian-farinas-136446270"
+        }
+      ],
+      "tweets": []
+    },
+    {
+      "kicker": "Internationals",
+      "headline": "Spain host England today with Yamal available",
+      "summary": "Spain face England at the Metropolitano this evening in the final Nations League group match. Lamine Yamal is available after missing Czechia. Other Barça players continue their programmes: Cubarsí, Pedri and Fermín with Spain, Gordon with England.",
+      "body": "Spain beat Czechia 2-0 on Thursday with Cubarsí playing the full match. England beat Croatia 2-1. A draw would secure top spot for Spain. Anthony Gordon is in the England squad. João Cancelo plays for Portugal against Denmark today and Wales on Tuesday. The next club session is expected on Monday once the remaining internationals return. Villarreal is the first match after the break on 22 November.",
+      "sources": [
+        {
+          "label": "FC Barcelona",
+          "url": "https://www.fcbarcelona.com/en/football/first-team/news"
+        }
+      ],
+      "tweets": []
+    },
+    {
+      "kicker": "Club",
+      "headline": "Five matches left at Camp Nou before the end of 2026",
+      "summary": "Barcelona face Villarreal, Atlético Madrid, Manchester City, Celta and Real Sociedad at Spotify Camp Nou before the year ends. The club listed the remaining home fixtures after the international break.",
+      "body": "The next home match is against Villarreal on 22 November. Atlético return to Camp Nou later in the month. Manchester City visit in the Champions League. The renovation works continue with the €300 million bond issue finalised last week to complete the project. The stadium is scheduled for full capacity in 2028-29 and will host the 2029 Champions League final.",
+      "sources": [
+        {
+          "label": "FC Barcelona",
+          "url": "https://www.fcbarcelona.com/en/news"
+        }
+      ],
+      "tweets": []
+    }
+  ]
+}
