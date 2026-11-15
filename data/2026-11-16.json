@@ -1,1 +1,184 @@
-PLACEHOLDER_AGAIN
+{
+  "date": "2026-11-16",
+  "number": 311,
+  "label": "16 November 2026",
+  "title": "Femení rescue late point at Riazor; Rodri targets Atlético return; lucky international break",
+  "deck": "Van Asten equalises in the 101st minute as Barça Femení draw 1-1 at Deportivo. AS reports Rodri is ahead of schedule and could return against Atlético on 2 December. Raphinha stays with Brazil while De Jong returns early to Barcelona.",
+  "stories": [
+    {
+      "kicker": "Femení",
+      "headline": "Van Asten heads late equaliser as Femení draw 1-1 at Riazor",
+      "summary": "Barcelona Femení rescued a point in the 101st minute at Deportivo Abanca. Vega Montesinos put the hosts ahead after the break. Renée van Asten equalised with a header from Patri’s cross after the referee added extra time beyond the initial eight minutes. It was the side’s second draw in a week after the 1-1 with Arsenal.",
+      "body": "Pere Romeu made nine changes from the Champions League draw. The first half finished 0-0 despite Barcelona’s control. Deportivo broke on the counter in the 48th minute when Vega finished at the far post. Romeu introduced Van Asten at half-time and later brought on Pina and Pajor. A long VAR review confirmed the equaliser. Deportivo released a statement criticising the added time. Barcelona remain four points clear of Real Madrid at the top of Liga F. The side had not dropped consecutive points in official matches since May 2019.",
+      "sources": [
+        {
+          "label": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261115/1004251370/1-1-resaca-europea-empate-agonico-barca-riazor.html"
+        },
+        {
+          "label": "FC Barcelona",
+          "url": "https://www.fcbarcelona.cat/ca/futbol/femeni-a/noticies/4609457/deportivo--barca-empat-in-extremis-a-riazor-1-1"
+        }
+      ],
+      "tweets": [
+        {
+          "id": "2122051716560638047",
+          "handle": "mundodeportivo",
+          "name": "Mundo Deportivo",
+          "text": "1-1: Resaca europea y empate agónico del Barça en Riazor"
+        },
+        {
+          "id": "2122059058588819925",
+          "handle": "FCBfemeni",
+          "name": "FC Barcelona Femení",
+          "text": "🎙️ Les declaracions després del partit."
+        }
+      ]
+    },
+    {
+      "kicker": "Injury",
+      "headline": "Rodri recovery ahead of schedule, Atlético on 2 December the target",
+      "summary": "AS reports Rodri Hernández is progressing better than expected from the right biceps femoris injury suffered against Aston Villa on 3 November. The medical staff have moved the target return from 8 December against Manchester City to the visit of Atlético Madrid on 2 December. He could receive limited minutes against Deportivo on 29 November.",
+      "body": "Initial club estimates pointed to four or five weeks out. The positive response in rehabilitation has shortened that timeline. Diario AS first reported the updated plan. SPORT had earlier indicated a return around the one-month mark. Rodri will miss Villarreal on 22 November and the Champions League fixture against Sabah. Hansi Flick’s midfield options improve if the Spain international is available for the Atlético match, which has been brought forward because of Super Cup commitments.",
+      "sources": [
+        {
+          "label": "AS",
+          "url": "https://as.com/futbol/primera/optimismo-con-rodri-f202611-n/"
+        },
+        {
+          "label": "Estadio Deportivo",
+          "url": "https://www.estadiodeportivo.com/futbol/barcelona/rodri-hernandez-acelera-los-plazos-y-ya-tiene-fecha-de-reaparicion-20261115-550718.html"
+        }
+      ],
+      "tweets": [
+        {
+          "id": "2122044462595805538",
+          "handle": "sport",
+          "name": "Diario SPORT",
+          "text": "🔜 Rodri podría reaparecer ante el Atlético de Madrid"
+        }
+      ]
+    },
+    {
+      "kicker": "Internationals",
+      "headline": "Break works in Barça’s favour as key players limit minutes",
+      "summary": "Raphinha’s red card rules him out of Brazil’s Singapore friendly. Frenkie de Jong returned to Barcelona after half an hour of discomfort with the Netherlands. Lamine Yamal started against England after missing Czechia. Eric García, Christensen and Adeyemi were not called up and stayed in Barcelona.",
+      "body": "Supporters and analysts noted the contrast with previous international windows that produced injuries. Yamal wore the number 10 for Spain at the Metropolitano. Pedri was managed carefully by Luis de la Fuente. Cancelo accumulated yellow cards. The squad is expected to regroup for training this week ahead of Villarreal on 22 November at Spotify Camp Nou. Flick will assess De Jong on his return.",
+      "sources": [
+        {
+          "label": "Barca Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-internationals"
+        }
+      ],
+      "tweets": [
+        {
+          "id": "2121850497992716360",
+          "handle": "Extremefelo",
+          "name": "FELO",
+          "text": "This might genuinely be Barcelona’s luckiest international break!"
+        }
+      ]
+    },
+    {
+      "kicker": "Brazil",
+      "headline": "CBF will not release Raphinha early despite suspension",
+      "summary": "Rodrigo Caetano, executive director of Brazil’s national teams, confirmed Raphinha will stay with the squad in Singapore even though he is suspended for the next friendly. The Barcelona captain was sent off alongside Carlo Ancelotti after Japan’s stoppage-time winner.",
+      "body": "Fernando Polo of Mundo Deportivo reported Caetano’s comments after the 3-2 defeat. Raphinha played 71 minutes and apologised for the dismissal while criticising the referee. He had spoken with Ancelotti about managing his minutes after signing a new deal until 2030 at Barcelona. The club expects him back next week and available for Villarreal if there are no further issues. Brazil face Singapore on Tuesday.",
+      "sources": [
+        {
+          "label": "AS",
+          "url": "https://as.com/futbol/internacional/tension-brasil-barcelona-raphinha-no-es-liberado-f202611-n/"
+        }
+      ],
+      "tweets": [
+        {
+          "id": "2121635113532616895",
+          "handle": "ffpolo",
+          "name": "Fernando Polo",
+          "text": "El director ejecutivo general de las selecciones de la CBF, Rodrigo Caetano, dice que NO LIBERAN a Raphinha para que regrese a Barcelona pese a haber sido expulsado contra Japón."
+        }
+      ]
+    },
+    {
+      "kicker": "Netherlands",
+      "headline": "De Jong back in Barcelona after precautionary release",
+      "summary": "Frenkie de Jong left the Netherlands camp and returned to Barcelona. The Dutch federation ruled him out of the Nations League match against Germany with minor back discomfort. He captained the side against Greece and was withdrawn at half-time.",
+      "body": "Xavi Hernández had hoped he would be available for Berlin. The KNVB decided the fixture came too soon and no replacement was called up. Barcelona’s medical staff will examine him on Monday. De Jong missed the start of the season with a knee injury. His status for Villarreal depends on the results of the checks. Netherlands top their Nations League group.",
+      "sources": [
+        {
+          "label": "NOS",
+          "url": "https://nos.nl/artikel/2639482-niet-fitte-de-jong-mist-nations-league-duel-oranje-met-duitsland"
+        }
+      ],
+      "tweets": [
+        {
+          "id": "2121650290671927333",
+          "handle": "FlashscoreES",
+          "name": "Flashscore.esp",
+          "text": "De Jong abandona la concentración de la Oranje y será baja ante Alemania"
+        }
+      ]
+    },
+    {
+      "kicker": "Spain",
+      "headline": "Yamal starts against England after knee recovery",
+      "summary": "Lamine Yamal started for Spain against England at the Metropolitano. Luis de la Fuente said the forward was in perfect condition after missing the Czechia match with right-knee inflammation. Pau Cubarsí also started in defence.",
+      "body": "Yamal joined the camp on Friday after remaining in Barcelona for treatment. He wore the number 10. Spain had already qualified for the quarter-finals. England needed a win to overtake them at the top of the group. Anthony Gordon started for England. The result will determine the final group standings. Cubarsí played the full match against Czechia earlier in the window.",
+      "sources": [
+        {
+          "label": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/nov/14/lamine-yamal-luis-de-la-fuente-spain-england-club-country"
+        },
+        {
+          "label": "FC Barcelona",
+          "url": "https://www.fcbarcelona.com/en/football/first-team/news"
+        }
+      ],
+      "tweets": [
+        {
+          "id": "2121692146533318842",
+          "handle": "Eurosport_ES",
+          "name": "Eurosport.es",
+          "text": "Luis de la Fuente despeja dudas sobre el estado físico de Lamine Yamal para el duelo ante Inglaterra. Está en perfectas condiciones"
+        }
+      ]
+    },
+    {
+      "kicker": "Atlètic",
+      "headline": "Four Barça Atlètic players face Monday medicals after Girona B defeat",
+      "summary": "Dani Ávila, Ibrahim Diarra, Juwensley Onstein and Hafiz Gariba will undergo medical tests on Monday. All four left the 0-1 home defeat to Girona B with hamstring issues. Juliano Belletti’s side already had more than 20 absences.",
+      "body": "Ávila was forced off before the fifth minute on his return from a serious knee injury. Diarra lasted around ten minutes after coming on. Onstein and Gariba also finished with discomfort. SPORT and Mundo Deportivo reported the concerns. The B team host Can Vidalet in the Copa Catalunya on Wednesday and face the filial derby on Saturday. Belletti described the fixture list as forcing the team to play when it should not have.",
+      "sources": [
+        {
+          "label": "SPORT",
+          "url": "https://www.sport.es/es/noticias/barca/preocupacion-barca-ibrahim-diarra-dani-avila-hafiz-gariba-pruebas-136471982"
+        },
+        {
+          "label": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261115/1004251190/lunes-pruebas-medicas-avila-diarra-onstein-gariba.html"
+        }
+      ],
+      "tweets": [
+        {
+          "id": "2122049496763023568",
+          "handle": "sport",
+          "name": "Diario SPORT",
+          "text": "😥 Preocupación en el Barça con Ibrahim Diarra"
+        }
+      ]
+    },
+    {
+      "kicker": "Club",
+      "headline": "Squad expected back this week with Villarreal next",
+      "summary": "Barcelona’s next match is at home to Villarreal on 22 November. Most internationals return this week. The club listed five remaining home fixtures at Spotify Camp Nou before the end of 2026: Villarreal, Atlético Madrid, Manchester City, Celta and Real Sociedad.",
+      "body": "Training resumes once the remaining national-team players land. The €300 million bond issue closed last week to complete the Camp Nou renovation. The stadium is scheduled for full capacity in 2028-29 and will host the 2029 Champions League final. Flick’s first session after the break will include assessments for De Jong and any other minor issues from the window.",
+      "sources": [
+        {
+          "label": "FC Barcelona",
+          "url": "https://www.fcbarcelona.com/en/news"
+        }
+      ],
+      "tweets": []
+    }
+  ]
+}
