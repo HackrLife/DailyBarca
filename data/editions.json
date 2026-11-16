@@ -1,6 +1,14 @@
 {
   "editions": [
     {
+      "number": 312,
+      "date": "2026-11-17",
+      "label": "17 November 2026",
+      "file": "2026-11-17.json",
+      "lead": "Cubarsí doubt for Villarreal with psoas overload; De Jong available; Olmo in group training",
+      "tweets": 5
+    },
+    {
       "number": 311,
       "date": "2026-11-16",
       "label": "16 November 2026",
