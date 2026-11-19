@@ -1,1 +1,86 @@
-PLACEHOLDER_EDITION
+{
+  "date": "2026-11-20",
+  "edition": 315,
+  "cards": [
+    {
+      "headline": "Koundé trains with the group for the first time in a month; Cubarsí joins partial session",
+      "summary": "Jules Koundé completed part of Thursday’s session at the Ciutat Esportiva with the full group after more than a month out with an ankle sprain suffered against Betis on 17 October. Pau Cubarsí, who left Spain’s Nations League game against England with an iliopsoas overload, also took part in the opening work.\n\nCadena SER and Mundo Deportivo both reported the Frenchman is expected to be available for Villarreal on Sunday at 14:00. The club posted “Kounde is back training with the team!” and later “One step closer to a comeback!” Raphinha and the remaining internationals also returned; only Rodri and Espart remain fully unavailable. Flick will manage the loads carefully across the next three matches.",
+      "sources": [
+        {"name": "Cadena SER", "url": "https://cadenaser.com/nacional/2026/11/19/kounde-y-el-resto-de-internacionales-ya-entrenan-con-el-barca-cadena-ser/"},
+        {"name": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261119/1004252779/foco-kounde-cuenta-volver.html"},
+        {"name": "MARCA", "url": "https://www.marca.com/futbol/barcelona/2026/11/19/cubarsi-kounde-suman-grupo.html"}
+      ],
+      "tweets": [
+        {"id": "2123416014964899891", "handle": "FCBarcelona"},
+        {"id": "2123506600455405834", "handle": "FCBarcelona"}
+      ]
+    },
+    {
+      "headline": "Xavi Espart signs until 2030 with Laporta at 13:30",
+      "summary": "The 19-year-old La Masia product will put pen to paper this afternoon in Joan Laporta’s office at the Spotify Camp Nou commercial offices, extending the deal that was agreed in early October. Mundo Deportivo confirmed the timing on Thursday after first reporting the agreement.\n\nEspart, who scored against PSG and has started on both flanks for Flick, is currently recovering from the syndesmosis injury picked up in the Clásico on 25 October. The club expects him out for around seven weeks. He will pose with a 2030 shirt and speak to the media afterwards, following the same format as Raphinha’s extension. His previous contract ran until 2028.",
+      "sources": [
+        {"name": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261119/1004252895/confirmado-xavi-espart-renueva-barca-viernes-avanzo-md.html"},
+        {"name": "SPORT", "url": "https://www.sport.es/es/noticias/barca/oficial-xavi-espart-renueva-barcelona-2030-136603752"},
+        {"name": "Europa Press", "url": "https://www.europapress.es/deportes/futbol-00162/noticia-xavi-espart-firma-viernes-renovacion-barca-2030-20261119121812.html"}
+      ],
+      "tweets": [
+        {"id": "2123361809134440907", "handle": "mundodeportivo"}
+      ]
+    },
+    {
+      "headline": "Full internationals back; Flick has almost the whole squad available",
+      "summary": "Raphinha, De Jong, Cubarsí and the rest of the internationals rejoined the group on Thursday after the break. De Jong and Cubarsí worked only the opening part of the session. Dani Olmo is also back after his adductor issue.\n\nCadena SER noted that Flick will have to manage the returns carefully across a stretch that includes Villarreal on Sunday, Sabah in Baku on Wednesday and Deportivo the following weekend. Only Rodri (hamstring) and Espart remain out of the senior group. Eric García and Christensen continue their recovery and are available for selection.",
+      "sources": [
+        {"name": "Cadena SER", "url": "https://cadenaser.com/nacional/2026/11/19/kounde-y-el-resto-de-internacionales-ya-entrenan-con-el-barca-cadena-ser/"},
+        {"name": "El Nacional", "url": "https://www.elnacional.cat/es/deportes/doble-alegria-flick-recupera-dos-piezas-clave-defensa-antes-recibir-villarreal_1728161_102.html"}
+      ],
+      "tweets": []
+    },
+    {
+      "headline": "Villarreal visit on Sunday at 14:00; nine games in the next month",
+      "summary": "Barça host Villarreal on Sunday at Spotify Camp Nou at 14:00 as they look to protect a three-point lead over Real Madrid. The Yellow Submarine arrive as one of the more physical and shot-heavy sides in the league this season.\n\nFrom 22 November to 20 December the side face nine matches, seven of them at home. The sequence includes Champions League trips to Sabah and later Manchester City, plus Atlético at home and the Copa del Rey round of 32. Flick has already flagged the need to rotate and protect the players who returned from international duty.",
+      "sources": [
+        {"name": "El Confidencial", "url": "https://www.elconfidencial.com/deportes/futbol/2026-11-19/barca-lamine-yamal-pedri-raphinha-de-jong-cubarsi_4467451/"},
+        {"name": "Goal", "url": "https://www.goal.com/en/news/relief-amid-a-crippling-crisis-flick-regains-barcelona-star-ahead-of-villarreal-clash/bltcb22b22bae02aee0"}
+      ],
+      "tweets": []
+    },
+    {
+      "headline": "Femení host Servette in Champions League looking to bounce back",
+      "summary": "Barça Femení face Servette at the Estadi Johan Cruyff on Thursday night in the fifth round of the UEFA Women’s Champions League. The side have drawn their last two matches, against Arsenal and Deportivo, and sit level on points at the top of their group.\n\nPere Romeu has stressed that the notes will be given at the end of the season and that the short squad has limited rotation options. Aitana Bonmatí is available and expected to start. The match is the first of a busy week that also includes a league fixture at the weekend.",
+      "sources": [
+        {"name": "SPORT", "url": "https://www.sport.es/es/noticias/barca/futbol-femenino/pere-romeu-noviembre-pondreis-notas-136577409"},
+        {"name": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261119/1004253053/barca-servette-directo-champions-league-futbol-femenino.html"}
+      ],
+      "tweets": [
+        {"id": "2123503134492279035", "handle": "mundodeportivo"}
+      ]
+    },
+    {
+      "headline": "Deco leaves January centre-back door open after injury run",
+      "summary": "Sporting director Deco told Catalunya Ràdio that the injury list forces the club to evaluate whether to move in the January market for a centre-back. He named Bastoni, Schlotterbeck and Lisandro Martínez among the profiles that have been discussed.\n\nDeco also said Luis Díaz was the signing that hurt most in the summer and confirmed Balde is not planned for a January exit. The comments come as Espart remains out until mid-December and Koundé and Cubarsí are only just returning to full work. No decision has been taken yet.",
+      "sources": [
+        {"name": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/"},
+        {"name": "Barca Blaugranes", "url": "https://www.barcablaugranes.com/barcelona-news/138383/fc-barcelona-news-19-november-2026-barca-femeni-champions-league-deco-plan-center-back-january"}
+      ],
+      "tweets": []
+    },
+    {
+      "headline": "Rodri still out; recovery continues for the midfield group",
+      "summary": "Rodri remains sidelined with the minor right-hamstring issue that kept him out of the Atlético match. The club have not given a firm return date, though earlier updates pointed to the game against Atlético on 2 December as a possible target.\n\nDe Jong trained partially on Thursday after the obturator stretch that forced him to leave the Germany camp early. Pedri and Gavi are expected to be managed carefully across the next fortnight as the fixture list piles up. Flick has repeatedly said he will not risk anyone who is not fully ready.",
+      "sources": [
+        {"name": "MARCA", "url": "https://www.marca.com/futbol/barcelona/2026/11/19/cubarsi-kounde-suman-grupo.html"}
+      ],
+      "tweets": []
+    },
+    {
+      "headline": "Handball side thrash Kielce 32-24 to open main round",
+      "summary": "Barça Handbol beat Kielce 32-24 away in their first match of the Champions League main round, setting a competition record for the highest-scoring away win in the new format. Carlos Ortega’s side controlled the game after a strong second half.\n\nThe result continues a strong European start for the indoor side. They return to the Palau for the next home fixture later this month. The win was highlighted by both SPORT and Mundo Deportivo on Thursday evening.",
+      "sources": [
+        {"name": "SPORT", "url": "https://www.sport.es/es/noticias/deportes/balonmano/barca-deberes-estreno-main-round-136631227"},
+        {"name": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/balonmano/20261119/1004253120/24-32-soberbio-barca-kielce-dia-historico-champions-record-absoluto.html"}
+      ],
+      "tweets": []
+    }
+  ]
+}
