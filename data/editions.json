@@ -1,1 +1,20 @@
-PLACEHOLDER_EDITIONS
+{
+  "editions": [
+    {
+      "number": 315,
+      "date": "2026-11-20",
+      "label": "20 November 2026",
+      "file": "2026-11-20.json",
+      "lead": "Koundé and Cubarsí return to group training; Espart signs until 2030 today",
+      "tweets": 4
+    },
+    {
+      "number": 314,
+      "date": "2026-11-19",
+      "label": "19 November 2026",
+      "file": "2026-11-19.json",
+      "lead": "Espart signs until 2030 on Friday; Deco names Luis Díaz as the one that hurt most",
+      "tweets": 5
+    }
+  ]
+}
