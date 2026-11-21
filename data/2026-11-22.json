@@ -1,1 +1,83 @@
-PLACEHOLDER_CARDS
+{
+  "date": "2026-11-22",
+  "edition": 317,
+  "cards": [
+    {
+      "headline": "Flick rules Christensen out for two matches and parks Cubarsí on the bench",
+      "summary": "Hansi Flick confirmed on Saturday that Andreas Christensen will miss the next two matches after discomfort in the soleus of his left leg. The Dane felt the issue at the start of the week and stayed out of Saturday’s session.\n\nPau Cubarsí’s iliopsoas overload is minor, but the coach said the 19-year-old will almost certainly begin on the bench against Villarreal. De Jong, Olmo and Koundé are available. The side host the Yellow Submarine at Spotify Camp Nou at 14:00.",
+      "sources": [
+        {"name": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"},
+        {"name": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261121/1004253641/rueda-prensa-flick-ultima-hora-fc-barcelona.html"},
+        {"name": "SPORT", "url": "https://www.sport.es/es/noticias/barca/rueda-prensa-hansi-flick-directo-136691577"}
+      ],
+      "tweets": [
+        {"id": "2124115337415209453", "handle": "FCBarcelona_es"}
+      ]
+    },
+    {
+      "headline": "De Jong, Olmo and Koundé complete the final session and are ready",
+      "summary": "Frenkie de Jong, Dani Olmo and Jules Koundé trained with the group on Saturday at the Ciutat Esportiva and Flick named all three available for Villarreal.\n\nOlmo returns after the left-adductor tear suffered at PSG on 20 October. Koundé has been out since the ankle sprain against Betis on 17 October. De Jong left the Netherlands camp early with an obturator stretch but is fit. Only Rodri, Espart, Bardghji and Christensen remain unavailable.",
+      "sources": [
+        {"name": "AS", "url": "https://as.com/futbol/luz-verde-para-kounde-frenkie-cubarsi-y-olmo-f202611-n/"},
+        {"name": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261121/1004253654/imagenes-entrenamiento-barca-enfrentar-villareal.html"}
+      ],
+      "tweets": [
+        {"id": "2124115337415209453", "handle": "FCBarcelona_es"}
+      ]
+    },
+    {
+      "headline": "Flick says he is not worried about Real Madrid as Barça defend a three-point lead",
+      "summary": "Hansi Flick told reporters on Saturday that Real Madrid do not concern him. Barça lead La Liga on 33 points after 12 matches, three ahead of José Mourinho’s side.\n\n“I don’t care what Madrid does because we have a three-point lead and we want to keep it,” he said. The Clásico defeat is in the past. The focus is Villarreal at 14:00, a side he called a great team with a coach of real future in Íñigo Pérez.",
+      "sources": [
+        {"name": "dpa", "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:261121-930-31055/"},
+        {"name": "MARCA", "url": "https://www.marca.com/futbol/barcelona/2026/11/21/6b017fe6020dbf8b21fb0882-directo.html"}
+      ],
+      "tweets": []
+    },
+    {
+      "headline": "Barça host Villarreal at Spotify Camp Nou at 14:00 to protect top spot",
+      "summary": "Barça face Villarreal in La Liga matchday 13 at Spotify Camp Nou on Sunday at 14:00. The leaders have 33 points from 11 wins and one defeat and have scored 48 goals.\n\nVillarreal sit eighth on 15 points and arrive after a win over Getafe. Íñigo Pérez has not beaten Barça in five previous meetings. The match opens a run of nine games in under a month, including a Champions League trip to Baku on Wednesday.",
+      "sources": [
+        {"name": "Europa Press", "url": "https://www.europapress.es/deportes/futbol-00162/noticia-barca-pone-prueba-fortaleza-villarreal-mira-europa-20261121180050.html"},
+        {"name": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news/4612344/last-session-before-villarreal"}
+      ],
+      "tweets": []
+    },
+    {
+      "headline": "Last training session includes youth players as Christensen stays in the gym",
+      "summary": "Barça completed their final session before Villarreal on Saturday at the Tito Vilanova pitch. Available first-team players trained while Christensen remained in the gym with the soleus issue.\n\nMax Bonfill of Barça Atlètic and Juvenil B players Mika Baza and Noah García joined the work. Rodri, Espart and Bardghji also stayed out. The group are ready to defend the league lead at home.",
+      "sources": [
+        {"name": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news/4612344/last-session-before-villarreal"},
+        {"name": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/videos/futbol/20261121/1004253699/barca-cuenta-dos-jovenes-promesas-confirma-baja-christensen.html"}
+      ],
+      "tweets": []
+    },
+    {
+      "headline": "Eric García and Gerard Martín set for the centre-back pairing",
+      "summary": "With Christensen ruled out and Cubarsí expected on the bench, Eric García and Gerard Martín are the leading options at centre-back for Villarreal.\n\nKoundé is available and could start at right-back or in a rotated defence. De Jong offers cover in midfield or even at the back. Flick said he must manage minutes carefully across the congested schedule that begins at 14:00 today.",
+      "sources": [
+        {"name": "El Periódico", "url": "https://www.elperiodico.com/es/deportes/20261121/flick-previa-barcelona-villarreal-liga-rueda-de-prensa-136694385"},
+        {"name": "MARCA", "url": "https://www.marca.com/futbol/barcelona/2026/11/21/enfermeria-barcelona-partido-villarreal.html"}
+      ],
+      "tweets": []
+    },
+    {
+      "headline": "Cubarsí and Cata Coll receive the Premio Barça Jugadors 2026",
+      "summary": "Pau Cubarsí and Cata Coll were named winners of the Premio Barça Jugadors 2026. The award recognises the contribution of first-team players across the season.\n\nCubarsí collected the prize while managing a minor psoas issue that will keep him on the bench against Villarreal. El Periódico reported the presentation on Saturday. The 19-year-old remains one of the central figures in Flick’s defence.",
+      "sources": [
+        {"name": "El Periódico", "url": "https://www.elperiodico.com/es/deportes/20261121/pau-cubarsi-cata-coll-reciben-136692686"}
+      ],
+      "tweets": [
+        {"id": "2124233141078372857", "handle": "elperiodico"}
+      ]
+    },
+    {
+      "headline": "Nine matches in under a month begin with the Villarreal lunchtime kick-off",
+      "summary": "Sunday’s 14:00 match against Villarreal opens a run of nine games in less than a month for Hansi Flick’s side. After the home fixture comes the Champions League trip to Sabah in Baku on Wednesday.\n\nFurther league games follow against Deportivo and Atlético. Flick said managing minutes is essential and that the group are in a good moment. The three-point lead over Madrid is the immediate target to protect.",
+      "sources": [
+        {"name": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news/4612344/last-session-before-villarreal"}
+      ],
+      "tweets": []
+    }
+  ]
+}
