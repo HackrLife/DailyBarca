@@ -216,9 +216,9 @@
   "round": 13,
   "home": "FC Barcelona",
   "away": "Villarreal",
-  "score": null,
-  "status": "notstarted",
-  "source": "Apify crawlstone/sofascore-football-scraper teamDetails 2817, run q7khsY5HJt2IMbm4L, dataset chaI0iUY1nb3s8Ioq, 2026-11-16T23:36Z (page 1 historical + page 1 upcoming)"
+  "score": "3-2",
+  "status": "finished",
+  "source": "Apify crawlstone/sofascore-football-scraper teamDetails 2817, run q7khsY5HJt2IMbm4L, dataset chaI0iUY1nb3s8Ioq, 2026-11-16T23:36Z (page 1 historical + page 1 upcoming); result confirmed teamDetails run N9VMpkmStBmXsxl1J, dataset khvhb8A7scfjHaJFE, 2026-11-22T23:35Z"
  },
  {
   "eventId": 16939014,
