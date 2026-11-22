@@ -1,1 +1,19 @@
-PLACEHOLDER
+{
+  "date": "2026-11-23",
+  "edition": 318,
+  "cards": [
+    {
+      "headline": "Barça come from two goals down to beat Villarreal 3-2 and stay top of La Liga",
+      "summary": "Hansi Flick’s side overturned a two-goal deficit to beat Villarreal 3-2 at Spotify Camp Nou on Sunday and restore their three-point lead over Real Madrid. Tajon Buchanan scored after five minutes and Tani Oluwaseyi doubled the lead two minutes later.\n\nGerard Martín headed the first of the comeback on 57 minutes from Pedri’s cross. Fermín López levelled on 61 from Lamine Yamal’s pass, and Pau Navarro’s own goal on 67 completed the turnaround. Barça sit on 36 points from 13 matches.",
+      "sources": [
+        {"name": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"},
+        {"name": "Reuters", "url": "https://www.reuters.com/sports/soccer/barcelona-retain-advantage-atop-laliga-after-comeback-win-over-villarreal-2026-11-22/"},
+        {"name": "The Guardian", "url": "https://www.theguardian.com/football/2026/nov/22/european-football-barcelona-villarreal-juventus-milan-inter"}
+      ],
+      "tweets": [
+        {"id": "2124593761862967339", "handle": "FCBarcelona"},
+        {"id": "2124593761397424181", "handle": "FCBarcelona_es"}
+      ]
+    }
+  ]
+}
