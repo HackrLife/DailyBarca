@@ -14,6 +14,19 @@
         {"id": "2124593761862967339", "handle": "FCBarcelona"},
         {"id": "2124593761397424181", "handle": "FCBarcelona_es"}
       ]
+    },
+    {
+      "headline": "Flick calls the second-half reaction unbelievable and singles out Pedri",
+      "summary": "Hansi Flick told reporters after the match that the reaction was unbelievable after a poor start in which Barça held the ball too long and conceded two goals. He said the side improved the structure at half-time and scored three times in around ten minutes.\n\nThe coach described Pedri’s performance as one of his best, praising the way he controlled the midfield and raised the tempo. Marc Bernal and Fermín also received mentions for the way the group stayed together when two down.",
+      "sources": [
+        {"name": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news/4612760/hansi-flick-an-incredible-reaction"},
+        {"name": "ESPN", "url": "https://www.espn.com/soccer/story/_/id/50562953/barcelona-villarreal-la-liga-hansi-flick-refereeing"},
+        {"name": "Samuel Marsden", "url": "https://www.espn.com/soccer/story/_/id/50562953/barcelona-villarreal-la-liga-hansi-flick-refereeing"}
+      ],
+      "tweets": [
+        {"id": "2124567754296758345", "handle": "samuelmarsden"},
+        {"id": "2124537645695123606", "handle": "polballus"}
+      ]
     }
   ]
 }
