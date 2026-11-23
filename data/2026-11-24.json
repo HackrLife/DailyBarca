@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-24",
+  "edition": 319,
+  "cards": [
+    {
+      "headline": "Lamine Yamal stays in Barcelona with mild right-ankle discomfort and misses Sabah",
+      "summary": "FC Barcelona confirmed on Monday that Lamine Yamal will not travel to Baku. The club said the 19-year-old is experiencing mild discomfort in his right ankle and, as a precaution, will miss Wednesday’s Champions League match against Sabah.\n\nHe played the full 90 minutes in Sunday’s 3-2 comeback win over Villarreal. The statement added that he is expected to be available for next Sunday’s La Liga trip to Deportivo. Yamal has started all 17 of Bar\u00e7a’s matches this season.",
+      "sources": [
+        {"name": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"},
+        {"name": "Reuters", "url": "https://www.reuters.com/sports/soccer/lamine-yamal-miss-barcelona-champions-league-clash-against-sabah-2026-11-23/"},
+        {"name": "El Pa\u00eds", "url": "https://elpais.com/deportes/futbol/2026-11-23/lamine-yamal-baja-ante-el-sabah-por-unas-molestias-en-el-tobillo.html"}
+      ],
+      "tweets": [
+        {"id": "2124796147667509341", "handle": "FCBarcelona"},
+        {"id": "2124795799041392698", "handle": "FCBarcelona_es"}
+      ]
+    },
+    {
+      "headline": "Squad lands in Baku after the longest European trip in the club’s history",
+      "summary": "The Bar\u00e7a expedition, led by president Joan Laporta, arrived in Baku on Monday evening after a flight of roughly four hours and twenty minutes. The distance is about 3,970 kilometres, the longest European journey the club has ever made.\n\nAround 400 people welcomed the party at the private terminal. Raphinha, Pedri, De Jong and Hansi Flick drew the loudest reception. The group moved to the Ritz-Carlton. Yamal remained in Barcelona with the ankle issue.",
+      "sources": [
+        {"name": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261123/1004254617/barca-llega-baku-viaje-medio-gran-expectacion.html"},
+        {"name": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/news/4613109/squad-for-the-trip-to-baku/"},
+        {"name": "GOAL", "url": "https://www.goal.com/en/news/flick-plays-it-smart-as-barcelona-reach-the-furthest-point-in-their-european-history/bltf7b4d22eda8eae7b"}
+      ],
+      "tweets": [
+        {"id": "2124919702379966734", "handle": "FCBarcelona"},
+        {"id": "2124919897943646631", "handle": "FCBarcelona_es"}
+      ]
+    },
+    {
+      "headline": "Flick names a 22-man squad that includes Bisiwu and leaves Yamal at home",
+      "summary": "Hansi Flick took 22 players to Azerbaijan. Goalkeepers Joan Garc\u00eda, Wojciech Szcz\u0119sny and Dominik Livakovi\u0107 travel. The defence has Cancelo, Balde, Cubars\u00ed, Gerard Mart\u00edn, Kound\u00e9, Eric Garc\u00eda and \u00c0lex Campos.\n\nMidfield and attack list Pedri, Gavi, De Jong, Bernal, Ferm\u00edn L\u00f3pez, Fari\u00f1as, Olmo, Raphinha, Gabriel Jesus, Adeyemi, Gordon and Jesse Bisiwu. Absent are Yamal, Hamza, Christensen, Espart, Bardghji and Rodri. Bisiwu earns his first senior call-up.",
+      "sources": [
+        {"name": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/news/4613109/squad-for-the-trip-to-baku/"},
+        {"name": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261123/1004254448/bisiwu-novedad-lista-flick-baku.html"},
+        {"name": "MARCA", "url": "https://www.marca.com/futbol/barcelona/2026/11/23/lista-convocados-barca-baku-lamine-cubarsi.html"}
+      ],
+      "tweets": [
+        {"id": "2124825728948765086", "handle": "FCBarcelona"}
+      ]
+    },
+    {
+      "headline": "Jesse Bisiwu receives his first official first-team call-up for the Sabah trip",
+      "summary": "Eighteen-year-old Belgian winger Jesse Bisiwu travels with the senior squad for the first time in an official competition. He joined from Club Brugge in the summer for around \u20ac8.5 million and has been playing with Bar\u00e7a Atl\u00e8tic in the Segunda Federaci\u00f3n.\n\nSPORT reported that the call-up fills the gap left by Yamal and Hamza. Bisiwu has started all eight of his reserve appearances this season. Flick had already given him first-team minutes in pre-season, including two goals against Basel.",
+      "sources": [
+        {"name": "SPORT", "url": "https://www.sport.es/es/noticias/barca/gran-salto-esperaba-bisiwu-primera-136746220"},
+        {"name": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261123/1004254448/bisiwu-novedad-lista-flick-baku.html"}
+      ],
+      "tweets": []
+    },
+    {
+      "headline": "Cubars\u00ed travels after the psoas issue; Christensen, Espart and Rodri stay out",
+      "summary": "Pau Cubars\u00ed is among the 22 players who flew to Baku. He had been managing a minor iliopsoas overload and remained on the bench against Villarreal. Andreas Christensen is still missing with the left soleus problem that will keep him out for two matches.\n\nXavi Espart and Rodri also remain unavailable. The back line options in Azerbaijan therefore centre on Cubars\u00ed, Eric Garc\u00eda, Gerard Mart\u00edn and Kound\u00e9, with Cancelo and Balde covering the flanks.",
+      "sources": [
+        {"name": "MARCA", "url": "https://www.marca.com/futbol/barcelona/2026/11/23/lista-convocados-barca-baku-lamine-cubarsi.html"},
+        {"name": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/news/4613109/squad-for-the-trip-to-baku/"}
+      ],
+      "tweets": []
+    },
+    {
+      "headline": "Ferm\u00edn L\u00f3pez travels to Baku but faces a ban for the Deportivo match",
+      "summary": "Ferm\u00edn L\u00f3pez is part of the 22-man squad that landed in Baku. He scored the equaliser against Villarreal on 61 minutes before being shown a red card from the bench in the 74th minute for protesting to the fourth official.\n\nMundo Deportivo reported that the referee’s report cited repeated use of the phrase “No me jodas”. A two-match suspension would rule him out of Sunday’s visit to Deportivo and the rearranged league game against Atl\u00e9tico on 2 December. The club is expected to appeal.",
+      "sources": [
+        {"name": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261122/1004254121/fermin-expulsado-estando-banquillo.html"},
+        {"name": "MARCA", "url": "https://www.marca.com/futbol/barcelona/2026/11/22/fermin-vio-roja-decir-me-jodas-cuarto-arbitro.html"}
+      ],
+      "tweets": []
+    },
+    {
+      "headline": "Official accounts post the arrival: Hello, Baku and long-flight images",
+      "summary": "FC Barcelona’s English account posted “Hello, Baku” with video of the landing. The Spanish account followed with “Hemos aterrizado en Bak\u00fa”. Earlier posts showed the departure from Barcelona and the length of the flight.\n\nThe club also published the full squad list under the hashtag #SabahBar\u00e7a. A later image showed Raphinha ready for the Champions League. The posts marked the halfway point of the league phase, with Bar\u00e7a fifth on nine points after three wins and one defeat.",
+      "sources": [
+        {"name": "FC Barcelona", "url": "https://x.com/FCBarcelona/status/2124919702379966734"},
+        {"name": "FC Barcelona", "url": "https://x.com/FCBarcelona_es/status/2124919897943646631"}
+      ],
+      "tweets": [
+        {"id": "2124919702379966734", "handle": "FCBarcelona"},
+        {"id": "2124837890643390718", "handle": "FCBarcelona"}
+      ]
+    },
+    {
+      "headline": "Training set for 17:00 local time on Tuesday at the Baku Olympic Stadium",
+      "summary": "Because of the five-hour flight and the three-hour time difference, the squad will not train on Monday. Hansi Flick has scheduled the session for Tuesday at 17:00 local time at the Baku Olympic Stadium, the venue for Wednesday’s match.\n\nFlick and one player will face the media 45 minutes before the session. Kick-off against Sabah is Wednesday at 18:45 Spanish time (21:45 local). A win would strengthen Bar\u00e7a’s position in the race for a top-eight finish.",
+      "sources": [
+        {"name": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261123/1004254258/plan-viaje-barca-baku-estancia-azerbaiyan.html"},
+        {"name": "\u0130dman v\u0259 Biz", "url": "https://www.idman.biz/en/news/az-football/168159"}
+      ],
+      "tweets": []
+    },
+    {
+      "headline": "Bar\u00e7a sit fifth in the Champions League league phase heading into the Sabah match",
+      "summary": "After three wins and a defeat in the opening four matches of the league phase, Bar\u00e7a are fifth on nine points. Sabah occupy 31st place with three points.\n\nWednesday’s fixture is the longest trip of the season and the first of four remaining league-phase games. Flick has already flagged the need to manage minutes. The next league match after the return is the visit to Deportivo on 29 November, with Yamal expected back.",
+      "sources": [
+        {"name": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/news/4613109/squad-for-the-trip-to-baku/"},
+        {"name": "Reuters", "url": "https://www.reuters.com/sports/soccer/lamine-yamal-miss-barcelona-champions-league-clash-against-sabah-2026-11-23/"}
+      ],
+      "tweets": []
+    }
+  ]
+}
