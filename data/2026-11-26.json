@@ -1,105 +1,103 @@
 {
   "date": "2026-11-26",
-  "edition": 321,
-  "cards": [
+  "number": 321,
+  "label": "26 November 2026",
+  "title": "Gordon brace leads Barça to 4-1 win at Sabah; Balde leaves with ankle issue",
+  "deck": "Anthony Gordon scored twice as Barça beat Sabah 4-1 in Baku. Adeyemi and Jesus added the others. Balde assisted then left with ankle discomfort. Yamal stayed home and is expected for Deportivo.",
+  "stories": [
     {
+      "kicker": "Champions League",
       "headline": "Gordon brace seals 4-1 win at Sabah as Barça reach 12 points",
-      "summary": "Anthony Gordon scored twice as Barça beat Sabah 4-1 in Baku on Wednesday night. Adeyemi and Gabriel Jesus added the other goals after the break. The result takes Hansi Flick’s side to 12 points from five league-phase matches.\n\nBarça led 1-0 at half-time and scored three times in the first 15 minutes of the second half. Sabah pulled one back through Joy-Lance Mickels in the 63rd minute. The trip was the longest European away journey in the club’s history.",
+      "summary": "Anthony Gordon scored twice as Barça beat Sabah 4-1 in Baku on Wednesday night. Adeyemi and Gabriel Jesus added the other goals after the break. The result takes Hansi Flick’s side to 12 points from five league-phase matches.",
+      "body": "Barça led 1-0 at half-time and scored three times in the first 15 minutes of the second half. Sabah pulled one back through Joy-Lance Mickels in the 63rd minute. The trip was the longest European away journey in the club’s history. Gordon opened the scoring in the 31st minute from a rebound and added a second in the 51st. Adeyemi finished from Balde’s cross on 55 minutes and Jesus completed the scoring five minutes later.",
       "sources": [
-        {"name": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261125/1004255470/cronica-sabah-barcelona.html"},
-        {"name": "AS", "url": "https://as.com/resultados/futbol/champions/2026_2027/directo/regular_a_5_6a92d4a865ccd32/"},
-        {"name": "beIN Sports", "url": "https://www.beinsports.com/en-us/soccer/uefa-champions-league/articles/all-goals-sabah-vs-barcelona-champions-league-2026-11-25"}
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261125/1004255470/cronica-sabah-barcelona.html"},
+        {"label": "AS", "url": "https://as.com/resultados/futbol/champions/2026_2027/directo/regular_a_5_6a92d4a865ccd32/"},
+        {"label": "beIN Sports", "url": "https://www.beinsports.com/en-us/soccer/uefa-champions-league/articles/all-goals-sabah-vs-barcelona-champions-league-2026-11-25"}
       ],
       "tweets": [
-        {"id": "2125674915143778624", "handle": "FCBarcelona"},
-        {"id": "2125674896424423893", "handle": "FCBarcelona_es"}
+        {"id": "2125674915143778624", "handle": "FCBarcelona", "name": "FC Barcelona", "text": "VICTORY IN BAKU! 🔥"},
+        {"id": "2125674896424423893", "handle": "FCBarcelona_es", "name": "FC Barcelona", "text": "¡VICTORIA EN BAKÚ! ✅"}
       ]
     },
     {
+      "kicker": "Player",
       "headline": "Gordon named MVP after first Barça brace in Azerbaijan",
-      "summary": "Anthony Gordon was voted man of the match after his two goals at the Baku Olympic Stadium. The Englishman opened the scoring in the 31st minute from an Adeyemi cross that the goalkeeper parried, then scored again in the 51st from another rebound.\n\nIt was his first brace for the club. Gordon had previously scored four times for Newcastle against Qarabağ in Azerbaijan last season. Raphinha presented him with the award after the game.",
+      "summary": "Anthony Gordon was voted man of the match after his two goals at the Baku Olympic Stadium. The Englishman opened the scoring in the 31st minute from an Adeyemi cross that the goalkeeper parried, then scored again in the 51st from another rebound.",
+      "body": "It was his first brace for the club. Gordon had previously scored four times for Newcastle against Qarabağ in Azerbaijan last season. Raphinha presented him with the award after the game. The goals came in a heavily rotated side that still controlled the match after the break.",
       "sources": [
-        {"name": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"},
-        {"name": "MARCA", "url": "https://www.marca.com/futbol/barcelona/2026/11/25/anthony-gordon-non-grato-azerbaiyan.html"}
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"},
+        {"label": "MARCA", "url": "https://www.marca.com/futbol/barcelona/2026/11/25/anthony-gordon-non-grato-azerbaiyan.html"}
       ],
       "tweets": [
-        {"id": "2125679055689445417", "handle": "FCBarcelona"},
-        {"id": "2125678432352694617", "handle": "FCBarcelona_es"}
+        {"id": "2125679055689445417", "handle": "FCBarcelona", "name": "FC Barcelona", "text": "You guessed it, Gordon MVP. 🎖️"}
       ]
     },
     {
+      "kicker": "Injury",
       "headline": "Balde leaves Baku with ankle discomfort after Adeyemi assist",
-      "summary": "Alejandro Balde started at left-back for the first time this season and assisted Adeyemi’s goal in the 55th minute. He left the pitch in the 65th minute after feeling discomfort in his ankle on a shot and was replaced by João Cancelo.\n\nEl Nacional reported that tests are scheduled for Thursday and that a sprain is the most likely diagnosis. Balde had been one of the more involved players before the problem.",
+      "summary": "Alejandro Balde started at left-back for the first time this season and assisted Adeyemi’s goal in the 55th minute. He left the pitch in the 65th minute after feeling discomfort in his ankle on a shot and was replaced by João Cancelo.",
+      "body": "El Nacional reported that tests are scheduled for Thursday and that a sprain is the most likely diagnosis. Balde had been one of the more involved players before the problem. He had featured less regularly under Flick this season and the start in Baku offered a chance to show his form.",
       "sources": [
-        {"name": "El Nacional", "url": "https://www.elnacional.cat/es/deportes/lesion-balde-pasa-lesion-tiene-cuanto-tiempo-estara-baja-con-barca_1731488_102.html"},
-        {"name": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261125/1004255470/cronica-sabah-barcelona.html"}
+        {"label": "El Nacional", "url": "https://www.elnacional.cat/es/deportes/lesion-balde-pasa-lesion-tiene-cuanto-tiempo-estara-baja-con-barca_1731488_102.html"},
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261125/1004255470/cronica-sabah-barcelona.html"}
       ],
-      "tweets": [
-        {"id": "2125682782928052533", "handle": "SocBlaugranaFC"}
-      ]
+      "tweets": []
     },
     {
+      "kicker": "Team news",
       "headline": "Flick rotates heavily: Yamal stays home, Raphinha on the bench, De Jong at centre-back",
-      "summary": "Hansi Flick named a much-changed side. Joan García started in goal, with Koundé, De Jong, Gerard Martín and Balde in defence. Gavi and Pedri sat in midfield with Fermín, while Adeyemi, Gordon and Gabriel Jesus formed the front three.\n\nRaphinha came on for Gordon in the 76th minute. Lamine Yamal remained in Barcelona with mild right-ankle discomfort and is expected to be available for the trip to Deportivo on Sunday. De Jong again filled in at centre-back.",
+      "summary": "Hansi Flick named a much-changed side. Joan García started in goal, with Koundé, De Jong, Gerard Martín and Balde in defence. Gavi and Pedri sat in midfield with Fermín, while Adeyemi, Gordon and Gabriel Jesus formed the front three.",
+      "body": "Raphinha came on for Gordon in the 76th minute. Lamine Yamal remained in Barcelona with mild right-ankle discomfort and is expected to be available for the trip to Deportivo on Sunday. De Jong again filled in at centre-back. The rotation reflected the congested calendar ahead.",
       "sources": [
-        {"name": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261125/1004255470/cronica-sabah-barcelona.html"},
-        {"name": "AS", "url": "https://en.as.com/soccer/barcelona-coach-hansi-flick-addresses-lamine-yamal-and-pau-cubarsi-fitness-concerns-before-sabah-clash-f202611-n/"}
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261125/1004255470/cronica-sabah-barcelona.html"},
+        {"label": "AS", "url": "https://en.as.com/soccer/barcelona-coach-hansi-flick-addresses-lamine-yamal-and-pau-cubarsi-fitness-concerns-before-sabah-clash-f202611-n/"}
       ],
-      "tweets": [
-        {"id": "2125634365585858836", "handle": "ffpolo"}
-      ]
+      "tweets": []
     },
     {
+      "kicker": "Player",
       "headline": "Yamal expected for Deportivo after precautionary rest in Baku",
-      "summary": "Lamine Yamal did not travel to Azerbaijan. The club said he had mild discomfort in his right ankle after playing the full 90 minutes against Villarreal on Sunday and stayed behind as a precaution.\n\nFlick said the decision was taken on Monday morning and that Yamal should be ready before the weekend. The next league match is the trip to Deportivo de La Coruña on 29 November. Yamal has started every match this season until now.",
+      "summary": "Lamine Yamal did not travel to Azerbaijan. The club said he had mild discomfort in his right ankle after playing the full 90 minutes against Villarreal on Sunday and stayed behind as a precaution.",
+      "body": "Flick said the decision was taken on Monday morning and that Yamal should be ready before the weekend. The next league match is the trip to Deportivo de La Coruña on 29 November. Yamal has started every match this season until now.",
       "sources": [
-        {"name": "AS", "url": "https://en.as.com/soccer/why-isnt-lamine-yamal-playing-for-barcelona-against-sabah-in-the-champions-league-f202611-n/"},
-        {"name": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"}
+        {"label": "AS", "url": "https://en.as.com/soccer/why-isnt-lamine-yamal-playing-for-barcelona-against-sabah-in-the-champions-league-f202611-n/"},
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"}
       ],
       "tweets": []
     },
     {
+      "kicker": "Youth",
       "headline": "Barça Juvenil thrash Sabah 7-0 in Youth League",
-      "summary": "Barça’s Under-19 side beat Sabah 7-0 in the Youth League on the same day. Pedro Rodríguez opened the scoring and Òscar Gistau scored twice. Michal Zuk, Gorka Buil, Ajay Tavares and Nuhu Fofana also scored.\n\nThe game was goalless at half-time before a local player was sent off. The win moves the Juvenil side closer to the top eight. Albert Peris took charge of his first European match.",
+      "summary": "Barça’s Under-19 side beat Sabah 7-0 in the Youth League on the same day. Pedro Rodríguez opened the scoring and Òscar Gistau scored twice. Michal Zuk, Gorka Buil, Ajay Tavares and Nuhu Fofana also scored.",
+      "body": "The game was goalless at half-time before a local player was sent off. The win moves the Juvenil side closer to the top eight. Albert Peris took charge of his first European match. The goals arrived in a second-half burst after the numerical advantage.",
       "sources": [
-        {"name": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261125/1004255382/0-7-goleada-paso-gigante-seguir-youth-league.html"},
-        {"name": "SPORT", "url": "https://www.sport.es/es/noticias/barca/futbol-base/sabah-fc-barcelona-directo-youth-136828254"}
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261125/1004255382/0-7-goleada-paso-gigante-seguir-youth-league.html"},
+        {"label": "SPORT", "url": "https://www.sport.es/es/noticias/barca/futbol-base/sabah-fc-barcelona-directo-youth-136828254"}
       ],
       "tweets": []
     },
     {
+      "kicker": "Midfield",
       "headline": "De Jong solid again at centre-back as Barça manage the game",
-      "summary": "Frenkie de Jong started at centre-back for another match and helped keep Sabah quiet after the early exchanges. He was replaced by Àlex Campos in the 64th minute, giving the youngster his senior debut.\n\nMARCA noted that De Jong’s role is no longer an experiment. He has filled in across several positions this season when the defensive options have been limited by injury.",
+      "summary": "Frenkie de Jong started at centre-back for another match and helped keep Sabah quiet after the early exchanges. He was replaced by Àlex Campos in the 64th minute, giving the youngster his senior debut.",
+      "body": "MARCA noted that De Jong’s role is no longer an experiment. He has filled in across several positions this season when the defensive options have been limited by injury. Campos’s appearance marked another opportunity for a La Masia product in a European match.",
       "sources": [
-        {"name": "MARCA", "url": "https://www.marca.com/futbol/barcelona/2026/11/25/barca-vs-sabah-valoracion-comentarios.html"},
-        {"name": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261125/1004255470/cronica-sabah-barcelona.html"}
+        {"label": "MARCA", "url": "https://www.marca.com/futbol/barcelona/2026/11/25/barca-vs-sabah-valoracion-comentarios.html"},
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261125/1004255470/cronica-sabah-barcelona.html"}
       ],
-      "tweets": [
-        {"id": "2125677277786620300", "handle": "marca"}
-      ]
+      "tweets": []
     },
     {
+      "kicker": "Schedule",
       "headline": "Barça return from longest European trip with recovery planned before Deportivo",
-      "summary": "The squad is due back in Barcelona after the match. Flick had already indicated there would be no training on Thursday to aid recovery from the long journey to Azerbaijan.\n\nThe next session is expected on Friday ahead of Sunday’s La Liga trip to Deportivo. Barça sit top of La Liga after the 3-2 win over Villarreal. The Champions League win moves them into a stronger position for a top-eight finish.",
+      "summary": "The squad is due back in Barcelona after the match. Flick had already indicated there would be no training on Thursday to aid recovery from the long journey to Azerbaijan.",
+      "body": "The next session is expected on Friday ahead of Sunday’s La Liga trip to Deportivo. Barça sit top of La Liga after the 3-2 win over Villarreal. The Champions League win moves them into a stronger position for a top-eight finish.",
       "sources": [
-        {"name": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"},
-        {"name": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261125/1004255470/cronica-sabah-barcelona.html"}
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"},
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261125/1004255470/cronica-sabah-barcelona.html"}
       ],
-      "tweets": [
-        {"id": "2125675912264114526", "handle": "sport"}
-      ]
-    },
-    {
-      "headline": "Official accounts mark the victory and Gordon’s award in Baku",
-      "summary": "FC Barcelona’s English account posted “VICTORY IN BAKU!” and later confirmed Gordon as MVP. The Spanish account did the same with “¡VICTORIA EN BAKÚ!” and posted the award image.\n\nThe club also shared the late substitution of Raphinha for Gordon. The posts marked the end of the longest European away trip in the club’s history and the fourth win in five Champions League matches.",
-      "sources": [
-        {"name": "FC Barcelona", "url": "https://x.com/FCBarcelona/status/2125674915143778624"},
-        {"name": "FC Barcelona", "url": "https://x.com/FCBarcelona_es/status/2125674896424423893"}
-      ],
-      "tweets": [
-        {"id": "2125674915143778624", "handle": "FCBarcelona"},
-        {"id": "2125679055689445417", "handle": "FCBarcelona"}
-      ]
+      "tweets": []
     }
   ]
 }
