@@ -1,6 +1,14 @@
 {
   "editions": [
     {
+      "number": 321,
+      "date": "2026-11-26",
+      "label": "26 November 2026",
+      "file": "2026-11-26.json",
+      "lead": "Gordon brace leads Barça to 4-1 win at Sabah; Balde leaves with ankle issue",
+      "tweets": 10
+    },
+    {
       "number": 320,
       "date": "2026-11-25",
       "label": "25 November 2026",
