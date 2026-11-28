@@ -1,0 +1,2068 @@
+{
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T13:06:39.987233+00:00",
+  "source_pool": 50,
+  "articles_kept": 219,
+  "clusters": 176,
+  "failed_sources": [
+    "UEFA – Barcelona",
+    "LaLiga – Barcelona",
+    "Reuters",
+    "Associated Press",
+    "BBC Sport",
+    "ESPN",
+    "Sky Sports",
+    "CBS Sports",
+    "FOX Sports",
+    "The Independent",
+    "Goal",
+    "Football España",
+    "Get Spanish Football News",
+    "Barça News Network",
+    "Everything Barça",
+    "SPORT",
+    "Esport3",
+    "RAC1",
+    "Cadena SER",
+    "AS",
+    "Relevo",
+    "El Periódico",
+    "El Nacional",
+    "Món Esport",
+    "Onda Cero",
+    "COPE",
+    "FotMob",
+    "Sofascore",
+    "FBref",
+    "WhoScored",
+    "Transfermarkt",
+    "OneFootball",
+    "LiveScore",
+    "Opta Analyst"
+  ],
+  "stories": [
+    {
+      "headline": "Bleacher Report Flick talks Lamine, De Jong, Balde, Bernal, Pedri, Tunkara, Casado ahead of Deportivo vs Barcelona barcauniversal.com 9m",
+      "summary": "Bleacher Report Flick talks Lamine, De Jong, Balde, Bernal, Pedri, Tunkara, Casado ahead of Deportivo vs Barcelona barcauniversal.com 9m",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://barcauniversal.com/flick-talks-lamine-de-jong-balde-bernal-pedri-tunkara-casado-ahead-of-deportivo-vs-barcelona/?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Universal",
+          "url": "https://barcauniversal.com/flick-talks-lamine-de-jong-balde-bernal-pedri-tunkara-casado-ahead-of-deportivo-vs-barcelona/",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Bleacher Report Flick talks Lamine, De Jong, Balde, Bernal, Pedri, Tunkara, Casado ahead of Deportivo vs Barcelona barcauniversal.com 9m",
+          "url": "https://barcauniversal.com/flick-talks-lamine-de-jong-balde-bernal-pedri-tunkara-casado-ahead-of-deportivo-vs-barcelona/?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Bleacher Report Flick calls up 17-year-old midfield gem to Barcelona training ahead of Deportivo clash barcauniversal.com 1h",
+          "url": "https://barcauniversal.com/flick-calls-up-17-year-old-midfield-gem-to-barcelona-training-ahead-of-deportivo-clash/?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 20,
+          "source": "Barça Universal",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Flick talks Lamine, De Jong, Balde, Bernal, Pedri, Tunkara, Casado ahead of Deportivo vs Barcelona",
+          "url": "https://barcauniversal.com/flick-talks-lamine-de-jong-balde-bernal-pedri-tunkara-casado-ahead-of-deportivo-vs-barcelona/",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 20,
+          "source": "Barça Universal",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Flick calls up 17-year-old midfield gem to Barcelona training ahead of Deportivo clash",
+          "url": "https://barcauniversal.com/flick-calls-up-17-year-old-midfield-gem-to-barcelona-training-ahead-of-deportivo-clash/",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 17h Should Barcelona keep Jesse Bisiwu or loan him out in January? Time to talk plans for the youngster",
+      "summary": "www.barcablaugranes.com • 17h Should Barcelona keep Jesse Bisiwu or loan him out in January? Time to talk plans for the youngster",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/cant-del-blog-barcelona-opinion/139215/should-barcelona-keep-jesse-bisiwu-or-loan-him-out-in-january?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/cant-del-blog-barcelona-opinion/139215/should-barcelona-keep-jesse-bisiwu-or-loan-him-out-in-january",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 17h Should Barcelona keep Jesse Bisiwu or loan him out in January? Time to talk plans for the youngster",
+          "url": "https://www.barcablaugranes.com/cant-del-blog-barcelona-opinion/139215/should-barcelona-keep-jesse-bisiwu-or-loan-him-out-in-january?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 18h Lille join race to land Jesse Bisiwu from Barcelona in January The winger is being tipped for a winter loan.",
+          "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/139188/lille-jesse-bisiwu-january-loan?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Should Barcelona keep Jesse Bisiwu or loan him out in January?Should Barcelona keep Jesse Bisiwu or loan him out in January?",
+          "url": "https://www.barcablaugranes.com/cant-del-blog-barcelona-opinion/139215/should-barcelona-keep-jesse-bisiwu-or-loan-him-out-in-january",
+          "summary": "Jesse Bisiwu is in the news this week after the young Belgian winger was included in the first team squad for the first time since signing in the summer, though he was an unused substitute in Barcelona’s Champions League win over Sabah in Baku. Bisiwu has featured regularly for Barça Atlètic and had some really […]Jesse Bisiwu is in the news this week after the young Belgian winger was included in",
+          "published": "2026-11-27T14:00:00-05:002026-11-27T14:00:00-05:00"
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Lille join race to land Jesse Bisiwu from Barcelona in JanuaryLille join race to land Jesse Bisiwu from Barcelona in January",
+          "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/139188/lille-jesse-bisiwu-january-loan",
+          "summary": "Ligue 1 side Lille have reportedly joined the race to land Jesse Biswu from Barcelona in the January transfer window. The summer signing is being linked with a loan move away from the Camp Nou in a bid to enjoy some regular playing time. Ajax and Rangers have already been credited with interest in the […]Ligue 1 side Lille have reportedly joined the race to land Jesse Biswu from Barcelona in the J",
+          "published": "2026-11-27T13:00:00-05:002026-11-27T13:00:00-05:00"
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 22h ‘He has it all’ - Ebrima Tunkara praised after impressive start to Under-17 World Cup with Spain The Barcelona starlet has been in the goals.",
+      "summary": "www.barcablaugranes.com • 22h ‘He has it all’ - Ebrima Tunkara praised after impressive start to Under-17 World Cup with Spain The Barcelona starlet has been in the goals.",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/barcelona-internationals/139191/ebrima-tunkara-praised-impressive-start-to-under-17-world-cup-spain?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-internationals/139191/ebrima-tunkara-praised-impressive-start-to-under-17-world-cup-spain",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 22h ‘He has it all’ - Ebrima Tunkara praised after impressive start to Under-17 World Cup with Spain The Barcelona starlet has been in the goals.",
+          "url": "https://www.barcablaugranes.com/barcelona-internationals/139191/ebrima-tunkara-praised-impressive-start-to-under-17-world-cup-spain?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 1d Ebrima Tunkara on target again as Spain beat Morocco at Under-17 World Cup Another impressive showing from the Barcelona talent.",
+          "url": "https://www.barcablaugranes.com/barcelona-internationals/139152/ebrima-tunkara-target-again-spain-morocco-under-17-world-cup?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "‘He has it all’ – Ebrima Tunkara praised after impressive start to Under-17 World Cup with Spain‘He has it all’ – Ebrima Tunkara praised after impressive start to Under-17 World Cup with Spain",
+          "url": "https://www.barcablaugranes.com/barcelona-internationals/139191/ebrima-tunkara-praised-impressive-start-to-under-17-world-cup-spain",
+          "summary": "Ebrima Tunkara is making waves at the Under-17 World Cup as part of an impressive Spain team that have won their first three games of the tournament. The Barcelona youngster has been on target in the wins over China and Morocco and is playing alongside several of his Barca team-mates, including Sergi Mayans, for the […]Ebrima Tunkara is making waves at the Under-17 World Cup as part of an impressi",
+          "published": "2026-11-27T09:00:00-05:002026-11-27T09:00:00-05:00"
+        }
+      ]
+    },
+    {
+      "headline": "Transfer Rumors: Rashford Offered Man Utd Escape Route; Arsenal Back in for Alvarez",
+      "summary": "Transfer Rumors: Rashford Offered Man Utd Escape Route; Arsenal Back in for Alvarez",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Sports Illustrated",
+          "url": "https://www.si.com/soccer/transfer-rumors-rashford-man-utd-escape-arsenal-back-alvarez",
+          "tier": "major"
+        },
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/transfer-rumors-rashford-man-utd-escape-arsenal-back-alvarez",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 10,
+          "source": "Sports Illustrated",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Transfer Rumors: Rashford Offered Man Utd Escape Route; Arsenal Back in for Alvarez",
+          "url": "https://www.si.com/soccer/transfer-rumors-rashford-man-utd-escape-arsenal-back-alvarez",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Transfer Rumors: Rashford Offered Man Utd Escape Route; Arsenal Back in for Alvarez",
+          "url": "https://www.si.com/soccer/transfer-rumors-rashford-man-utd-escape-arsenal-back-alvarez",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Hansi Flick ‘Dismisses’ Serial Title Winner in Barcelona’s Center Back Search",
+      "summary": "Hansi Flick ‘Dismisses’ Serial Title Winner in Barcelona’s Center Back Search",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Sports Illustrated",
+          "url": "https://www.si.com/soccer/hansi-flick-serial-title-winner-barcelona-center-back",
+          "tier": "major"
+        },
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/hansi-flick-serial-title-winner-barcelona-center-back",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 10,
+          "source": "Sports Illustrated",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Hansi Flick ‘Dismisses’ Serial Title Winner in Barcelona’s Center Back Search",
+          "url": "https://www.si.com/soccer/hansi-flick-serial-title-winner-barcelona-center-back",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Hansi Flick ‘Dismisses’ Serial Title Winner in Barcelona’s Center Back Search",
+          "url": "https://www.si.com/soccer/hansi-flick-serial-title-winner-barcelona-center-back",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barcelona Player Ratings vs. Sabah: Gordon’s Landmark Achievement Steals the Show",
+      "summary": "Barcelona Player Ratings vs. Sabah: Gordon’s Landmark Achievement Steals the Show",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/barcelona-player-ratings-vs-sabah-11-25-26",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Universal",
+          "url": "https://barcauniversal.com/gordon-9-pedri-8-5-sabah-1-4-barcelona-player-ratings/",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona Player Ratings vs. Sabah: Gordon’s Landmark Achievement Steals the Show",
+          "url": "https://www.si.com/soccer/barcelona-player-ratings-vs-sabah-11-25-26",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 20,
+          "source": "Barça Universal",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Gordon 9, Pedri 8.5 | Sabah 1-4 Barcelona: Player Ratings",
+          "url": "https://barcauniversal.com/gordon-9-pedri-8-5-sabah-1-4-barcelona-player-ratings/",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Bleacher Report Barcelona new signing eager for more minutes; holds immense respect for Flick, Raphinha barcauniversal.com 9m",
+      "summary": "Bleacher Report Barcelona new signing eager for more minutes; holds immense respect for Flick, Raphinha barcauniversal.com 9m",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://barcauniversal.com/barcelona-new-signing-eager-for-more-minutes-holds-immense-respect-for-flick-raphinha/?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Universal",
+          "url": "https://barcauniversal.com/barcelona-new-signing-eager-for-more-minutes-holds-immense-respect-for-flick-raphinha/",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Bleacher Report Barcelona new signing eager for more minutes; holds immense respect for Flick, Raphinha barcauniversal.com 9m",
+          "url": "https://barcauniversal.com/barcelona-new-signing-eager-for-more-minutes-holds-immense-respect-for-flick-raphinha/?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 20,
+          "source": "Barça Universal",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona new signing eager for more minutes; holds immense respect for Flick, Raphinha",
+          "url": "https://barcauniversal.com/barcelona-new-signing-eager-for-more-minutes-holds-immense-respect-for-flick-raphinha/",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Bleacher Report Barcelona training update: Defender returns but two youngsters miss final session before Deportivo clash barcauniversal.com 1h",
+      "summary": "Bleacher Report Barcelona training update: Defender returns but two youngsters miss final session before Deportivo clash barcauniversal.com 1h",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://barcauniversal.com/barcelona-training-update-defender-returns-but-two-youngsters-miss-final-session-before-deportivo-clash/?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Universal",
+          "url": "https://barcauniversal.com/barcelona-training-update-defender-returns-but-two-youngsters-miss-final-session-before-deportivo-clash/",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Bleacher Report Barcelona training update: Defender returns but two youngsters miss final session before Deportivo clash barcauniversal.com 1h",
+          "url": "https://barcauniversal.com/barcelona-training-update-defender-returns-but-two-youngsters-miss-final-session-before-deportivo-clash/?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 20,
+          "source": "Barça Universal",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona training update: Defender returns but two youngsters miss final session before Deportivo clash",
+          "url": "https://barcauniversal.com/barcelona-training-update-defender-returns-but-two-youngsters-miss-final-session-before-deportivo-clash/",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 4h How will Barcelona line up against Deportivo? Hansi Flick’s possible XI for Sunday’s clash",
+      "summary": "www.barcablaugranes.com • 4h How will Barcelona line up against Deportivo? Hansi Flick’s possible XI for Sunday’s clash",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/139231/how-will-barcelona-line-up-deportivo-la-liga?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/139231/how-will-barcelona-line-up-deportivo-la-liga",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 4h How will Barcelona line up against Deportivo? Hansi Flick’s possible XI for Sunday’s clash",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/139231/how-will-barcelona-line-up-deportivo-la-liga?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "How will Barcelona line up against Deportivo in their next La Liga match?How will Barcelona line up against Deportivo in their next La Liga match?",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/139231/how-will-barcelona-line-up-deportivo-la-liga",
+          "summary": "Barcelona continue their busy end-of-year schedule with their first trip to the iconic Riazor Stadium in eight years for a key away game against Deportivo A Coruña looking to remain top of the La Liga table. Here’s how we think Hansi Flick will line up his troops for Sunday’s battle: Defense Flick was able to […]Barcelona continue their busy end-of-year schedule with their first trip to the iconic",
+          "published": "2026-11-28T03:00:00-05:002026-11-28T03:00:00-05:00"
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 8h Marc Casado tells Deportivo boss ‘four things that could be useful’ against Barcelona The midfielder knows all about Sunday’s opponents.",
+      "summary": "www.barcablaugranes.com • 8h Marc Casado tells Deportivo boss ‘four things that could be useful’ against Barcelona The midfielder knows all about Sunday’s opponents.",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/barcelona-team-news/139207/marc-casado-deportivo-boss-four-things-that-could-be-useful?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-team-news/139207/marc-casado-deportivo-boss-four-things-that-could-be-useful",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 8h Marc Casado tells Deportivo boss ‘four things that could be useful’ against Barcelona The midfielder knows all about Sunday’s opponents.",
+          "url": "https://www.barcablaugranes.com/barcelona-team-news/139207/marc-casado-deportivo-boss-four-things-that-could-be-useful?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Marc Casado tells Deportivo boss ‘four things that could be useful’ against BarcelonaMarc Casado tells Deportivo boss ‘four things that could be useful’ against Barcelona",
+          "url": "https://www.barcablaugranes.com/barcelona-team-news/139207/marc-casado-deportivo-boss-four-things-that-could-be-useful",
+          "summary": "Marc Casado will come up against parent club Barcelona on Sunday in La Liga with Deportivo and has been briefing his boss ahead of the game. The midfielder says he has told Antonio Hidalgo of a few things that he hopes could be useful to his side against Hansi Flick’s men. “I have been able […]Marc Casado will come up against parent club Barcelona on Sunday in La Liga with Deportivo and has been b",
+          "published": "2026-11-27T23:00:00-05:002026-11-27T23:00:00-05:00"
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 13h ‘I’m where I want to be’ - Barcelona star Dani Olmo shuts down talk of Bayern switch The Spain star is happy in Catalunya.",
+      "summary": "www.barcablaugranes.com • 13h ‘I’m where I want to be’ - Barcelona star Dani Olmo shuts down talk of Bayern switch The Spain star is happy in Catalunya.",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/139226/dani-olmo-shuts-down-talk-bayern-switch?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/139226/dani-olmo-shuts-down-talk-bayern-switch",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 13h ‘I’m where I want to be’ - Barcelona star Dani Olmo shuts down talk of Bayern switch The Spain star is happy in Catalunya.",
+          "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/139226/dani-olmo-shuts-down-talk-bayern-switch?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "‘I’m where I want to be’ – Barcelona star Dani Olmo shuts down talk of Bayern switch‘I’m where I want to be’ – Barcelona star Dani Olmo shuts down talk of Bayern switch",
+          "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/139226/dani-olmo-shuts-down-talk-bayern-switch",
+          "summary": "Barcelona star Dani Olmo has made it clear he has no interest in a move to Bayern Munich and wants to continue winning trophies with the Catalan giants. There’s been talk of interest from Bayern in Olmo this season but the Spain star insists he is happy where he is and wants to help make […]Barcelona star Dani Olmo has made it clear he has no interest in a move to Bayern Munich and wants to contin",
+          "published": "2026-11-27T17:20:00-05:002026-11-27T17:20:00-05:00"
+        }
+      ]
+    },
+    {
+      "headline": "BARÇABARÇA",
+      "summary": "No encadenaba dos suplencias con la selección desde 2022 y en el Barça ha perdido pesoNo encadenaba dos suplencias con la selección desde 2022 y en el Barça ha perdido peso",
+      "source_count": 1,
+      "languages": [
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "MARCA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/10/06/kounde-nuevo-escenario.htmlhttps://www.marca.com/futbol/barcelona/2026/10/06/kounde-nuevo-escenario.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/10/06/kounde-nuevo-escenario.htmlhttps://www.marca.com/futbol/barcelona/2026/10/06/kounde-nuevo-escenario.html",
+          "summary": "No encadenaba dos suplencias con la selección desde 2022 y en el Barça ha perdido pesoNo encadenaba dos suplencias con la selección desde 2022 y en el Barça ha perdido peso",
+          "published": "Tue, 06 Oct 2026 11:11:22 +0200Tue, 06 Oct 2026 11:11:22 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/10/05/cancelo-revienta-paron-vuelve-barca-pletorico-exhibicion-portugal.htmlhttps://www.marca.com/futbol/barcelona/2026/10/05/cancelo-revienta-paron-vuelve-barca-pletorico-exhibicion-portugal.html",
+          "summary": "Ha jugado los cuatro partidos y ha marcado dos golazosHa jugado los cuatro partidos y ha marcado dos golazos",
+          "published": "Mon, 05 Oct 2026 19:42:58 +0200Mon, 05 Oct 2026 19:42:58 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/10/05/creador-oliver-benji-recrea-boceto-figura-lamine-yamal.htmlhttps://www.marca.com/futbol/barcelona/2026/10/05/creador-oliver-benji-recrea-boceto-figura-lamine-yamal.html",
+          "summary": "El artista japonés Yoichi Takahashi ha estado de visita en el Spotify Camp NouEl artista japonés Yoichi Takahashi ha estado de visita en el Spotify Camp Nou",
+          "published": "Mon, 05 Oct 2026 17:43:42 +0200Mon, 05 Oct 2026 17:43:42 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/10/05/lamine-yamal-aun-cuenta-pendiente-barca.htmlhttps://www.marca.com/futbol/barcelona/2026/10/05/lamine-yamal-aun-cuenta-pendiente-barca.html",
+          "summary": "Tiene un aumento de ficha pactado, pero deberá esperar aún unos meses para su ejecuciónTiene un aumento de ficha pactado, pero deberá esperar aún unos meses para su ejecución",
+          "published": "Mon, 05 Oct 2026 16:00:31 +0200Mon, 05 Oct 2026 16:00:31 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/10/05/hugo-galdeano-talento-gigante-barca.htmlhttps://www.marca.com/futbol/barcelona/2026/10/05/hugo-galdeano-talento-gigante-barca.html",
+          "summary": "El menudo atacante de La Masía brilla por su nivel de juego y su garra… siendo el más chiquito de toda la categoríaEl menudo atacante de La Masía brilla por su nivel de juego y su garra… siendo el más chiquito de toda la categoría",
+          "published": "Mon, 05 Oct 2026 14:22:20 +0200Mon, 05 Oct 2026 14:22:20 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/10/05/barca-vuelve-trabajo-unica-novedad-eric-garcia.htmlhttps://www.marca.com/futbol/barcelona/2026/10/05/barca-vuelve-trabajo-unica-novedad-eric-garcia.html",
+          "summary": "Los no internacionales han tenido nueve días de descansoLos no internacionales han tenido nueve días de descanso",
+          "published": "Mon, 05 Oct 2026 11:48:13 +0200Mon, 05 Oct 2026 11:48:13 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/10/04/barca-regresa-lunes-trabajo-mini-vacaciones.htmlhttps://www.marca.com/futbol/barcelona/2026/10/04/barca-regresa-lunes-trabajo-mini-vacaciones.html",
+          "summary": "Los jugadores no internacionales disfrutaron de nueve días de descansoLos jugadores no internacionales disfrutaron de nueve días de descanso",
+          "published": "Sun, 04 Oct 2026 17:46:34 +0200Sun, 04 Oct 2026 17:46:34 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/10/04/barca-domina-europa-ritmo-gol.htmlhttps://www.marca.com/futbol/barcelona/2026/10/04/barca-domina-europa-ritmo-gol.html",
+          "summary": "Los culés, el equipo con mejor porcentaje realizador de las grandes ligasLos culés, el equipo con mejor porcentaje realizador de las grandes ligas",
+          "published": "Sun, 04 Oct 2026 16:48:34 +0200Sun, 04 Oct 2026 16:48:34 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "FC BARCELONAFC BARCELONA",
+      "summary": "El portero está a la espera de que el club le comunique cómo queda su situaciónEl portero está a la espera de que el club le comunique cómo queda su situación",
+      "source_count": 1,
+      "languages": [
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "MARCA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/barcelona-ter-stegen-maxima-tension.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/barcelona-ter-stegen-maxima-tension.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "FC BARCELONAFC BARCELONA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/barcelona-ter-stegen-maxima-tension.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/barcelona-ter-stegen-maxima-tension.html",
+          "summary": "El portero está a la espera de que el club le comunique cómo queda su situaciónEl portero está a la espera de que el club le comunique cómo queda su situación",
+          "published": "Mon, 09 Jun 2025 20:07:06 +0200Mon, 09 Jun 2025 20:07:06 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "FC BARCELONAFC BARCELONA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/lewandowski-me-dijeron-me-quitaban-brazalete-acostando-mis-hijos.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/lewandowski-me-dijeron-me-quitaban-brazalete-acostando-mis-hijos.html",
+          "summary": "El delantero afirma que&nbsp; Michal Probierz \"ha traicionado mi confianza\"El delantero afirma que&nbsp; Michal Probierz \"ha traicionado mi confianza\"",
+          "published": "Mon, 09 Jun 2025 18:51:43 +0200Mon, 09 Jun 2025 18:51:43 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "FC BARCELONAFC BARCELONA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/laporta-tira-diplomacia-evitar-sancion-uefa.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/laporta-tira-diplomacia-evitar-sancion-uefa.html",
+          "summary": "Se reunió con Ceferin para intentar mitigar el castigo por irregularidades financierasSe reunió con Ceferin para intentar mitigar el castigo por irregularidades financieras",
+          "published": "Mon, 09 Jun 2025 12:34:03 +0200Mon, 09 Jun 2025 12:34:03 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "FC BARCELONAFC BARCELONA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/lenglet-deja-barca.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/lenglet-deja-barca.html",
+          "summary": "Principio de acuerdo para la rescisión del contrato del futbolistaPrincipio de acuerdo para la rescisión del contrato del futbolista",
+          "published": "Mon, 09 Jun 2025 13:47:01 +0200Mon, 09 Jun 2025 13:47:01 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "Barcelona President Joan Laporta Takes Fresh Swipe at Real Madrid Counterpart",
+      "summary": "Barcelona President Joan Laporta Takes Fresh Swipe at Real Madrid Counterpart",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/barcelona-president-joan-laporta-fresh-swipe-real-madrid-counterpart",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona President Joan Laporta Takes Fresh Swipe at Real Madrid Counterpart",
+          "url": "https://www.si.com/soccer/barcelona-president-joan-laporta-fresh-swipe-real-madrid-counterpart",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "La Liga President Takes Wild Swipe at Real Madrid Amid Fresh Barcelona Controversy",
+          "url": "https://www.si.com/soccer/la-liga-president-swipe-real-madrid-amid-barcelona-controversy",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Why Lamine Yamal Isn’t Playing for Barcelona vs. Sabah—Champions League",
+      "summary": "Why Lamine Yamal Isn’t Playing for Barcelona vs. Sabah—Champions League",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/why-lamine-yamal-isnt-playing-barcelona-vs-sabah-11-25-26",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Why Lamine Yamal Isn’t Playing for Barcelona vs. Sabah—Champions League",
+          "url": "https://www.si.com/soccer/why-lamine-yamal-isnt-playing-barcelona-vs-sabah-11-25-26",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Lamine Yamal Injury Spoils Barcelona’s Champions League Preparations",
+          "url": "https://www.si.com/soccer/lamine-yamal-injury-barcelona-champions-league-preparations",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 1h FC Barcelona News: 28 November 2026 A round-up of the latest Barcelona news and rumors",
+      "summary": "www.barcablaugranes.com • 1h FC Barcelona News: 28 November 2026 A round-up of the latest Barcelona news and rumors",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/barcelona-news/139221/fc-barcelona-news-28-november-2026-preparations-begin-deportivo-rodri-returns-training?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 1h FC Barcelona News: 28 November 2026 A round-up of the latest Barcelona news and rumors",
+          "url": "https://www.barcablaugranes.com/barcelona-news/139221/fc-barcelona-news-28-november-2026-preparations-begin-deportivo-rodri-returns-training?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 1d FC Barcelona News: 27 November 2026 A round-up of the latest Barcelona news and rumors",
+          "url": "https://www.barcablaugranes.com/barcelona-news/139143/fc-barcelona-news-27-november-2026-rodri-andreas-christensen-return-alejandro-balde-injury?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Ronald Araujo decision on permanent Liverpool transfer after Barcelona ‘money’ reveal",
+      "summary": "Ronald Araujo decision on permanent Liverpool transfer after Barcelona ‘money’ reveal",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Football365",
+          "url": "https://www.football365.com/news/ronald-araujo-decision-permanent-liverpool-transfer-barcelona-money",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 17,
+          "source": "Football365",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Ronald Araujo decision on permanent Liverpool transfer after Barcelona ‘money’ reveal",
+          "url": "https://www.football365.com/news/ronald-araujo-decision-permanent-liverpool-transfer-barcelona-money",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 17,
+          "source": "Football365",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Liverpool reach decision on signing Ronald Araujo permanently ‘right now’ as Barcelona ‘have no chance’",
+          "url": "https://www.football365.com/news/liverpool-reach-decision-signing-ronald-araujo-permanently-right-now-barcelona",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Chelsea reach verdict on signing Barcelona star Jules Kounde in January as transfer ‘green light’ received",
+      "summary": "Chelsea reach verdict on signing Barcelona star Jules Kounde in January as transfer ‘green light’ received",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Football365",
+          "url": "https://www.football365.com/news/chelsea-reach-verdict-signing-barcelona-star-jules-kounde-january",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 17,
+          "source": "Football365",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Chelsea reach verdict on signing Barcelona star Jules Kounde in January as transfer ‘green light’ received",
+          "url": "https://www.football365.com/news/chelsea-reach-verdict-signing-barcelona-star-jules-kounde-january",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 17,
+          "source": "Football365",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Chelsea receive ‘green light’ to sign Jules Kounde in January as Barcelona star chooses ‘priority’ transfer",
+          "url": "https://www.football365.com/news/chelsea-green-light-sign-jules-kounde-january-barcelona-star-priority-transfer",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Five things we learned from Barcelona’s 4-1 win over Sabah in the Champions League",
+      "summary": "Five things we learned from Barcelona’s 4-1 win over Sabah in the Champions League",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Barça Universal",
+          "url": "https://barcauniversal.com/five-things-we-learned-from-barcelonas-4-1-win-over-sabah-in-the-champions-league/",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 20,
+          "source": "Barça Universal",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Five things we learned from Barcelona’s 4-1 win over Sabah in the Champions League",
+          "url": "https://barcauniversal.com/five-things-we-learned-from-barcelonas-4-1-win-over-sabah-in-the-champions-league/",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 20,
+          "source": "Barça Universal",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Three talking points ahead of Sabah vs Barcelona | UEFA Champions League",
+          "url": "https://barcauniversal.com/three-talking-points-ahead-of-sabah-vs-barcelona-uefa-champions-league/",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Gavi, Balde start in a 4-2-3-1: How Barcelona could line up against Sabah",
+      "summary": "Gavi, Balde start in a 4-2-3-1: How Barcelona could line up against Sabah",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Barça Universal",
+          "url": "https://barcauniversal.com/gavi-balde-start-in-a-4-2-3-1-how-barcelona-could-line-up-against-sabah/",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 20,
+          "source": "Barça Universal",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Gavi, Balde start in a 4-2-3-1: How Barcelona could line up against Sabah",
+          "url": "https://barcauniversal.com/gavi-balde-start-in-a-4-2-3-1-how-barcelona-could-line-up-against-sabah/",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 20,
+          "source": "Barça Universal",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "De Jong, Bernal start in a 4-2-3-1: How Barcelona can line up against Villarreal",
+          "url": "https://barcauniversal.com/de-jong-bernal-start-in-a-4-2-3-1-how-barcelona-can-line-up-against-villarreal/",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Lamine Yamal, Rodri and Andreas Christensen return for Barcelona vs Deportivo but Marc Bernal and Alejandro Balde ruled outLamine Yamal, Rodri and Andreas Christensen return for Barcelona vs Deportivo but Marc Bernal and Alejandro Balde ruled out",
+      "summary": "Barcelona will be without Alejandro Balde and Marc Bernal for Saturday’s La Liga match against Deportivo but will welcome back Lamine Yamal, Rodri and Andreas Christensen. Yamal was given a breather for the midweek trip to Sabah in the Champions League due to an ankle problem, while Andreas Christensen has missed the last two games […]Barcelona will be without Alejandro Balde and Marc Bernal for S",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-team-news/139252/lamine-yamal-rodri-andreas-christensen-return-for-barcelona-vs-deportivo-but-marc-bernal-alejandro-balde",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Lamine Yamal, Rodri and Andreas Christensen return for Barcelona vs Deportivo but Marc Bernal and Alejandro Balde ruled outLamine Yamal, Rodri and Andreas Christensen return for Barcelona vs Deportivo but Marc Bernal and Alejandro Balde ruled out",
+          "url": "https://www.barcablaugranes.com/barcelona-team-news/139252/lamine-yamal-rodri-andreas-christensen-return-for-barcelona-vs-deportivo-but-marc-bernal-alejandro-balde",
+          "summary": "Barcelona will be without Alejandro Balde and Marc Bernal for Saturday’s La Liga match against Deportivo but will welcome back Lamine Yamal, Rodri and Andreas Christensen. Yamal was given a breather for the midweek trip to Sabah in the Champions League due to an ankle problem, while Andreas Christensen has missed the last two games […]Barcelona will be without Alejandro Balde and Marc Bernal for S",
+          "published": "2026-11-28T07:17:52-05:002026-11-28T07:17:52-05:00"
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Marc Casado sends message to Alejandro Balde and defends Lamine Yamal ahead of Deportivo’s clash with BarcelonaMarc Casado sends message to Alejandro Balde and defends Lamine Yamal ahead of Deportivo’s clash with Barcelona",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/139206/marc-casado-alejandro-balde-defends-lamine-yamal-head-of-deportivos",
+          "summary": "Marc Casado is preparing to face Barcelona with his Deportivo side and has been chatting about his team-mates ahead of the game on Sunday in La Liga. The midfielder, who is on a season-long loan with Deportivo but is available to play against his parent club, was quick to defend Lamine Yamal from his critics. […]Marc Casado is preparing to face Barcelona with his Deportivo side and has been chatti",
+          "published": "2026-11-27T11:00:00-05:002026-11-27T11:00:00-05:00"
+        }
+      ]
+    },
+    {
+      "headline": "Rueda Prensa de Flick, en directo | Previa del Deportivo - Barça de LaLiga EA Sports Rueda Prensa de Flick, en directo | Previa del Deportivo - Barça de LaLiga EA Sports",
+      "summary": "Rueda Prensa de Flick, en directo | Previa del Deportivo - Barça de LaLiga EA Sports Rueda Prensa de Flick, en directo | Previa del Deportivo - Barça de LaLiga EA Sports",
+      "source_count": 1,
+      "languages": [
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261128/1004255594/rueda-prensa-flick-directo-previa-deportivo-barca-laliga-ea-sports.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20261128/1004255594/rueda-prensa-flick-directo-previa-deportivo-barca-laliga-ea-sports.html",
+          "tier": "local"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 26,
+          "source": "Mundo Deportivo",
+          "tier": "local",
+          "lang": [
+            "es"
+          ],
+          "title": "Rueda Prensa de Flick, en directo | Previa del Deportivo - Barça de LaLiga EA Sports Rueda Prensa de Flick, en directo | Previa del Deportivo - Barça de LaLiga EA Sports",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261128/1004255594/rueda-prensa-flick-directo-previa-deportivo-barca-laliga-ea-sports.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20261128/1004255594/rueda-prensa-flick-directo-previa-deportivo-barca-laliga-ea-sports.html",
+          "summary": "",
+          "published": "28 Nov 2026 12:39:42 +010028 Nov 2026 12:39:42 +0100"
+        },
+        {
+          "source_id": 26,
+          "source": "Mundo Deportivo",
+          "tier": "local",
+          "lang": [
+            "es"
+          ],
+          "title": "La rueda de prensa de Hansi Flick previa al duelo ante el Deportivo A Coruña, en streaming La rueda de prensa de Hansi Flick previa al duelo ante el Deportivo A Coruña, en streaming",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261128/1004256566/rueda-prensa-hansi-flick-previa-duelo-deportivo-coruna-streaming.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20261128/1004256566/rueda-prensa-hansi-flick-previa-duelo-deportivo-coruna-streaming.html",
+          "summary": "Sigue aquí el streaming de Hansi Flick en la previa del partido contra el Deportivo de A Coruña perteneciente a la jornada 14 de LaLiga EA Sports y que se disputará mañana 29 de noviembre en el Estadio Abanca-Riazor a partir de las 16:15 horas.Sigue aquí el streaming de Hansi Flick en la previa del partido contra el Deportivo de A Coruña perteneciente a la jornada 14 de LaLiga EA Sports y que se d",
+          "published": "28 Nov 2026 12:29:10 +010028 Nov 2026 12:29:10 +0100"
+        }
+      ]
+    },
+    {
+      "headline": "Sabah – FC Barcelona el partido de fútbol de la jornada 5 de la fase de grupos de la Champions League, en directo Sabah – FC Barcelona el partido de fútbol de la jornada 5 de la fase de grupos de la Champions League, en directo",
+      "summary": "Sigue en directo el partido de fútbol de la Champions League entre Sabah y FC Barcelona Sigue en directo el partido de fútbol de la Champions League entre Sabah y FC Barcelona",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "La Vanguardia",
+          "url": "https://www.lavanguardia.com/deportes/futbol/20261125/208726/sabah-fc-barcelona-champions-league-ca-en-directo-ctx.htmlhttps://www.lavanguardia.com/deportes/futbol/20261125/208726/sabah-fc-barcelona-champions-league-ca-en-directo-ctx.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "Sabah – FC Barcelona el partido de fútbol de la jornada 5 de la fase de grupos de la Champions League, en directo Sabah – FC Barcelona el partido de fútbol de la jornada 5 de la fase de grupos de la Champions League, en directo",
+          "url": "https://www.lavanguardia.com/deportes/futbol/20261125/208726/sabah-fc-barcelona-champions-league-ca-en-directo-ctx.htmlhttps://www.lavanguardia.com/deportes/futbol/20261125/208726/sabah-fc-barcelona-champions-league-ca-en-directo-ctx.html",
+          "summary": "Sigue en directo el partido de fútbol de la Champions League entre Sabah y FC Barcelona Sigue en directo el partido de fútbol de la Champions League entre Sabah y FC Barcelona",
+          "published": "25 Nov 2026 18:15:00 +010025 Nov 2026 18:15:00 +0100"
+        },
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "Sabah 1-4 Barcelona, en directo | Resultado, goles, declaraciones y la última hora del partido de la Champions League Sabah 1-4 Barcelona, en directo | Resultado, goles, declaraciones y la última hora del partido de la Champions League",
+          "url": "https://www.lavanguardia.com/deportes/futbol/20261125/11693319/sabah-barcelona-champions-league-partido-futbol-hoy-en-directo.htmlhttps://www.lavanguardia.com/deportes/futbol/20261125/11693319/sabah-barcelona-champions-league-partido-futbol-hoy-en-directo.html",
+          "summary": "Revive el directo del Sabah - Barcelona, correspondiente a la quinta jornada de la Champions League Revive el directo del Sabah - Barcelona, correspondiente a la quinta jornada de la Champions League",
+          "published": "25 Nov 2026 17:15:59 +010025 Nov 2026 17:15:59 +0100"
+        }
+      ]
+    },
+    {
+      "headline": "La Champions en directe: Sabah - Barça",
+      "summary": "La Champions en directe: Sabah - Barça",
+      "source_count": 1,
+      "languages": [
+        "ca"
+      ],
+      "sources": [
+        {
+          "name": "ARA",
+          "url": "https://www.ara.cat/esports/barca/champions-directe-sabah-barca_26_5922913.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 32,
+          "source": "ARA",
+          "tier": "national",
+          "lang": [
+            "ca"
+          ],
+          "title": "La Champions en directe: Sabah - Barça",
+          "url": "https://www.ara.cat/esports/barca/champions-directe-sabah-barca_26_5922913.html",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 32,
+          "source": "ARA",
+          "tier": "national",
+          "lang": [
+            "ca"
+          ],
+          "title": "La prèvia del Sabah-Barça de Toni Padilla",
+          "url": "https://www.ara.cat/esports/barca/previa-sabah-barca-toni-padilla_8_5922950.html",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barcelona 2-0 Athletic Club: el proyecto de Hansi Flick firma un triunfo contundente en el Camp Nou",
+      "summary": "Barcelona 2-0 Athletic Club: el proyecto de Hansi Flick firma un triunfo contundente en el Camp Nou",
+      "source_count": 1,
+      "languages": [
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona Noticias",
+          "url": "https://www.fcbarcelonanoticias.com/barcelona-2-0-athletic-club-el-proyecto-de-hansi-flick-firma-un-triunfo-contundente-en-el-camp-nou/",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 40,
+          "source": "FC Barcelona Noticias",
+          "tier": "specialist",
+          "lang": [
+            "es",
+            "en"
+          ],
+          "title": "Barcelona 2-0 Athletic Club: el proyecto de Hansi Flick firma un triunfo contundente en el Camp Nou",
+          "url": "https://www.fcbarcelonanoticias.com/barcelona-2-0-athletic-club-el-proyecto-de-hansi-flick-firma-un-triunfo-contundente-en-el-camp-nou/",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 40,
+          "source": "FC Barcelona Noticias",
+          "tier": "specialist",
+          "lang": [
+            "es",
+            "en"
+          ],
+          "title": "FC Barcelona – Athletic Club: Todo listo en el Camp Nou para un choque de altura",
+          "url": "https://www.fcbarcelonanoticias.com/fc-barcelona-athletic-club-todo-listo-en-el-camp-nou-para-un-choque-de-altura/",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "ticket-vip BARÇA BUSINESS External link",
+      "summary": "ticket-vip BARÇA BUSINESS External link",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://www.fcbarcelona.com/en/tickets/hospitality?int=WB_26-27_K0-272&btm_source=WebBarca&btm_medium=SliderMenu&btm_campaign=barcabusiness_EN_TKT_B2B_WW",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "ticket-vip BARÇA BUSINESS External link",
+          "url": "https://www.fcbarcelona.com/en/tickets/hospitality?int=WB_26-27_K0-272&btm_source=WebBarca&btm_medium=SliderMenu&btm_campaign=barcabusiness_EN_TKT_B2B_WW",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Academy The flagship Barça school. Teaching Barça values to boys and girls",
+      "summary": "Barça Academy The flagship Barça school. Teaching Barça values to boys and girls",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://barcaacademy.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=BarcaAcademy_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Academy The flagship Barça school. Teaching Barça values to boys and girls",
+          "url": "https://barcaacademy.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=BarcaAcademy_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Foundation The Official site of the Barça Foundation.",
+      "summary": "Barça Foundation The Official site of the Barça Foundation.",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://foundation.fcbarcelona.com/home?ext=OCM_880&utm_source=WebBarca&utm_medium=BarcaSites&utm_campaign=Fundacio_ORG_DIG_WEB_TXT_WW_EN&utm_term=BarcaSitesFundacio",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Foundation The Official site of the Barça Foundation.",
+          "url": "https://foundation.fcbarcelona.com/home?ext=OCM_880&utm_source=WebBarca&utm_medium=BarcaSites&utm_campaign=Fundacio_ORG_DIG_WEB_TXT_WW_EN&utm_term=BarcaSitesFundacio",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Innovation Hub The center for sports knowledge and innovation.",
+      "summary": "Barça Innovation Hub The center for sports knowledge and innovation.",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://barcainnovationhub.fcbarcelona.com/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Bihub_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Innovation Hub The center for sports knowledge and innovation.",
+          "url": "https://barcainnovationhub.fcbarcelona.com/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Bihub_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Mobile The virtual mobile network operator of FC Barcelona",
+      "summary": "Barça Mobile The virtual mobile network operator of FC Barcelona",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://barcamobile.com/en",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Mobile The virtual mobile network operator of FC Barcelona",
+          "url": "https://barcamobile.com/en",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Espai Barça The largest and most innovative sports and entertainment space",
+      "summary": "Espai Barça The largest and most innovative sports and entertainment space",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://espaibarca.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=EspaiBarca_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Espai Barça The largest and most innovative sports and entertainment space",
+          "url": "https://espaibarca.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=EspaiBarca_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Memorial FC Barcelona FC Barcelona Memorial Official Website",
+      "summary": "Memorial FC Barcelona FC Barcelona Memorial Official Website",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://memorialfcbarcelona.com/en",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Memorial FC Barcelona FC Barcelona Memorial Official Website",
+          "url": "https://memorialfcbarcelona.com/en",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Vision Barça Vision is an innovative platform that uses emerging technologies like Web3 and Artificial intelligence to revolutionise the fan experience.",
+      "summary": "Barça Vision Barça Vision is an innovative platform that uses emerging technologies like Web3 and Artificial intelligence to revolutionise the fan experience.",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://barcavision.fcbarcelona.com/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Barca-Vision_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Vision Barça Vision is an innovative platform that uses emerging technologies like Web3 and Artificial intelligence to revolutionise the fan experience.",
+          "url": "https://barcavision.fcbarcelona.com/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Barca-Vision_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Official Store Camp Nou Shop now at Barça's Official Store Camp Nou",
+      "summary": "Barça Official Store Camp Nou Shop now at Barça's Official Store Camp Nou",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://store.fcbarcelona.com/en/?ext=OCM_2913&utm_source=WebBarca&utm_medium=BarcaSites&utm_campaign=BLM_ORG_BLM_HOME_OCM_webBarca_TXT_WW_EN&utm_content=&utm_term=BarcaSitesBLM",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Official Store Camp Nou Shop now at Barça's Official Store Camp Nou",
+          "url": "https://store.fcbarcelona.com/en/?ext=OCM_2913&utm_source=WebBarca&utm_medium=BarcaSites&utm_campaign=BLM_ORG_BLM_HOME_OCM_webBarca_TXT_WW_EN&utm_content=&utm_term=BarcaSitesBLM",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Penyes All the official information of the FC Barcelona Supporters' Clubs",
+      "summary": "Barça Penyes All the official information of the FC Barcelona Supporters' Clubs",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://penyes.fcbarcelona.com/en/",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Penyes All the official information of the FC Barcelona Supporters' Clubs",
+          "url": "https://penyes.fcbarcelona.com/en/",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Agrupació Jugadors The organisation that unites ex-players from all FC Barcelona football teams.",
+      "summary": "Agrupació Jugadors The organisation that unites ex-players from all FC Barcelona football teams.",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://agrupaciojugadors.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=ABJ_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Agrupació Jugadors The organisation that unites ex-players from all FC Barcelona football teams.",
+          "url": "https://agrupaciojugadors.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=ABJ_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Players Find all the players that have played for Barça!",
+      "summary": "Barça Players Find all the players that have played for Barça!",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://players.fcbarcelona.com/en?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Players_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Players Find all the players that have played for Barça!",
+          "url": "https://players.fcbarcelona.com/en?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Players_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Rookies Barça's most special fans!",
+      "summary": "Barça Rookies Barça's most special fans!",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://www.fcbrookies.cat/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Rookies_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Rookies Barça's most special fans!",
+          "url": "https://www.fcbrookies.cat/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Rookies_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "FC Barcelona club badge Barça v Villarreal: As it happened Get up to date with FC Barcelona v Villarreal in La Liga on our official app First Team Published date 22 Nov 26",
+      "summary": "FC Barcelona club badge Barça v Villarreal: As it happened Get up to date with FC Barcelona v Villarreal in La Liga on our official app First Team Published date 22 Nov 26",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://fcbarcelona.shar.estori.es/go/7faca5a3-ff03-7a43-0377-3a250fb19c09",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "FC Barcelona club badge Barça v Villarreal: As it happened Get up to date with FC Barcelona v Villarreal in La Liga on our official app First Team Published date 22 Nov 26",
+          "url": "https://fcbarcelona.shar.estori.es/go/7faca5a3-ff03-7a43-0377-3a250fb19c09",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "The 100 best male footballers in the world 2025The 100 best male footballers in the world 2025",
+      "summary": "Ousmane Dembélé becomes our seventh winner as he beats Lamine Yamal into second and Vitinha into third on our list of the best players on the planet Premier League dominates list | How every judge voted | Our methodology | The top 100 female players for 2025 2024 edition | 2023 | 2022 | 2021 | 2020 | 2019 | 2018 | 2017 | 2016 | 2015 | 2014 | 2013 | 2012 Continue reading... Ousmane Dembélé becomes ",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/ng-interactive/2025/dec/16/the-100-best-male-footballers-in-the-world-2025https://www.theguardian.com/football/ng-interactive/2025/dec/16/the-100-best-male-footballers-in-the-world-2025",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "The 100 best male footballers in the world 2025The 100 best male footballers in the world 2025",
+          "url": "https://www.theguardian.com/football/ng-interactive/2025/dec/16/the-100-best-male-footballers-in-the-world-2025https://www.theguardian.com/football/ng-interactive/2025/dec/16/the-100-best-male-footballers-in-the-world-2025",
+          "summary": "Ousmane Dembélé becomes our seventh winner as he beats Lamine Yamal into second and Vitinha into third on our list of the best players on the planet Premier League dominates list | How every judge voted | Our methodology | The top 100 female players for 2025 2024 edition | 2023 | 2022 | 2021 | 2020 | 2019 | 2018 | 2017 | 2016 | 2015 | 2014 | 2013 | 2012 Continue reading... Ousmane Dembélé becomes ",
+          "published": "Fri, 19 Dec 2025 10:04:51 GMTFri, 19 Dec 2025 10:04:51 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Aitana Bonmatí makes Guardian top 100 history with third title in a rowAitana Bonmatí makes Guardian top 100 history with third title in a row",
+      "summary": "The margin may have got smaller but the brilliant Spanish midfielder makes it a hat-trick of No 1 finishes They say the best things come in threes, and Aitana Bonmatí has written herself into the Guardian’s top 100 history as the first player to finish at the top of the tree for a third consecutive year. Last year the majestic midfielder emulated her Barcelona and Spain teammate Alexia Putellas by",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2025/dec/05/aitana-bonmati-guardian-top-100-history-third-straight-titlehttps://www.theguardian.com/football/2025/dec/05/aitana-bonmati-guardian-top-100-history-third-straight-title",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Aitana Bonmatí makes Guardian top 100 history with third title in a rowAitana Bonmatí makes Guardian top 100 history with third title in a row",
+          "url": "https://www.theguardian.com/football/2025/dec/05/aitana-bonmati-guardian-top-100-history-third-straight-titlehttps://www.theguardian.com/football/2025/dec/05/aitana-bonmati-guardian-top-100-history-third-straight-title",
+          "summary": "The margin may have got smaller but the brilliant Spanish midfielder makes it a hat-trick of No 1 finishes They say the best things come in threes, and Aitana Bonmatí has written herself into the Guardian’s top 100 history as the first player to finish at the top of the tree for a third consecutive year. Last year the majestic midfielder emulated her Barcelona and Spain teammate Alexia Putellas by",
+          "published": "Fri, 05 Dec 2025 08:00:42 GMTFri, 05 Dec 2025 08:00:42 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Fermin Lopez’s Suspension Verdict Leaves Barcelona Reeling Ahead of Atletico Clash",
+      "summary": "Fermin Lopez’s Suspension Verdict Leaves Barcelona Reeling Ahead of Atletico Clash",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/fermin-lopez-suspension-leaves-barcelona-reeling",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Fermin Lopez’s Suspension Verdict Leaves Barcelona Reeling Ahead of Atletico Clash",
+          "url": "https://www.si.com/soccer/fermin-lopez-suspension-leaves-barcelona-reeling",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Sabah vs. Barcelona Predictions: La Blaugrana Chase Big Win Even Without Star Man",
+      "summary": "Sabah vs. Barcelona Predictions: La Blaugrana Chase Big Win Even Without Star Man",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/sabah-vs-barcelona-predictions-la-blaugrana-big-win-without-star-11-25-26",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Sabah vs. Barcelona Predictions: La Blaugrana Chase Big Win Even Without Star Man",
+          "url": "https://www.si.com/soccer/sabah-vs-barcelona-predictions-la-blaugrana-big-win-without-star-11-25-26",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Champions League Predictions 11/25: Pochettino’s Man Utd in Portugal, Barcelona Eye Goal Glut",
+      "summary": "Champions League Predictions 11/25: Pochettino’s Man Utd in Portugal, Barcelona Eye Goal Glut",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/champions-league-predictions-11-25-26-man-utd-barcelona",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Champions League Predictions 11/25: Pochettino’s Man Utd in Portugal, Barcelona Eye Goal Glut",
+          "url": "https://www.si.com/soccer/champions-league-predictions-11-25-26-man-utd-barcelona",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barcelona Predicted Lineup vs. Sabah: Yamal Missing As Raphinha Provides Star Power",
+      "summary": "Barcelona Predicted Lineup vs. Sabah: Yamal Missing As Raphinha Provides Star Power",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/barcelona-predicted-lineup-vs-sabah-champions-league-11-25-26",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona Predicted Lineup vs. Sabah: Yamal Missing As Raphinha Provides Star Power",
+          "url": "https://www.si.com/soccer/barcelona-predicted-lineup-vs-sabah-champions-league-11-25-26",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "‘Don’t F--- With Me!’—Barcelona Star Facing Extended Ban for Rogue Referee Threat",
+      "summary": "‘Don’t F--- With Me!’—Barcelona Star Facing Extended Ban for Rogue Referee Threat",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/barcelona-star-facing-extended-ban-referee-threat",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "‘Don’t F--- With Me!’—Barcelona Star Facing Extended Ban for Rogue Referee Threat",
+          "url": "https://www.si.com/soccer/barcelona-star-facing-extended-ban-referee-threat",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barcelona Player Ratings vs. Villarreal: Inspired Comeback Creates Buffer at La Liga Summit",
+      "summary": "Barcelona Player Ratings vs. Villarreal: Inspired Comeback Creates Buffer at La Liga Summit",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/barcelona-player-ratings-vs-villarreal-comeback-buffer-la-liga-summit",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona Player Ratings vs. Villarreal: Inspired Comeback Creates Buffer at La Liga Summit",
+          "url": "https://www.si.com/soccer/barcelona-player-ratings-vs-villarreal-comeback-buffer-la-liga-summit",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "The 30 Best Barcelona Players of All Time—Ranked",
+      "summary": "The 30 Best Barcelona Players of All Time—Ranked",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/best-barcelona-players-of-all-time-ranked",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "The 30 Best Barcelona Players of All Time—Ranked",
+          "url": "https://www.si.com/soccer/best-barcelona-players-of-all-time-ranked",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Universal 28m 🚨 Hansi Flick: \"Marc Bernal's injury is not serious, but he will miss the next match and may also miss the Atlético Madrid clash.\" View on X",
+      "summary": "Barça Universal 28m 🚨 Hansi Flick: \"Marc Bernal's injury is not serious, but he will miss the next match and may also miss the Atlético Madrid clash.\" View on X",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://twitter.com/BarcaUniversal/status/2126656540476141640",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Barça Universal 28m 🚨 Hansi Flick: \"Marc Bernal's injury is not serious, but he will miss the next match and may also miss the Atlético Madrid clash.\" View on X",
+          "url": "https://twitter.com/BarcaUniversal/status/2126656540476141640",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 1d Marc Bernal misses training ahead of Barcelona’s clash with Deportivo The midfielder could still be available for the game.",
+      "summary": "www.barcablaugranes.com • 1d Marc Bernal misses training ahead of Barcelona’s clash with Deportivo The midfielder could still be available for the game.",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/barcelona-team-news/139196/marc-bernal-misses-training-ahead-deportivo?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 1d Marc Bernal misses training ahead of Barcelona’s clash with Deportivo The midfielder could still be available for the game.",
+          "url": "https://www.barcablaugranes.com/barcelona-team-news/139196/marc-bernal-misses-training-ahead-deportivo?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    }
+  ]
+}
